@@ -1,0 +1,14 @@
+﻿/doll 0000
+	[HG] **** Welrod
+
+/equip 0000
+	[ACC] *** BM 3-12x40
+
+/isgood %name%
+
+
+/horoscope 
+	Today is your (lucky|) day. Try building [HG]
+
+Conder timer
+	Notify

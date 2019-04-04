@@ -1,0 +1,11 @@
+[
+  "'/doll %hh:mm%' \r\nGet the possible outcome of T-doll production.",
+
+  "'/equip %hh:mm%' \r\nGet the possible outcome of equip production.",
+
+  "'/isgood %doll name%' \r\nGet quick summary on doll.",
+
+  "'/poke' \r\nDon't tease me.",
+
+  "'/help' \r\nGet commands list."
+]

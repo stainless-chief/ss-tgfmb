@@ -1,6 +1,8 @@
 ﻿using FrontlineMaidBot.Models;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 namespace FrontlineMaidBot.Helpers
@@ -28,8 +30,9 @@ namespace FrontlineMaidBot.Helpers
 
             if(fixedTime.Length > 4)
             {
-                fixedTime.Remove(4, fixedTime.Length - 4);
+                fixedTime = fixedTime.Remove(4, fixedTime.Length - 4);
             }
+
 
             if (fixedTime.Length < 4)
             {
@@ -40,5 +43,26 @@ namespace FrontlineMaidBot.Helpers
 
             return fixedTime;
         }
+
+        //private static void DoDirtyWork(string filename)
+        //{
+        //    var ss = new List<ProductionResult>();
+
+        //    var str = File.ReadAllLines(filename);
+
+        //    foreach (var item in str)
+        //    {
+        //        var spl = item.Split('—');
+
+        //        ss.Add(new ProductionResult
+        //        {
+        //            Time = NormalizeTime(spl[0]),
+        //            DisplayTime = spl[0],
+        //            Category = "[Equipment]",
+        //            Name = spl[1]
+        //        });
+        //    }
+        //    var f = JsonConvert.SerializeObject(ss);
+        //}
     }
 }

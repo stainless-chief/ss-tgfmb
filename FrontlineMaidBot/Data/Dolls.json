@@ -1,18 +1,1210 @@
-﻿[
+[
   {
     "Name": "M1911",
     "Stars": "☆☆☆★★",
     "Category": "HG",
-    "Time": "0020",
-    "DisplayTime":  "00:20",
-    "Summary": "meh"
+    "DisplayTime": "0:20:00",
+    "Time": "0200",
+    "Summary": "No. Has smoke grenade."
   },
   {
     "Name": "Nagant M1895",
     "Stars": "☆☆☆★★",
     "Category": "HG",
-    "Time": "0020",
-    "DisplayTime": "00:20",
-    "Summary": "meh"
+    "DisplayTime": "0:20:00",
+    "Time": "0200",
+    "Summary": "Good loli babushka.\r\n;Excellent firepower tile buff and good tile coverage;\r\nBonus crit tile buff;\r\nVery high FP debuff at night;\r\nHigh base evasion;"
+  },
+  {
+    "Name": "Walther P38",
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "DisplayTime": "0:20:00",
+    "Time": "0200",
+    "Summary": "No.\r\nHas flare but it's useless."
+  },
+  {
+    "Name": "Walther PPK",
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "DisplayTime": "0:22:00",
+    "Time": "0220",
+    "Summary": "Good at early game.\r\nExcellent RoF tile buff and good coverage;\r\nBonus crit tile buff;\r\nVery high evasion"
+  },
+  {
+    "Name": "FNP-9",
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "DisplayTime": "0:25:00",
+    "Time": "0250",
+    "Summary": "Not good."
+  },
+  {
+    "Name": "MP-446",
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "DisplayTime": "0:25:00",
+    "Time": "0250",
+    "Summary": "Good at early game."
+  },
+  {
+    "Name": "Bren Ten",
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "DisplayTime": "0:28:00",
+    "Time": "0280",
+    "Summary": "Good at early game."
+  },
+  {
+    "Name": "USP Compact",
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "DisplayTime": "0:28:00",
+    "Time": "0280",
+    "Summary": "Not good."
+  },
+  {
+    "Name": "Luger P08",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:30:00",
+    "Time": "0300",
+    "Summary": "Niche.\r\nGood tile coverage;\r\nVery high evasion buff at night;"
+  },
+  {
+    "Name": "Mauser C96",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:30:00",
+    "Time": "0300",
+    "Summary": "Not good.\r\nHas flare but it's useless."
+  },
+  {
+    "Name": "Type 92",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:35:00",
+    "Time": "0350",
+    "Summary": "Not good.\r\nUnless you are trying to make IDW unstoppable."
+  },
+  {
+    "Name": "Walther P99",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:35:00",
+    "Time": "0350",
+    "Summary": "Not good."
+  },
+  {
+    "Name": "Astra 357",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:40:00",
+    "Time": "0400",
+    "Summary": "Ok.\r\nGood RoF skill buff;\r\nHigh base HP;\r\nBudget HG."
+  },
+  {
+    "Name": "M9",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:40:00",
+    "Time": "0400",
+    "Summary": "Not much.\r\nHas flashbang."
+  },
+  {
+    "Name": "Makarov",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:40:00",
+    "Time": "0400",
+    "Summary": "Good.\r\nGood FP/RoF tile buff and coverage; \r\nVery high base evasion;\r\nBudget HG."
+  },
+  {
+    "Name": "Tokarev",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "0:45:00",
+    "Time": "0450",
+    "Summary": "Not good."
+  },
+  {
+    "Name": "H&K MK 23",
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "0:50:00",
+    "Time": "0500",
+    "Summary": "Very good.\r\nExcellent FP skill buff at night, still decent at day;\r\nExcellent FP tile buff and coverage;\r\nHigh base HP;"
+  },
+  {
+    "Name": "M1873 SAA",
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "0:50:00",
+    "Time": "0500",
+    "Summary": "Good.\r\nGood FP skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP."
+  },
+  {
+    "Name": "JSL Spitfire",
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "0:52:00",
+    "Time": "0520",
+    "Summary": "Ok.\r\nExcellent FP tile buff;\r\nBonus accuracy tile buff;\r\nNice hat;"
+  },
+  {
+    "Name": "Daewoo K5",
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "0:53:00",
+    "Time": "0530",
+    "Summary": "Very good.\r\nGood variable skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP."
+  },
+  {
+    "Name": "P7",
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "0:55:00",
+    "Time": "0550",
+    "Summary": "Niche, Ok.\r\nGood evasion skill;\r\nDecent tile coverage;\r\nBonus RoF tile buff;\r\nHigh base evasion."
+  },
+  {
+    "Name": "Stechkin",
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "0:55:00",
+    "Time": "0550",
+    "Summary": "Very good.\r\nGood RoF skill buff;\r\nGood RoF tile buff and coverage;\r\nBonus FP tile buff;\r\nHigh base HP."
+  },
+  {
+    "Name": "Welrod Mk II",
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "1:00:00",
+    "Time": "1000",
+    "Summary": "Very good.\r\nExcellent FP/RoF tile buff and coverage;\r\nHigh base HP;\r\nHigh base evasion;"
+  },
+  {
+    "Name": "Thompson Contender",
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "1:02:00",
+    "Time": "1020",
+    "Summary": "Very good.\r\nExcellent FP tile buff and coverage;\r\nGood bonus crit rate tile;\r\nUnique skill redirecting ally fire and amplifying all damage taken to target."
+  },
+  {
+    "Name": "Px4 Storm",
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "1:04:00",
+    "Time": "1040",
+    "Summary": "Good."
+  },
+  {
+    "Name": "Calico M950A",
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "1:05:00",
+    "Time": "1050",
+    "Summary": "Very good.\r\nExcellent RoF skill buff;\r\nExcellent RoF tile buff;\r\nBonus accuracy tile buff;\r\nHigh base HP."
+  },
+  {
+    "Name": "NZ75",
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "1:05:00",
+    "Time": "1050",
+    "Summary": "Good, but niche.\r\nGood FP tile buff and excellent coverage;\r\nExcellent evasion tile buff."
+  },
+  {
+    "Name": "Grizzly Mark V",
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "1:10:00",
+    "Time": "1100",
+    "Summary": "Very good. \r\nExcellent firepower skill buff; \r\nExcellent FP tile buff and good coverage; \r\nBonus evasion tile buff;\r\nVery high base HP;"
+  },
+  {
+    "Name": "IDW",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:10:00",
+    "Time": "1100",
+    "Summary": "That's... a weird cat."
+  },
+  {
+    "Name": "PP-2000",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:10:00",
+    "Time": "1100",
+    "Summary": "No."
+  },
+  {
+    "Name": "Spectre M4",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:20:00",
+    "Time": "1200",
+    "Summary": "No."
+  },
+  {
+    "Name": "M45",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:20:00",
+    "Time": "1200",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "Type 64",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:25:00",
+    "Time": "1250",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "Beretta M38",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:30:00",
+    "Time": "1300",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "M3",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:30:00",
+    "Time": "1300",
+    "Summary": "No."
+  },
+  {
+    "Name": "MP40",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:30:00",
+    "Time": "1300",
+    "Summary": "No."
+  },
+  {
+    "Name": "Micro-UZI",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "1:40:00",
+    "Time": "1400",
+    "Summary": "Not very good, but can try.\r\nHigh base evasion;\r\nMolotov skill;"
+  },
+  {
+    "Name": "Sten Mark II",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "1:40:00",
+    "Time": "1400",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "Lithgow F1",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "1:50:00",
+    "Time": "1500",
+    "Summary": "She is clever girl."
+  },
+  {
+    "Name": "PPSh-41",
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "DisplayTime": "1:50:00",
+    "Time": "1500",
+    "Summary": "No."
+  },
+  {
+    "Name": "Ingram MAC-10",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:00:00",
+    "Time": "2000",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "Skorpion",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:00:00",
+    "Time": "2000",
+    "Summary": "Good for early game.\r\nVery high base evasion;\r\nGood tile buff;\r\nMolotov skill;\r\nTwin tails;"
+  },
+  {
+    "Name": "Z-62",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:05:00",
+    "Time": "2050",
+    "Summary": "Good.\r\nHigh base evasion;\r\nHigh base FP;\r\nGood tile coverage;\r\nMolotov skill;"
+  },
+  {
+    "Name": "PPS-43",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:10:00",
+    "Time": "2100",
+    "Summary": "Very good.\r\nVery high base FP;\r\nGood tile coverage;\r\nGood grenade skill;"
+  },
+  {
+    "Name": "UMP45",
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:15:00",
+    "Time": "2150",
+    "Summary": "Very good.\r\nGood balanced stats;\r\nLow initial CD;\r\nExcellent tile buff and coverage;"
+  },
+  {
+    "Name": "UMP9",
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:15:00",
+    "Time": "2150",
+    "Summary": "Very good.\r\nGood balanced stats;\r\nGood tile coverage;"
+  },
+  {
+    "Name": "Shipka",
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:18:00",
+    "Time": "2180",
+    "Summary": "No."
+  },
+  {
+    "Name": "PP-19-01",
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:18:00",
+    "Time": "2180",
+    "Summary": "Good.\r\nHigh base HP;\r\nLow initial CD;"
+  },
+  {
+    "Name": "MP5",
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:20:00",
+    "Time": "2200",
+    "Summary": "No."
+  },
+  {
+    "Name": "PP-90",
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:20:00",
+    "Time": "2200",
+    "Summary": "No."
+  },
+  {
+    "Name": "Suomi",
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:25:00",
+    "Time": "2250",
+    "Summary": "Not very good.\r\nVery high base HP;\r\nGood skill uptime"
+  },
+  {
+    "Name": "G36C",
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:30:00",
+    "Time": "2300",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage;"
+  },
+  {
+    "Name": "Thompson",
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:30:00",
+    "Time": "2300",
+    "Summary": "Good.\r\nVery high base HP."
+  },
+  {
+    "Name": "SR-3MP",
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:33:00",
+    "Time": "2330",
+    "Summary": "Good.\r\nHigh base HP and base FP\r\nExcellent tile buff and coverage;\r\nUnique and devastating self-buff;"
+  },
+  {
+    "Name": "Type79",
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:35:00",
+    "Time": "2350",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff."
+  },
+  {
+    "Name": "Vector",
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:35:00",
+    "Time": "2350",
+    "Summary": "Good.\r\nHigh base HP;\r\nHigh base FP;\r\nGood tile buff;\r\nMOLOTOV;"
+  },
+  {
+    "Name": "Galil",
+    "Stars": "☆☆☆★★",
+    "Category": "AR",
+    "DisplayTime": "2:40:00",
+    "Time": "2400",
+    "Summary": "No."
+  },
+  {
+    "Name": "SIG-510",
+    "Stars": "☆☆☆★★",
+    "Category": "AR",
+    "DisplayTime": "2:40:00",
+    "Time": "2400",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "F2000",
+    "Stars": "☆☆☆★★",
+    "Category": "AR",
+    "DisplayTime": "2:45:00",
+    "Time": "2450",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "Type 63",
+    "Stars": "☆☆☆★★",
+    "Category": "AR",
+    "DisplayTime": "2:45:00",
+    "Time": "2450",
+    "Summary": "No."
+  },
+  {
+    "Name": "G3",
+    "Stars": "☆☆☆★★",
+    "Category": "AR",
+    "DisplayTime": "2:50:00",
+    "Time": "2500",
+    "Summary": "No."
+  },
+  {
+    "Name": "L85A1",
+    "Stars": "☆☆☆★★",
+    "Category": "AR",
+    "DisplayTime": "2:50:00",
+    "Time": "2500",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "StG44",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "3:00:00",
+    "Time": "3000",
+    "Summary": "No."
+  },
+  {
+    "Name": "OTs-12",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "3:10:00",
+    "Time": "3100",
+    "Summary": "Very good for early game."
+  },
+  {
+    "Name": "FN-49",
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "DisplayTime": "3:10:00",
+    "Time": "3100",
+    "Summary": "No."
+  },
+  {
+    "Name": "G43",
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "DisplayTime": "3:10:00",
+    "Time": "3100",
+    "Summary": "No."
+  },
+  {
+    "Name": "AK-47",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "3:20:00",
+    "Time": "3200",
+    "Summary": "Ghetto Gyaru"
+  },
+  {
+    "Name": "FN FNC",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "3:20:00",
+    "Time": "3200",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "BM 59",
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "DisplayTime": "3:20:00",
+    "Time": "3200",
+    "Summary": "No."
+  },
+  {
+    "Name": "Type 56-1",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:25:00",
+    "Time": "3250",
+    "Summary": "No."
+  },
+  {
+    "Name": "XM8",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:25:00",
+    "Time": "3250",
+    "Summary": "Good."
+  },
+  {
+    "Name": "AS Val",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:30:00",
+    "Time": "3300",
+    "Summary": "No."
+  },
+  {
+    "Name": "FAMAS",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:30:00",
+    "Time": "3300",
+    "Summary": "No."
+  },
+  {
+    "Name": "Tavor",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:30:00",
+    "Time": "3300",
+    "Summary": "Good.\r\nGreat overall stats\r\nGood burst damage skill;\r\nGood evasion buff for SMGs;"
+  },
+  {
+    "Name": "Simonova",
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "DisplayTime": "3:30:00",
+    "Time": "3300",
+    "Summary": "No."
+  },
+  {
+    "Name": "SVT-38",
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "DisplayTime": "3:30:00",
+    "Time": "3300",
+    "Summary": "No."
+  },
+  {
+    "Name": "9A-91",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:35:00",
+    "Time": "3350",
+    "Summary": "Very good.\r\nHigh damage during night;\r\nGood RoF synergizing her FP buff;\r\nNight princess;\r\nSecond best maid;"
+  },
+  {
+    "Name": "G36",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:40:00",
+    "Time": "3400",
+    "Summary": "Very good.\r\nGreat tile buff for offtank SMGs;\r\nGood initial CD and great uptime;\r\nBeautiful and smart;"
+  },
+  {
+    "Name": "Ribeyrolles",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:40:00",
+    "Time": "3400",
+    "Summary": "Very good.\r\nVery high base FP;\r\nTiles buff other ARs;\r\nPowerful supportive skill;"
+  },
+  {
+    "Name": "M14",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "3:40:00",
+    "Time": "3400",
+    "Summary": "Very good.\r\nI don't want no teenage queen\r\nI just want my M-14;"
+  },
+  {
+    "Name": "SV-98",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "3:40:00",
+    "Time": "3400",
+    "Summary": "Good.\r\nGood overall stats;Good budget RF;"
+  },
+  {
+    "Name": "FN FAL",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:45:00",
+    "Time": "3450",
+    "Summary": "Good.\r\nHigh base FP;\r\nGood evasion tile buff and coverage;\r\nGood grenades;\r\n;"
+  },
+  {
+    "Name": "T91",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:48:00",
+    "Time": "3480",
+    "Summary": "Good for night.\r\nHigh damage during Night;\r\nDecent FP/Eva tile;\r\nBetter skill uptime than her night competitors;"
+  },
+  {
+    "Name": "Type95",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:50:00",
+    "Time": "3500",
+    "Summary": "Good.\r\nHigh base FP benefiting her damage buff;\r\nVery low initial CD with incredible skill uptime;\r\nVery consistent DPS in long fights;"
+  },
+  {
+    "Name": "Type97",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:50:00",
+    "Time": "3500",
+    "Summary": "Good.\r\nHigh base FP synergizing her RoF buff;\r\nVery low initial CD with incredible skill uptime;\r\nVery consistent DPS in long fights;\r\nGood eva tile buff & placement;"
+  },
+  {
+    "Name": "OTs-44",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "3:50:00",
+    "Time": "3500",
+    "Summary": "She is cute."
+  },
+  {
+    "Name": "Type 88",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "3:50:00",
+    "Time": "3500",
+    "Summary": "No."
+  },
+  {
+    "Name": "K2",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:52:00",
+    "Time": "3520",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "MDR",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:53:00",
+    "Time": "3530",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "HK416",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:55:00",
+    "Time": "3550",
+    "Summary": "Good.\r\nGreat overall stats;\r\nHighest single nade multiplier;\r\nStrong FP tile buff;"
+  },
+  {
+    "Name": "RFB",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:58:00",
+    "Time": "3580",
+    "Summary": "Very good.\r\nVery high base FP;\r\nVery high base Accuracy;\r\nUnique skill that changes her targeting to backline;\r\nGreat tile buffs and coverage;"
+  },
+  {
+    "Name": "M1 Garand",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "4:00:00",
+    "Time": "4000",
+    "Summary": "Ok.\r\nAuto-retarget backrow;\r\nGood overall stats;\r\nGood budget RF;"
+  },
+  {
+    "Name": "G11",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:04:00",
+    "Time": "4040",
+    "Summary": "Very good.r\nUnusually high base RoF;\r\nOverwhelmingly high DPS thanks to her powerful skill;\r\nStrong FP tile buff;"
+  },
+  {
+    "Name": "G41",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:05:00",
+    "Time": "4050",
+    "Summary": "Very good.\r\nGreat overall stats, jack of all trades;\r\nGood initial CD and great uptime;"
+  },
+  {
+    "Name": "Zas M21",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:05:00",
+    "Time": "4050",
+    "Summary": "Very good.\r\nHigh base FP;\r\nVersatile skill, switching between AOE and self-buff depending on battle;\r\nGood initial CD;\r\nFastest Grenade priming animation;\r\nNade takes very short time to be launched;\r\nGood nade radius (2.5 yards);"
+  },
+  {
+    "Name": "AN-94",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:09:00",
+    "Time": "4090",
+    "Summary": "Very good."
+  },
+  {
+    "Name": "Mosin Nagant",
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:10:00",
+    "Time": "4100",
+    "Summary": "Ok. Has a special cape that boosts her FP and crit damage significantly."
+  },
+  {
+    "Name": "K11",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:11:00",
+    "Time": "4110",
+    "Summary": "Good."
+  },
+  {
+    "Name": "AK-12",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:12:00",
+    "Time": "4120",
+    "Summary": "Very good."
+  },
+  {
+    "Name": "SVD",
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:15:00",
+    "Time": "4150",
+    "Summary": "Very good.\r\nGreat overall stats;\r\nRoF self-buff;"
+  },
+  {
+    "Name": "G28",
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:20:00",
+    "Time": "4200",
+    "Summary": "Good.\r\nHigh base RoF;\r\nFP self-buff"
+  },
+  {
+    "Name": "PSG1",
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:20:00",
+    "Time": "4200",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Springfield",
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:25:00",
+    "Time": "4250",
+    "Summary": "Good.\r\nHas a special ammo that boosts her RoF significantly;\r\nCan bake;"
+  },
+  {
+    "Name": "PTRD",
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:30:00",
+    "Time": "4300",
+    "Summary": "No."
+  },
+  {
+    "Name": "PzB 39",
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:30:00",
+    "Time": "4300",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Carcano M1891",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:38:00",
+    "Time": "4380",
+    "Summary": "Good.\r\nSkill buffs RFs even further;\r\nBuffs on other RFs pretty much ties down to her RoF;\r\nDecent FP"
+  },
+  {
+    "Name": "Kar98k",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:40:00",
+    "Time": "4400",
+    "Summary": "Very good dorm decoration."
+  },
+  {
+    "Name": "Carcano M91∕38",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:42:00",
+    "Time": "4420",
+    "Summary": "Very doog.\r\nExtremely high damage (45x) on skill against non-elite;\r\nLow intial cooldown and cooldown;\r\nSignificantly higher FP than average;\r\nSkillshot doesn't miss;"
+  },
+  {
+    "Name": "NTW-20",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:45:00",
+    "Time": "4450",
+    "Summary": "Good.\r\nHighest base FP among RFs"
+  },
+  {
+    "Name": "WA2000",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:50:00",
+    "Time": "4500",
+    "Summary": "Very good.\r\nHigh base RoF;\r\nPowerful RoF self-buff;"
+  },
+  {
+    "Name": "AAT-52",
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "DisplayTime": "4:50:00",
+    "Time": "4500",
+    "Summary": "No."
+  },
+  {
+    "Name": "FG42",
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "DisplayTime": "4:50:00",
+    "Time": "4500",
+    "Summary": "No."
+  },
+  {
+    "Name": "IWS-2000",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:52:00",
+    "Time": "4520",
+    "Summary": "Good.\r\nVery high base FP;\r\nMassive FP self-buff;"
+  },
+  {
+    "Name": "M99",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:55:00",
+    "Time": "4550",
+    "Summary": "Good.\r\nVery high base FP;"
+  },
+  {
+    "Name": "Lee Enfield",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "5:00:00",
+    "Time": "5000",
+    "Summary": "Very good.\r\nPowerful FP self-buff"
+  },
+  {
+    "Name": "DP28",
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "DisplayTime": "5:00:00",
+    "Time": "5000",
+    "Summary": "No."
+  },
+  {
+    "Name": "MG34",
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "DisplayTime": "5:00:00",
+    "Time": "5000",
+    "Summary": "No."
+  },
+  {
+    "Name": "LWMMG",
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "DisplayTime": "5:10:00",
+    "Time": "5100",
+    "Summary": "Good.\r\nHigh base FP;\r\nLow initial cooldown;"
+  },
+  {
+    "Name": "Bren",
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "5:20:00",
+    "Time": "5200",
+    "Summary": "No."
+  },
+  {
+    "Name": "M1919A4",
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "5:40:00",
+    "Time": "5400",
+    "Summary": "Good.\r\nHigh base FP;\r\nLow initial cooldown;\r\nCute;"
+  },
+  {
+    "Name": "MG42",
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "5:50:00",
+    "Time": "5500",
+    "Summary": "No."
+  },
+  {
+    "Name": "M60",
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "6:10:00",
+    "Time": "6100",
+    "Summary": "No."
+  },
+  {
+    "Name": "M2HB",
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "6:10:00",
+    "Time": "6100",
+    "Summary": "Very good.\r\nVery high base FP;\r\nGood passive skill"
+  },
+  {
+    "Name": "Type 80",
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:15:00",
+    "Time": "6150",
+    "Summary": "Ok. All round decent stats"
+  },
+  {
+    "Name": "AEK-999",
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:20:00",
+    "Time": "6200",
+    "Summary": "Ok for night stuff.\r\nGood armor tiles"
+  },
+  {
+    "Name": "Mk48",
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:20:00",
+    "Time": "6200",
+    "Summary": "Good.\r\nHigher clip size than her competitors;\r\nLow initial cooldown"
+  },
+  {
+    "Name": "Ameli",
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:25:00",
+    "Time": "6250",
+    "Summary": "Ok for night with special eqip."
+  },
+  {
+    "Name": "M1918 BAR",
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:25:00",
+    "Time": "6250",
+    "Summary": "Ok.\r\nHigh base FP;\r\nHigh base accuracy;\r\nGood armor tile;"
+  },
+  {
+    "Name": "Type88",
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:28:00",
+    "Time": "6280",
+    "Summary": "I really don't know her."
+  },
+  {
+    "Name": "MG3",
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:30:00",
+    "Time": "6300",
+    "Summary": "She is cute."
+  },
+  {
+    "Name": "PK",
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:30:00",
+    "Time": "6300",
+    "Summary": "Very good.\r\nHigh base FP;\r\nHigh clip size;\r\nPassive skill;"
+  },
+  {
+    "Name": "Negev",
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:35:00",
+    "Time": "6350",
+    "Summary": "Good.\r\nHigh base accuracy;\r\nExcellent armor tile and coverage;"
+  },
+  {
+    "Name": "MG4",
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:40:00",
+    "Time": "6400",
+    "Summary": "No."
+  },
+  {
+    "Name": "MG5",
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:45:00",
+    "Time": "6450",
+    "Summary": "Very good.\r\nHigh clip size;\r\nGood armor tile;\r\nPassive skill;"
+  },
+  {
+    "Name": "PKP Pecheneg",
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:50:00",
+    "Time": "6500",
+    "Summary": "Very good.\r\nHigh clip size;\r\nGood armor tile;\r\nPassive skill;"
+  },
+  {
+    "Name": "M1014",
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "DisplayTime": "7:14:00",
+    "Time": "7140",
+    "Summary": "Ok.\r\nHigh base HP;\r\nGood tile buff and coverage;"
+  },
+  {
+    "Name": "NS2000",
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "DisplayTime": "7:15:00",
+    "Time": "7150",
+    "Summary": "Ok.\r\nGood tile buff and coverage;\r\nAble to clean up with Burst Impact;"
+  },
+  {
+    "Name": "M500",
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "DisplayTime": "7:20:00",
+    "Time": "7200",
+    "Summary": "Ok.\r\nGood tile buff and coverage;\r\nHas nekomimi, but not annoying;"
+  },
+  {
+    "Name": "KS-23",
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "DisplayTime": "7:25:00",
+    "Time": "7250",
+    "Summary": "Ok.\r\nHigh base HP;\r\nMassive FP for a SG;"
+  },
+  {
+    "Name": "RMB-93",
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "DisplayTime": "7:30:00",
+    "Time": "7300",
+    "Summary": "OK.\r\nGood armor;\r\nAble to clean up with Burst Impact;"
+  },
+  {
+    "Name": "M1897",
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "7:30:00",
+    "Time": "7300",
+    "Summary": "Ok.\r\nHigh base HP;"
+  },
+  {
+    "Name": "M590",
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "DisplayTime": "7:40:00",
+    "Time": "7400",
+    "Summary": "Ok.\r\nHighest armor after skill;\r\nGood tile coverage;"
+  },
+  {
+    "Name": "SPAS-12",
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "DisplayTime": "7:40:00",
+    "Time": "7400",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
+  },
+  {
+    "Name": "Ithaca M37",
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "DisplayTime": "7:45:00",
+    "Time": "7450",
+    "Summary": "Good.\r\nGood tile buff and coverage;\r\nAble to clean up with Burst Impact;"
+  },
+  {
+    "Name": "Super-Shorty",
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "DisplayTime": "7:50:00",
+    "Time": "7500",
+    "Summary": "Ok.\r\nVery short;\r\nHighest evasion among SGs"
+  },
+  {
+    "Name": "USAS-12",
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "DisplayTime": "7:55:00",
+    "Time": "7550",
+    "Summary": "Good.\r\nHigh RoF that is buffed to near RoF cap at start of battle;\r\nHigh clip size that is buffed further with said steroid"
+  },
+  {
+    "Name": "KSG",
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:00:00",
+    "Time": "8000",
+    "Summary": "Good.\r\nHighest armor among SGs;\r\nGood tile buff and coverage;"
+  },
+  {
+    "Name": "Saiga-12",
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:05:00",
+    "Time": "8050",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "FP6",
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:06:00",
+    "Time": "8060",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "S.A.T.8",
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:10:00",
+    "Time": "8100",
+    "Summary": "Very good.\r\nFluffy;\r\nVery high base HP;\r\nGood tile buff and coverage;\r\nSpammable shield;"
+  },
+  {
+    "Name": "AA-12",
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:12:00",
+    "Time": "8120",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
   }
 ]

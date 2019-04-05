@@ -52,7 +52,7 @@ namespace FrontlineMaidBot.Commands
             if (string.IsNullOrEmpty(name))
                 return null;
 
-            return _dolls.FirstOrDefault(x => x.Name.ToLower().Contains(name.ToLower()));
+            return _dolls.FirstOrDefault(x => x.Name.ToLower().Equals(name.ToLower()));
         }
     }
 }

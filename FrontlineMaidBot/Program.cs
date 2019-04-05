@@ -15,6 +15,6 @@ namespace FrontlineMaidBot
                 .Build();
 
             host.Run();
-        }     
+        }
     }
 }

@@ -14,29 +14,47 @@ namespace FrontlineMaidBot
         public FrontlineMaidBot(IOptions<BotOptions<FrontlineMaidBot>> botOptions)
             : base(botOptions)
         {
+            //Console.WriteLine("FrontlineMaidBot - Ok");
+            //Console.WriteLine("API:" + botOptions.Value.ApiToken);
         }
 
 
         public override async Task HandleUnknownUpdate(Update update)
         {
-            if (update.Message.Chat.Type != ChatType.Private)
+            //Console.WriteLine(update.Message.Text);
+
+            try
             {
-                await Task.CompletedTask;
+                if (update.Message.Chat.Type != ChatType.Private)
+                {
+                    await Task.CompletedTask;
+                }
+                else
+                {
+                    await Client.SendTextMessageAsync
+                    (
+                        update.Message.Chat.Id,
+                        string.Format(_unknownUpdateRespose, update.Message.From.FirstName),
+                        replyToMessageId: update.Message.MessageId
+                    );
+                }
             }
-            else
+            catch(Exception ee)
             {
-                await Client.SendTextMessageAsync
-                (
-                    update.Message.Chat.Id,
-                    string.Format(_unknownUpdateRespose, update.Message.From.FirstName),
-                    replyToMessageId: update.Message.MessageId
-                );
+                throw ee;
             }
         }
 
         public override Task HandleFaultedUpdate(Update update, Exception e)
         {
-            return Task.CompletedTask;
+            try
+            {
+                return Task.CompletedTask;
+            }
+            catch(Exception ee)
+            {
+                throw ee;
+            }
         }
     }
 }

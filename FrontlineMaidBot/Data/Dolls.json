@@ -9,6 +9,7 @@
   },
   {
     "Name": "M1895",
+    "Alias": [ "babushka" ],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:20:00",
@@ -33,6 +34,7 @@
   },
   {
     "Name": "FN FNP9",
+    "Alias": [ "fnp9", "ff fnp9" ],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:25:00",
@@ -41,6 +43,7 @@
   },
   {
     "Name": "MP-446",
+    "Alias": [ "mp446", "Viking" ],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:25:00",
@@ -49,6 +52,7 @@
   },
   {
     "Name": "Bren Ten",
+    "Alias": [ "brenten"],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:28:00",
@@ -57,6 +61,7 @@
   },
   {
     "Name": "Gr USPCompact",
+    "Alias": [ "USP Compact"],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:28:00",
@@ -177,6 +182,7 @@
   },
   {
     "Name": "Welrod MkII",
+    "Alias": [ "welrod" ],
     "Stars": "★★★★★",
     "Category": "HG",
     "DisplayTime": "1:00:00",
@@ -201,6 +207,7 @@
   },
   {
     "Name": "M950A",
+    "Alias": [ "calico"],
     "Stars": "★★★★★",
     "Category": "HG",
     "DisplayTime": "1:05:00",
@@ -289,6 +296,7 @@
   },
   {
     "Name": "Micro UZI",
+    "Alias": [ "micro-uzi"],
     "Stars": "☆☆★★★",
     "Category": "SMG",
     "DisplayTime": "1:40:00",
@@ -321,6 +329,7 @@
   },
   {
     "Name": "Ingram",
+    "Alias": [ "mac-10" ],
     "Stars": "☆☆★★★",
     "Category": "SMG",
     "DisplayTime": "2:00:00",
@@ -385,6 +394,7 @@
   },
   {
     "Name": "Gr MP5",
+    "Alias": [ "mp5"],
     "Stars": "☆★★★★",
     "Category": "SMG",
     "DisplayTime": "2:20:00",
@@ -409,6 +419,7 @@
   },
   {
     "Name": "Gr G36c",
+    "Alias": [ "g36c"],
     "Stars": "★★★★★",
     "Category": "SMG",
     "DisplayTime": "2:30:00",
@@ -425,6 +436,7 @@
   },
   {
     "Name": "SR-3MP",
+    "Alias": [ "shrimp"],
     "Stars": "★★★★★",
     "Category": "SMG",
     "DisplayTime": "2:33:00",
@@ -481,6 +493,7 @@
   },
   {
     "Name": "Gr G3",
+    "Alias": [ "g3"],
     "Stars": "☆☆☆★★",
     "Category": "AR",
     "DisplayTime": "2:50:00",
@@ -617,6 +630,7 @@
   },
   {
     "Name": "Gr G36",
+    "Alias": [ "g36", "maid"],
     "Stars": "☆★★★★",
     "Category": "AR",
     "DisplayTime": "3:40:00",
@@ -649,6 +663,7 @@
   },
   {
     "Name": "FAL",
+    "Alias": [ "fn fal"],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "3:45:00",
@@ -665,6 +680,7 @@
   },
   {
     "Name": "Type95",
+    "Alias": [ "type-95", "qbz-95" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "3:50:00",
@@ -673,6 +689,7 @@
   },
   {
     "Name": "Type97",
+    "Alias": [ "type-97", "qbz-97" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "3:50:00",
@@ -713,6 +730,7 @@
   },
   {
     "Name": "416",
+    "Alias": [ "hk416"],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "3:55:00",
@@ -737,6 +755,7 @@
   },
   {
     "Name": "Gr G11",
+    "Alias": [ "g11"],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "4:04:00",
@@ -745,6 +764,7 @@
   },
   {
     "Name": "Gr G41",
+    "Alias": [ "g41", "homete"],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "4:05:00",
@@ -753,6 +773,7 @@
   },
   {
     "Name": "Zas M21",
+    "Alias": [ "zas" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "4:05:00",
@@ -801,6 +822,7 @@
   },
   {
     "Name": "Gr G28",
+    "Alias": [ "g28"],
     "Stars": "☆★★★★",
     "Category": "RF",
     "DisplayTime": "4:20:00",
@@ -809,6 +831,7 @@
   },
   {
     "Name": "Gr PSG-1",
+    "Alias": [ "psg" ],
     "Stars": "☆★★★★",
     "Category": "RF",
     "DisplayTime": "4:20:00",
@@ -1057,6 +1080,7 @@
   },
   {
     "Name": "Gr MG4",
+    "Alias": [ "mg4"],
     "Stars": "★★★★★",
     "Category": "MG",
     "DisplayTime": "6:40:00",
@@ -1065,6 +1089,7 @@
   },
   {
     "Name": "Gr MG5",
+    "Alias": [ "mg5" ],
     "Stars": "★★★★★",
     "Category": "MG",
     "DisplayTime": "6:45:00",

@@ -33,13 +33,16 @@ namespace FrontlineMaidBot.Commands
 
             if(doll != null)
             {
-                msg = $"[{doll.Category}] {doll.Name} {Environment.NewLine} {doll.Summary}";
+                var strAka = doll.Alias == null ? string.Empty : $"Also known as <b>{string.Join(", ", doll.Alias)}</b>{Environment.NewLine}";
+
+                msg = $"[{doll.Category}]\t<b>{doll.Name}</b>{Environment.NewLine}{strAka}{Environment.NewLine}<code>{doll.Summary}</code>";
             }
 
             await Bot.Client.SendTextMessageAsync
             (
                 update.Message.Chat.Id,
                 msg,
+                Telegram.Bot.Types.Enums.ParseMode.Html,
                 replyToMessageId: update.Message.MessageId
             );
 
@@ -52,7 +55,17 @@ namespace FrontlineMaidBot.Commands
             if (string.IsNullOrEmpty(name))
                 return null;
 
-            return _dolls.FirstOrDefault(x => x.Name.ToLower().Equals(name.ToLower()));
+            var firstRun = _dolls.FirstOrDefault(x => x.Name.ToLower().Equals(name.ToLower()));
+
+            if (firstRun != null)
+                return firstRun;
+
+            var sedondRun = _dolls.Where(x => x.Alias != null).FirstOrDefault(x => x.Alias.Contains(name.ToLower()));
+
+            if (sedondRun != null)
+                return sedondRun;
+
+            return null;
         }
     }
 }

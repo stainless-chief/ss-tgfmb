@@ -43,7 +43,7 @@
   },
   {
     "Name": "MP-446",
-    "Alias": [ "mp446", "Viking" ],
+    "Alias": [ "mp446", "viking" ],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:25:00",
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Gr USPCompact",
-    "Alias": [ "USP Compact"],
+    "Alias": [ "usp"],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:28:00",

@@ -2,7 +2,7 @@
   {
     "Name": "BM 3-12X40",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:05:00",
     "Time": "0005",
     "Summary": null
@@ -10,7 +10,7 @@
   {
     "Name": "AC1 Suppressor",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:07:00",
     "Time": "0007",
     "Summary": null
@@ -18,7 +18,7 @@
   {
     "Name": "EOT 506",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:08:00",
     "Time": "0008",
     "Summary": null
@@ -26,7 +26,7 @@
   {
     "Name": "PEQ-2",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:09:00",
     "Time": "0009",
     "Summary": null
@@ -34,7 +34,7 @@
   {
     "Name": "AMP COMPM2",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:10:00",
     "Time": "0010",
     "Summary": null
@@ -42,7 +42,7 @@
   {
     "Name": "IOP X1 Exoskeleton",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:12:00",
     "Time": "0012",
     "Summary": null
@@ -50,7 +50,7 @@
   {
     "Name": "IOP T1 Exoskeleton",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:12:00",
     "Time": "0012",
     "Summary": null
@@ -58,7 +58,7 @@
   {
     "Name": "ILM Hollow Point Ammo",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:13:00",
     "Time": "0013",
     "Summary": null
@@ -66,7 +66,7 @@
   {
     "Name": "BK Slug",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:14:00",
     "Time": "0014",
     "Summary": null
@@ -74,7 +74,7 @@
   {
     "Name": "＃1 Buckshot",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:14:00",
     "Time": "0014",
     "Summary": null
@@ -82,7 +82,7 @@
   {
     "Name": "M61 Armor-Piercing Ammo",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:15:00",
     "Time": "0015",
     "Summary": null
@@ -90,7 +90,7 @@
   {
     "Name": "Ragged Cape",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:16:00",
     "Time": "0016",
     "Summary": null
@@ -98,7 +98,7 @@
   {
     "Name": "FMJ High-Velocity Ammo",
     "Stars": "☆☆☆★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:18:00",
     "Time": "0018",
     "Summary": null
@@ -106,7 +106,7 @@
   {
     "Name": "LRA 2-12x50",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:20:00",
     "Time": "0020",
     "Summary": null
@@ -114,7 +114,7 @@
   {
     "Name": "AC2 Suppressor",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:22:00",
     "Time": "0022",
     "Summary": null
@@ -122,7 +122,7 @@
   {
     "Name": "EOT 512",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:23:00",
     "Time": "0023",
     "Summary": null
@@ -130,7 +130,7 @@
   {
     "Name": "PEQ-5",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:24:00",
     "Time": "0024",
     "Summary": null
@@ -138,7 +138,7 @@
   {
     "Name": "AMP COMPM4",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:25:00",
     "Time": "0025",
     "Summary": null
@@ -146,7 +146,7 @@
   {
     "Name": "Type 1 Armor Plate",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:26:00",
     "Time": "0026",
     "Summary": null
@@ -154,7 +154,7 @@
   {
     "Name": "IOP X2 Exoskeleton",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:27:00",
     "Time": "0027",
     "Summary": null
@@ -162,7 +162,7 @@
   {
     "Name": "IOP T2 Exoskeleton",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:27:00",
     "Time": "0027",
     "Summary": null
@@ -170,7 +170,7 @@
   {
     "Name": "ILM Hollow Point Ammo (3-Star)",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:28:00",
     "Time": "0028",
     "Summary": null
@@ -178,7 +178,7 @@
   {
     "Name": "FST Slug",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:29:00",
     "Time": "0029",
     "Summary": null
@@ -186,7 +186,7 @@
   {
     "Name": "＃0 Buckshot",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:29:00",
     "Time": "0029",
     "Summary": null
@@ -194,7 +194,7 @@
   {
     "Name": "M993 Armor-Piercing Ammo",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:30:00",
     "Time": "0030",
     "Summary": null
@@ -202,7 +202,7 @@
   {
     "Name": "Camouflage Cape",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:31:00",
     "Time": "0031",
     "Summary": null
@@ -210,7 +210,7 @@
   {
     "Name": "JSP High-Velocity Ammo",
     "Stars": "☆☆★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:33:00",
     "Time": "0033",
     "Summary": null
@@ -218,7 +218,7 @@
   {
     "Name": "PSO-1",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:35:00",
     "Time": "0035",
     "Summary": null
@@ -226,7 +226,7 @@
   {
     "Name": "AC3 Suppressor",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:37:00",
     "Time": "0037",
     "Summary": null
@@ -234,7 +234,7 @@
   {
     "Name": "EOT 516",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:38:00",
     "Time": "0038",
     "Summary": null
@@ -242,7 +242,7 @@
   {
     "Name": "PEQ-15",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:39:00",
     "Time": "0039",
     "Summary": null
@@ -250,7 +250,7 @@
   {
     "Name": "COG M150",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:40:00",
     "Time": "0040",
     "Summary": null
@@ -258,7 +258,7 @@
   {
     "Name": "Type 2 Armor Plate",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:41:00",
     "Time": "0041",
     "Summary": null
@@ -266,7 +266,7 @@
   {
     "Name": "IOP T3 Exoskeleton",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:42:00",
     "Time": "0042",
     "Summary": null
@@ -274,7 +274,7 @@
   {
     "Name": "IOP X3 Exoskeleton",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:42:00",
     "Time": "0042",
     "Summary": null
@@ -282,7 +282,7 @@
   {
     "Name": "ILM Hollow Point Ammo",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:43:00",
     "Time": "0043",
     "Summary": null
@@ -290,7 +290,7 @@
   {
     "Name": "WAD Slug",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:44:00",
     "Time": "0044",
     "Summary": null
@@ -298,7 +298,7 @@
   {
     "Name": "＃00 Buckshot",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:44:00",
     "Time": "0044",
     "Summary": null
@@ -306,7 +306,7 @@
   {
     "Name": "VFL 6-24x56",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:45:00",
     "Time": "0045",
     "Summary": null
@@ -314,7 +314,7 @@
   {
     "Name": "Mk169 Armor-Piercing Ammo",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:45:00",
     "Time": "0045",
     "Summary": null
@@ -322,7 +322,7 @@
   {
     "Name": "Urban Camouflage Cape",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:46:00",
     "Time": "0046",
     "Summary": null
@@ -330,7 +330,7 @@
   {
     "Name": "AC4 Suppressor",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:47:00",
     "Time": "0047",
     "Summary": null
@@ -338,7 +338,7 @@
   {
     "Name": "IOP High-Capacity Ammo Box",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:47:00",
     "Time": "0047",
     "Summary": null
@@ -346,7 +346,7 @@
   {
     "Name": "EOT 518",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:48:00",
     "Time": "0048",
     "Summary": null
@@ -354,7 +354,7 @@
   {
     "Name": "JHP High-Velocity Ammo",
     "Stars": "☆★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:48:00",
     "Time": "0048",
     "Summary": null
@@ -362,7 +362,7 @@
   {
     "Name": "PEQ-16A",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:49:00",
     "Time": "0049",
     "Summary": null
@@ -370,7 +370,7 @@
   {
     "Name": "ITI Mars",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:50:00",
     "Time": "0050",
     "Summary": null
@@ -378,7 +378,7 @@
   {
     "Name": "Type 3 Armor Plate",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:51:00",
     "Time": "0051",
     "Summary": null
@@ -386,7 +386,7 @@
   {
     "Name": "IOP X4 Exoskeleton",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:52:00",
     "Time": "0052",
     "Summary": null
@@ -394,7 +394,7 @@
   {
     "Name": "IOP T4 Exoskeleton",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:52:00",
     "Time": "0052",
     "Summary": null
@@ -402,7 +402,7 @@
   {
     "Name": "ILM Hollow Point Ammo",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:53:00",
     "Time": "0053",
     "Summary": null
@@ -410,7 +410,7 @@
   {
     "Name": "SABOT Slug",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:54:00",
     "Time": "0054",
     "Summary": null
@@ -418,7 +418,7 @@
   {
     "Name": "＃000 Buckshot",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:54:00",
     "Time": "0054",
     "Summary": null
@@ -426,7 +426,7 @@
   {
     "Name": "Mk211 High-Explosive Armor-Piercing Ammo",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:55:00",
     "Time": "0055",
     "Summary": null
@@ -434,7 +434,7 @@
   {
     "Name": "Thermoptic Camouflage Cape",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:56:00",
     "Time": "0056",
     "Summary": null
@@ -442,7 +442,7 @@
   {
     "Name": "IOP Maximum Ammo Box",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:57:00",
     "Time": "0057",
     "Summary": null
@@ -450,7 +450,7 @@
   {
     "Name": "APCR High-Velocity Ammo",
     "Stars": "★★★★★",
-    "Category": "[Equipment]",
+    "Category": "Equipment",
     "DisplayTime": "00:58:00",
     "Time": "0058",
     "Summary": null
@@ -458,7 +458,7 @@
   {
     "Name": "Armor Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "3:00:00",
     "Time": "3000",
     "Summary": null
@@ -466,7 +466,7 @@
   {
     "Name": "Shield Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "3:05:00",
     "Time": "3050",
     "Summary": null
@@ -474,7 +474,7 @@
   {
     "Name": "Provocation Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "3:10:00",
     "Time": "3100",
     "Summary": null
@@ -482,7 +482,7 @@
   {
     "Name": "Sniper Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "3:30:00",
     "Time": "3300",
     "Summary": null
@@ -490,7 +490,7 @@
   {
     "Name": "Bombardment Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "3:35:00",
     "Time": "3350",
     "Summary": null
@@ -498,7 +498,7 @@
   {
     "Name": "Airstrike Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "3:40:00",
     "Time": "3400",
     "Summary": null
@@ -506,7 +506,7 @@
   {
     "Name": "Reinforcement Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "4:00:00",
     "Time": "4000",
     "Summary": null
@@ -514,7 +514,7 @@
   {
     "Name": "Airborne Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "4:05:00",
     "Time": "4050",
     "Summary": null
@@ -522,7 +522,7 @@
   {
     "Name": "Defense Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "4:10:00",
     "Time": "4100",
     "Summary": null
@@ -530,7 +530,7 @@
   {
     "Name": "Warrior Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "4:30:00",
     "Time": "4300",
     "Summary": null
@@ -538,7 +538,7 @@
   {
     "Name": "Fury Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "4:35:00",
     "Time": "4350",
     "Summary": null
@@ -546,7 +546,7 @@
   {
     "Name": "Command Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "5:00:00",
     "Time": "5000",
     "Summary": null
@@ -554,7 +554,7 @@
   {
     "Name": "Rescue Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "5:05:00",
     "Time": "5050",
     "Summary": null
@@ -562,7 +562,7 @@
   {
     "Name": "Illumination Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "5:10:00",
     "Time": "5100",
     "Summary": null
@@ -570,7 +570,7 @@
   {
     "Name": "Landmine Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "5:30:00",
     "Time": "5300",
     "Summary": null
@@ -578,7 +578,7 @@
   {
     "Name": "Rocket Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "5:35:00",
     "Time": "5350",
     "Summary": null
@@ -586,7 +586,7 @@
   {
     "Name": "Construction Fairy",
     "Stars": "☆☆★☆☆",
-    "Category": "[Fairy]",
+    "Category": "Fairy",
     "DisplayTime": "5:40:00",
     "Time": "5400",
     "Summary": null

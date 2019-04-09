@@ -457,31 +457,31 @@
   },
   {
     "Name": "Armor Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "3:00:00",
-    "Time": "3000",
+    "Time": "0300",
     "Summary": null
   },
   {
     "Name": "Shield Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "3:05:00",
-    "Time": "3050",
+    "Time": "0305",
     "Summary": null
   },
   {
     "Name": "Provocation Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "3:10:00",
-    "Time": "3100",
+    "Time": "0310",
     "Summary": null
   },
   {
     "Name": "Sniper Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "3:30:00",
     "Time": "3300",
@@ -489,106 +489,106 @@
   },
   {
     "Name": "Bombardment Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "3:35:00",
-    "Time": "3350",
+    "Time": "0335",
     "Summary": null
   },
   {
     "Name": "Airstrike Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "3:40:00",
-    "Time": "3400",
+    "Time": "0340",
     "Summary": null
   },
   {
     "Name": "Reinforcement Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "4:00:00",
-    "Time": "4000",
+    "Time": "0400",
     "Summary": null
   },
   {
     "Name": "Airborne Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "4:05:00",
-    "Time": "4050",
+    "Time": "0405",
     "Summary": null
   },
   {
     "Name": "Defense Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "4:10:00",
-    "Time": "4100",
+    "Time": "0410",
     "Summary": null
   },
   {
     "Name": "Warrior Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "4:30:00",
-    "Time": "4300",
+    "Time": "0430",
     "Summary": null
   },
   {
     "Name": "Fury Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "4:35:00",
-    "Time": "4350",
+    "Time": "0435",
     "Summary": null
   },
   {
     "Name": "Command Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "5:00:00",
-    "Time": "5000",
+    "Time": "0500",
     "Summary": null
   },
   {
     "Name": "Rescue Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "5:05:00",
-    "Time": "5050",
+    "Time": "0505",
     "Summary": null
   },
   {
     "Name": "Illumination Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "5:10:00",
-    "Time": "5100",
+    "Time": "0510",
     "Summary": null
   },
   {
     "Name": "Landmine Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "5:30:00",
-    "Time": "5300",
+    "Time": "0530",
     "Summary": null
   },
   {
     "Name": "Rocket Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "5:35:00",
-    "Time": "5350",
+    "Time": "0535",
     "Summary": null
   },
   {
     "Name": "Construction Fairy",
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "Fairy",
     "DisplayTime": "5:40:00",
-    "Time": "5400",
+    "Time": "0540",
     "Summary": null
   }
 ]

@@ -477,6 +477,7 @@
   },
   {
     "Name": "FF F2000",
+    "Alias": [ "f2000", "ff f2000"],
     "Stars": "☆☆☆★★",
     "Category": "AR",
     "DisplayTime": "2:45:00",
@@ -550,6 +551,7 @@
   },
   {
     "Name": "FN FNC",
+    "Alias": [ "fnc" ],
     "Stars": "☆☆★★★",
     "Category": "AR",
     "DisplayTime": "3:20:00",
@@ -582,6 +584,7 @@
   },
   {
     "Name": "AS Val",
+    "Alias": [ "asval", "val" ],
     "Stars": "☆★★★★",
     "Category": "AR",
     "DisplayTime": "3:30:00",
@@ -1202,6 +1205,7 @@
   },
   {
     "Name": "S.A.T.8",
+    "Alias": [ "sat8"],
     "Stars": "★★★★★",
     "Category": "SG",
     "DisplayTime": "8:10:00",

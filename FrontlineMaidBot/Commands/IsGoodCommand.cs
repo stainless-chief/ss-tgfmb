@@ -1,4 +1,5 @@
-﻿using FrontlineMaidBot.Interfaces;
+﻿using FrontlineMaidBot.Helpers;
+using FrontlineMaidBot.Interfaces;
 using FrontlineMaidBot.Models;
 using System;
 using System.Collections.Generic;
@@ -15,6 +16,7 @@ namespace FrontlineMaidBot.Commands
         private const string _commandName = "isgood";
         private const string _dataPath = "Dolls.json";
         private const string _default = "I'm sorry. I don't know.";
+        private const string _empty = "Is something wrong?";
 
         private readonly List<ProductionResult> _dolls;
 
@@ -25,18 +27,18 @@ namespace FrontlineMaidBot.Commands
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
+            string msg;
             var input = base.ParseInput(update);
 
-            var doll = GetDoll(input.ArgsInput);
-
-            string msg = _default;
-
-            if(doll != null)
+            if (string.IsNullOrEmpty(input.ArgsInput))
             {
-                var strAka = doll.Alias == null ? string.Empty : $"Also known as <b>{string.Join(", ", doll.Alias)}</b>{Environment.NewLine}";
-
-                msg = $"[{doll.Category}]\t<b>{doll.Name}</b>{Environment.NewLine}{strAka}{Environment.NewLine}<code>{doll.Summary}</code>";
+                msg = _empty;
             }
+            else
+            {
+                msg = Utils.CreateResponse(GetDoll(input.ArgsInput), _default);
+            }
+            
 
             await Bot.Client.SendTextMessageAsync
             (
@@ -50,7 +52,7 @@ namespace FrontlineMaidBot.Commands
         }
 
 
-        public ProductionResult GetDoll(string name)
+        private ProductionResult GetDoll(string name)
         {
             if (string.IsNullOrEmpty(name))
                 return null;
@@ -60,12 +62,13 @@ namespace FrontlineMaidBot.Commands
             if (firstRun != null)
                 return firstRun;
 
-            var sedondRun = _dolls.Where(x => x.Alias != null).FirstOrDefault(x => x.Alias.Contains(name.ToLower()));
+            var secondRun = _dolls.Where(x => x.Alias != null).FirstOrDefault(x => x.Alias.Contains(name.ToLower()));
 
-            if (sedondRun != null)
-                return sedondRun;
+            if (secondRun != null)
+                return secondRun;
 
             return null;
         }
+
     }
 }

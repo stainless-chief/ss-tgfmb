@@ -1522,5 +1522,16 @@
     "DisplayTime": "",
     "Time": "",
     "Summary": "Good.\r\nHigh base HP;"
+  },
+  {
+    "Name": "me",
+    "Summary": "Don't you have something better to do?"
+  },
+  {
+    "Name": "@ChiefNoir",
+    "Alias": [ "ChiefNoir", "chiefnoir", "chief" ],
+    "Stars": "♥",
+    "Category": "Commander",
+    "Summary": "He is great."
   }
 ]

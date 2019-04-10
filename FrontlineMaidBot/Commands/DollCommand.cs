@@ -15,20 +15,29 @@ namespace FrontlineMaidBot.Commands
         private const string _commandName = "doll";
         private const string _dataPath = "Dolls.json";
         private const string _default = "I'm sorry. I can't find anything.";
+        private const string _empty = "Are you tired? I think you need some rest.";
 
-        private readonly List<ProductionResult> _dolls;
+        private readonly IEnumerable<ProductionResult> _dolls;
 
         public DollCommand(IStorage storage) : base(name: _commandName)
         {
-            _dolls = storage.Load<List<ProductionResult>>(_dataPath);
+            _dolls = storage.Load<List<ProductionResult>>(_dataPath).Where(x => !string.IsNullOrEmpty(x.Time));
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
             var input = ParseInput(update);
-            
-            var dolls = GetDolls(input.ArgsInput);
-            var message = Utils.CreateResponse(dolls, _default);
+
+            string message;
+            if (string.IsNullOrEmpty(input.ArgsInput))
+            {
+                message = _empty;
+            }
+            else
+            {
+                var dolls = GetDolls(input.ArgsInput);
+                message = Utils.CreateResponse(dolls, _default);                
+            }
 
             await Bot.Client.SendTextMessageAsync
             (
@@ -45,8 +54,9 @@ namespace FrontlineMaidBot.Commands
         {
             if (string.IsNullOrEmpty(time))
                 return new List<ProductionResult>();
-            
-            return _dolls.Where(x => x.Time == Utils.NormalizeTime(time));
+
+            var normalTime = Utils.NormalizeTime(time);
+            return _dolls.Where(x => x.Time == normalTime);
         }
     }
 }

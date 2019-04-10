@@ -52,7 +52,7 @@
   },
   {
     "Name": "Bren Ten",
-    "Alias": [ "brenten"],
+    "Alias": [ "brenten" ],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:28:00",
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Gr USPCompact",
-    "Alias": [ "usp"],
+    "Alias": [ "usp" ],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:28:00",
@@ -207,7 +207,7 @@
   },
   {
     "Name": "M950A",
-    "Alias": [ "calico"],
+    "Alias": [ "calico" ],
     "Stars": "★★★★★",
     "Category": "HG",
     "DisplayTime": "1:05:00",
@@ -296,7 +296,7 @@
   },
   {
     "Name": "Micro UZI",
-    "Alias": [ "micro-uzi"],
+    "Alias": [ "micro-uzi", "microuzi" ],
     "Stars": "☆☆★★★",
     "Category": "SMG",
     "DisplayTime": "1:40:00",
@@ -394,7 +394,7 @@
   },
   {
     "Name": "Gr MP5",
-    "Alias": [ "mp5"],
+    "Alias": [ "mp5" ],
     "Stars": "☆★★★★",
     "Category": "SMG",
     "DisplayTime": "2:20:00",
@@ -419,7 +419,7 @@
   },
   {
     "Name": "Gr G36c",
-    "Alias": [ "g36c"],
+    "Alias": [ "g36c" ],
     "Stars": "★★★★★",
     "Category": "SMG",
     "DisplayTime": "2:30:00",
@@ -436,7 +436,7 @@
   },
   {
     "Name": "SR-3MP",
-    "Alias": [ "shrimp"],
+    "Alias": [ "shrimp" ],
     "Stars": "★★★★★",
     "Category": "SMG",
     "DisplayTime": "2:33:00",
@@ -477,7 +477,7 @@
   },
   {
     "Name": "FF F2000",
-    "Alias": [ "f2000", "ff f2000"],
+    "Alias": [ "f2000", "ff f2000" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
     "DisplayTime": "2:45:00",
@@ -494,7 +494,7 @@
   },
   {
     "Name": "Gr G3",
-    "Alias": [ "g3"],
+    "Alias": [ "g3" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
     "DisplayTime": "2:50:00",
@@ -633,7 +633,7 @@
   },
   {
     "Name": "Gr G36",
-    "Alias": [ "g36", "maid"],
+    "Alias": [ "g36", "maid" ],
     "Stars": "☆★★★★",
     "Category": "AR",
     "DisplayTime": "3:40:00",
@@ -666,7 +666,7 @@
   },
   {
     "Name": "FAL",
-    "Alias": [ "fn fal"],
+    "Alias": [ "fn fal" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "3:45:00",
@@ -733,7 +733,7 @@
   },
   {
     "Name": "416",
-    "Alias": [ "hk416"],
+    "Alias": [ "hk416" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "3:55:00",
@@ -758,7 +758,7 @@
   },
   {
     "Name": "Gr G11",
-    "Alias": [ "g11"],
+    "Alias": [ "g11" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "4:04:00",
@@ -767,7 +767,7 @@
   },
   {
     "Name": "Gr G41",
-    "Alias": [ "g41", "homete"],
+    "Alias": [ "g41", "homete" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "DisplayTime": "4:05:00",
@@ -793,6 +793,7 @@
   },
   {
     "Name": "Mosin-Nagant",
+    "Alias": [ "mosin", "nugget" ],
     "Stars": "☆★★★★",
     "Category": "RF",
     "DisplayTime": "4:10:00",
@@ -825,7 +826,7 @@
   },
   {
     "Name": "Gr G28",
-    "Alias": [ "g28"],
+    "Alias": [ "g28" ],
     "Stars": "☆★★★★",
     "Category": "RF",
     "DisplayTime": "4:20:00",
@@ -1083,7 +1084,7 @@
   },
   {
     "Name": "Gr MG4",
-    "Alias": [ "mg4"],
+    "Alias": [ "mg4" ],
     "Stars": "★★★★★",
     "Category": "MG",
     "DisplayTime": "6:40:00",
@@ -1205,7 +1206,7 @@
   },
   {
     "Name": "S.A.T.8",
-    "Alias": [ "sat8"],
+    "Alias": [ "sat8" ],
     "Stars": "★★★★★",
     "Category": "SG",
     "DisplayTime": "8:10:00",
@@ -1219,5 +1220,307 @@
     "DisplayTime": "8:12:00",
     "Time": "0812",
     "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
+  },
+  {
+    "Name": "Five-seveN",
+    "Alias": [ "five seven", "5-7", "57" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Very good.\r\nGood RoF skill buff;\r\nExcellent RoF tile buff and good coverage;\r\nGood bonus crit rate tile and skill buff;\r\nVery high base evasion"
+  },
+  {
+    "Name": "CZ75",
+    "Alias": [ "girl with axe", "axe" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Ok.\r\nExcellent FP/RoF tile buff;\r\nLow cooldown pseudo-bamboo skill for low-cost boss farming;"
+  },
+  {
+    "Name": "SPP-1",
+    "Alias": [ "spp" ],
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Sort of ok.\r\nMassive accuracy buff and evasion debuff;\r\nBonus FP tile buff;\r\nHigh base HP"
+  },
+  {
+    "Name": "PSM",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nVery high base evasion;"
+  },
+  {
+    "Name": "HK45",
+    "Alias": [ "hk 45" ],
+    "Stars": "☆★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Ok.\r\nExcellent FP tile buff;"
+  },
+  {
+    "Name": "Noel",
+    "Stars": "☆☆★☆☆",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Sort of ok.\r\nExcellent RoF tile buff;\r\nBonus evasion tile buff;"
+  },
+  {
+    "Name": "RO635",
+    "Alias": [ "635" ],
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Very good.\r\nHigh base HP;\r\nLow initial CD;\r\nGood tile coverage;\r\nPowerful defensive skill;"
+  },
+  {
+    "Name": "EVO 3",
+    "Alias": [ "evo" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base HP;"
+  },
+  {
+    "Name": "MT-9",
+    "Alias": [ "mt 9" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nVery high base HP;"
+  },
+  {
+    "Name": "SCW",
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base FP;\r\nHas a self-buff;"
+  },
+  {
+    "Name": "AUG",
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Very good.\r\nHigh base FP;\r\nUnmatched RoF during skill;\r\nExcellent tile coverage;\r\nTiles buff all types;\r\nGood initial CD"
+  },
+  {
+    "Name": "OTs-14",
+    "Alias": [ "ots 14", "groza" ],
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Very good.\r\nHigh damage during night;\r\nAccuracy/RoF buff for SMG;\r\nStill effective during daytime combat;\r\nNight queen;"
+  },
+  {
+    "Name": "ART556",
+    "Alias": [ "art 556", "green homete" ],
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Ok.\r\nHigh base FP;"
+  },
+  {
+    "Name": "M16A1",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Ok.\r\nTank AR, capable of equiping armor plate;\r\nOne of a kind stun grenade among ARs;"
+  },
+  {
+    "Name": "M4A1",
+    "Alias": [ "cinnamon roll" ],
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Very good.\r\nHigh base RoF;\r\nPowerful tile buff;\r\nTiles buff other ARs;\r\nGood initial CD and great uptime;\r\nHas plot armor;"
+  },
+  {
+    "Name": "M4 SOPMOD II",
+    "Alias": [ "sop", "sopdog", "sopmod" ],
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Good.\r\nGreat overall stats;\r\nCan equip 2 accessories;"
+  },
+  {
+    "Name": "ST AR-15",
+    "Alias": [ "star-15" ],
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Very good.\r\nGreat overall stats;\r\nCan equip 2 accessories;\r\nHas special ammo that gives 5 more FP than 5★ HV;\r\nGood initial CD and incredible uptime"
+  },
+  {
+    "Name": "CZ-805",
+    "Alias": [ "cz805" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No."
+  },
+  {
+    "Name": "ARX-160",
+    "Alias": [ "arx160", "arx 160" ],
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base FP for her rarity;\r\nFP/Accuracy buff for SMG;"
+  },
+  {
+    "Name": "AR70",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base FP for her rarity;\r\nAccuracy/RoF buff for SMG;"
+  },
+  {
+    "Name": "6P62",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Sort of ok.\r\nOnly AR that can equip AP ammo;\r\nVery high base FP;\r\nStrong FP tile buff"
+  },
+  {
+    "Name": "Ash-12.7",
+    "Alias": [ "ash 12.7", "ash" ],
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nUnusually high base FP;\r\nStrong FP tile buff;"
+  },
+  {
+    "Name": "JS05",
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base FP"
+  },
+  {
+    "Name": "PSG-1",
+    "Alias": [ "psg 1", "psg" ],
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base RoF;"
+  },
+  {
+    "Name": "T-5000",
+    "Alias": [ "t5000" ],
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:10:00",
+    "Time": "0410",
+    "Summary": "Good.\r\nRoF/Accuracy self-buff;\r\nGood tile formation;"
+  },
+  {
+    "Name": "M1A1",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nRoF self-buff;\r\nVery long buff duration;"
+  },
+  {
+    "Name": "Type 56-Semi",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nFP self-buff;"
+  },
+  {
+    "Name": "Super SASS",
+    "Alias": [ "sass", "super ass" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base RoF;"
+  },
+  {
+    "Name": "SSG 69",
+    "Alias": [ "ssg69" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\nHigh base FP;\r\nFP self-buff;"
+  },
+  {
+    "Name": "Type 81R",
+    "Alias": [ "type81r" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No."
+  },
+  {
+    "Name": "FF M249SAW",
+    "Alias": [ "m249saw", "m249 saw" ],
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No."
+  },
+  {
+    "Name": "RPD",
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No."
+  },
+  {
+    "Name": "62 Shiki",
+    "Alias": [ "62 shiki", "type 62", "ntk-62" ],
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No."
+  },
+  {
+    "Name": "Elphelt",
+    "Stars": "☆☆★☆☆",
+    "Category": "SG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Very good.\r\nHigh armor;\r\nHigh base HP;\r\nHigh clip size;\r\nGood tile buff and coverage;\r\nPowerful skill if activated;"
+  },
+  {
+    "Name": "M1887",
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Good.\r\nHigh base HP;"
   }
 ]

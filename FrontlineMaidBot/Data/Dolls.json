@@ -74,7 +74,7 @@
     "Category": "HG",
     "DisplayTime": "0:30:00",
     "Time": "0030",
-    "Summary": "Niche.\r\nGood tile coverage;\r\nVery high evasion buff at night;"
+    "Summary": "She is ok.\r\nGood tile coverage;\r\nVery high evasion buff at night;\r\n\r\n<i>Do you need a combination of Accuracy and Evasion buffs at night for some reason?</i>\r\n\tCore her if not."
   },
   {
     "Name": "C96",
@@ -82,7 +82,7 @@
     "Category": "HG",
     "DisplayTime": "0:30:00",
     "Time": "0030",
-    "Summary": "Not good.\r\nHas flare but it's useless."
+    "Summary": "Core her. Flare is useless."
   },
   {
     "Name": "Type92",
@@ -90,7 +90,7 @@
     "Category": "HG",
     "DisplayTime": "0:35:00",
     "Time": "0035",
-    "Summary": "Not good.\r\nUnless you are trying to make IDW unstoppable."
+    "Summary": "No.\r\n\r\n<i>Do you need a combination of Accuracy and Evasion buffs for your entire team for some odd reason?</i>\r\n\tCore her if not."
   },
   {
     "Name": "P99",
@@ -98,7 +98,7 @@
     "Category": "HG",
     "DisplayTime": "0:35:00",
     "Time": "0035",
-    "Summary": "Not good."
+    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Astra",
@@ -106,7 +106,7 @@
     "Category": "HG",
     "DisplayTime": "0:40:00",
     "Time": "0040",
-    "Summary": "Ok.\r\nGood RoF skill buff;\r\nHigh base HP;\r\nBudget HG."
+    "Summary": "Ok.\r\nGood RoF skill buff;\r\nHigh base HP;\r\nBudget HG.\r\n\r\n<i>Are you missing Calico, Five-Seven or Stechkin?</i>\r\n\tCore her if not."
   },
   {
     "Name": "M9",
@@ -114,7 +114,7 @@
     "Category": "HG",
     "DisplayTime": "0:40:00",
     "Time": "0040",
-    "Summary": "Not much.\r\nHas flashbang."
+    "Summary": "Just core her."
   },
   {
     "Name": "Makarov",
@@ -130,7 +130,7 @@
     "Category": "HG",
     "DisplayTime": "0:45:00",
     "Time": "0045",
-    "Summary": "Not good."
+    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Mk23",
@@ -170,7 +170,7 @@
     "Category": "HG",
     "DisplayTime": "0:55:00",
     "Time": "0055",
-    "Summary": "Niche, Ok.\r\nGood evasion skill;\r\nDecent tile coverage;\r\nBonus RoF tile buff;\r\nHigh base evasion."
+    "Summary": "Niche, Ok.\r\nGood evasion skill;\r\nDecent tile coverage;\r\nBonus RoF tile buff;\r\nHigh base evasion.\r\n\r\n<i>Do you need an Evasion Skill Buff AND Tile Buffs? Are you looking to make a defensive type 5HG team?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Stechkin",
@@ -301,15 +301,16 @@
     "Category": "SMG",
     "DisplayTime": "1:40:00",
     "Time": "0140",
-    "Summary": "Not very good, but can try hard.\r\nHigh base evasion;\r\nMolotov skill;"
+    "Summary": "Not very good, but she is cute and will try hard.\r\nHigh base evasion;\r\nMolotov skill;\r\n\r\n<i>Does your team still require an off-tank that could theoretically have a place for someone with as oddly placed tiles as hers?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Sten MkII",
+    "Alias": [ "sten" ],
     "Stars": "☆☆★★★",
     "Category": "SMG",
     "DisplayTime": "1:40:00",
     "Time": "0140",
-    "Summary": "Good for early game."
+    "Summary": "Good for early game.\r\n\r\n<i>Are you lacking dolls who can do her job just as well, or even better?</i>\r\n\tCore her if not."
   },
   {
     "Name": "F1",
@@ -382,7 +383,7 @@
     "Category": "SMG",
     "DisplayTime": "2:18:00",
     "Time": "0218",
-    "Summary": "No."
+    "Summary": "No.\r\n<i>Do you have Suomi?</i>\r\n\tCore her if yes."
   },
   {
     "Name": "PP-19-01",
@@ -399,7 +400,7 @@
     "Category": "SMG",
     "DisplayTime": "2:20:00",
     "Time": "0220",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Are you going to get and enhance her special equipment (4-4N)?</i>\r\n\tCore her if not."
   },
   {
     "Name": "PP-90",
@@ -407,7 +408,7 @@
     "Category": "SMG",
     "DisplayTime": "2:20:00",
     "Time": "0220",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Do you want to run an evasion tank? (relies on skill)</i>\r\n\tCore her if not."
   },
   {
     "Name": "Suomi",
@@ -515,7 +516,7 @@
     "Category": "AR",
     "DisplayTime": "3:00:00",
     "Time": "0300",
-    "Summary": "No."
+    "Summary": "Just core her."
   },
   {
     "Name": "OTs-12",
@@ -523,7 +524,7 @@
     "Category": "AR",
     "DisplayTime": "3:10:00",
     "Time": "0310",
-    "Summary": "Very good for early game.\r\n;\r\nGood tile buffs for off tanks;\r\nHigh multiplier despite low rarity;\r\nGood initial CD and great uptime;\r\nBudget AR"
+    "Summary": "Very good for early game.\r\n;\r\nGood tile buffs for off tanks;\r\nHigh multiplier despite low rarity;\r\nGood initial CD and great uptime;\r\nBudget AR;"
   },
   {
     "Name": "FF FN49",
@@ -572,7 +573,7 @@
     "Category": "AR",
     "DisplayTime": "3:25:00",
     "Time": "0325",
-    "Summary": "No."
+    "Summary": "Just core her."
   },
   {
     "Name": "XM8",
@@ -589,15 +590,16 @@
     "Category": "AR",
     "DisplayTime": "3:30:00",
     "Time": "0330",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Are you missing 9A-91?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Fr FAMAS",
+    "Alias": [ "famas" ],
     "Stars": "☆★★★★",
     "Category": "AR",
     "DisplayTime": "3:30:00",
     "Time": "0330",
-    "Summary": "No."
+    "Summary": "Just core her."
   },
   {
     "Name": "TAR-21",
@@ -709,11 +711,12 @@
   },
   {
     "Name": "Type88",
+    "Alias": [ "type 88", "hanyang" ],
     "Stars": "☆☆★★★",
     "Category": "RF",
     "DisplayTime": "3:50:00",
     "Time": "0350",
-    "Summary": "No."
+    "Summary": "No.\r\n<i>Do you need a niche night-focused RF? </i>\r\n\tCore her if not."
   },
   {
     "Name": "K2",
@@ -750,11 +753,21 @@
   },
   {
     "Name": "M1 Garand",
+    "Alias": [ "garand" ],
     "Stars": "☆☆★★★",
     "Category": "RF",
     "DisplayTime": "4:00:00",
     "Time": "0400",
-    "Summary": "Ok.\r\nAuto-retarget backrow;\r\nGood overall stats;\r\nGood budget RF;"
+    "Summary": "Ok.\r\nAuto-retarget backrow;\r\nGood overall stats;\r\nGood budget RF;\r\n\r\n<i>Are you lacking alternative RFs to use as a replacement?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "G17",
+    "Alias": [ "glock 17" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "Ok.\r\nRare FP debuff skill;\r\nHigh base evasion;\r\n\r\n<i>Do you want a defensive SGMG team?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Gr G11",
@@ -782,6 +795,14 @@
     "DisplayTime": "4:05:00",
     "Time": "0405",
     "Summary": "Very good.\r\nHigh base FP;\r\nVersatile skill, switching between AOE and self-buff depending on battle;\r\nGood initial CD;\r\nFastest Grenade priming animation;\r\nNade takes very short time to be launched;\r\nGood nade radius (2.5 yards);"
+  },
+  {
+    "Name": "M21",
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No."
   },
   {
     "Name": "AN-94",
@@ -840,7 +861,7 @@
     "Category": "RF",
     "DisplayTime": "4:20:00",
     "Time": "0420",
-    "Summary": "I don't really know her."
+    "Summary": "No.\r\n\r\n<i>Do you have any better choices for small bamboo? (Springfield, Mosin Nagant) </i>\r\n\tCore her if yes."
   },
   {
     "Name": "Springfield",
@@ -856,7 +877,7 @@
     "Category": "RF",
     "DisplayTime": "4:30:00",
     "Time": "0430",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Are you missing better Big Nukers like NTW-20 and M99? </i>\r\n\tCore her if not."
   },
   {
     "Name": "PzB 39",
@@ -976,7 +997,7 @@
     "Category": "MG",
     "DisplayTime": "5:20:00",
     "Time": "0520",
-    "Summary": "No."
+    "Summary": "Just core her."
   },
   {
     "Name": "M1919A4",
@@ -992,7 +1013,7 @@
     "Category": "MG",
     "DisplayTime": "5:50:00",
     "Time": "0550",
-    "Summary": "No."
+    "Summary": "Just core her."
   },
   {
     "Name": "M60",
@@ -1000,7 +1021,7 @@
     "Category": "MG",
     "DisplayTime": "6:10:00",
     "Time": "0610",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Do you need a Midnight MG?</i>\r\n\tCore her if not."
   },
   {
     "Name": "M2HB",
@@ -1024,7 +1045,7 @@
     "Category": "MG",
     "DisplayTime": "6:20:00",
     "Time": "0620",
-    "Summary": "Ok for night stuff.\r\nGood armor tiles"
+    "Summary": "Ok for night stuff.\r\nGood armor tiles;"
   },
   {
     "Name": "Mk48",
@@ -1040,7 +1061,7 @@
     "Category": "MG",
     "DisplayTime": "6:25:00",
     "Time": "0625",
-    "Summary": "Ok for night with special eqip.\r\nLooks like a Christmas Tree;"
+    "Summary": "Ok for night with special eqip.\r\nLooks like a Christmas Tree;\r\n\r\n<i>Do you have her SPEQ?</i>\r\n\tCore her if not."
   },
   {
     "Name": "M1918",
@@ -1254,16 +1275,25 @@
     "Category": "HG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No.\r\nVery high base evasion;"
+    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
   },
   {
     "Name": "HK45",
     "Alias": [ "hk 45" ],
-    "Stars": "☆★",
+    "Stars": "☆☆★★★",
     "Category": "HG",
     "DisplayTime": "",
     "Time": "",
     "Summary": "Ok.\r\nExcellent FP tile buff;"
+  },
+  {
+    "Name": "FMG-9",
+    "Alias": [ "fmg9" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Do you like to run tanks that are made of paper?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Noel",
@@ -1289,7 +1319,7 @@
     "Category": "SMG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No.\r\nHigh base HP;"
+    "Summary": "No.\r\n\r\n<i>Are you for some reason missing Skorpion?</i>\r\n\tCore her if yes."
   },
   {
     "Name": "MT-9",
@@ -1298,7 +1328,7 @@
     "Category": "SMG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No.\r\nVery high base HP;"
+    "Summary": "No.\r\n\r\n<i>Are you missing/desperate for flashbang main tanks?</i>\r\n\tCore her if not."
   },
   {
     "Name": "SCW",
@@ -1376,7 +1406,7 @@
     "Category": "HG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No."
+    "Summary": "Just core her."
   },
   {
     "Name": "ARX-160",
@@ -1385,7 +1415,7 @@
     "Category": "AR",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No.\r\nHigh base FP for her rarity;\r\nFP/Accuracy buff for SMG;"
+    "Summary": "No.\r\n\r\n<i>Do you need a budget nader even though SOPMOD exists?</i>\r\n\tCore her if not."
   },
   {
     "Name": "AR70",
@@ -1393,7 +1423,7 @@
     "Category": "AR",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No.\r\nHigh base FP for her rarity;\r\nAccuracy/RoF buff for SMG;"
+    "Summary": "No.\r\n\r\n<i>Do you need a budget nader even though SOPMOD exists?</i>\r\n\tCore her if not."
   },
   {
     "Name": "6P62",
@@ -1461,7 +1491,7 @@
     "Category": "RF",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No.\r\nHigh base RoF;"
+    "Summary": "No.\r\n\r\n<i>Do you have any better choices for small bamboo? (Springfield, Mosin Nagant) </i>\r\n\tCore her if not."
   },
   {
     "Name": "SSG 69",
@@ -1470,7 +1500,7 @@
     "Category": "RF",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No.\r\nHigh base FP;\r\nFP self-buff;"
+    "Summary": "No.\r\n\r\n<i>Are you missing M14 or any other alternatives?</i>\r\n\tCore her if not."
   },
   {
     "Name": "Type 81R",
@@ -1479,7 +1509,7 @@
     "Category": "RF",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Would you care enough to raise a much rarer G43 who performs even worse than her?</i>\r\n\tCore her if not."
   },
   {
     "Name": "FF M249SAW",
@@ -1488,7 +1518,7 @@
     "Category": "MG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Do you need a Midnight MG?</i>\r\n\tCore her if not."
   },
   {
     "Name": "RPD",
@@ -1496,7 +1526,7 @@
     "Category": "MG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Do you have a MG that is better at the job than her?(e.g. BAR)</i>\r\n\tCore her if yes."
   },
   {
     "Name": "62 Shiki",
@@ -1505,7 +1535,7 @@
     "Category": "MG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "No."
+    "Summary": "No.\r\n\r\n<i>Do you have a MG that is better at the job than her?(e.g. LWMMG)</i>\r\n\tCore her if yes."
   },
   {
     "Name": "Elphelt",

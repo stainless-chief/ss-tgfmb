@@ -26,7 +26,7 @@ namespace FrontlineMaidBot.Commands
         {
             var num = _rnd.Next(0, _responses.Count - 1);
             var message = _responses[num];
-            
+
             await Bot.Client.SendTextMessageAsync
             (
                 update.Message.Chat.Id,

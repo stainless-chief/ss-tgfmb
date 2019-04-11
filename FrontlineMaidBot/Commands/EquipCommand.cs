@@ -45,7 +45,7 @@ namespace FrontlineMaidBot.Commands
         {
             if (string.IsNullOrEmpty(time))
                 return new List<ProductionResult>();
-            
+
             return _equip.Where(x => x.Time == Utils.NormalizeTime(time));
         }
     }

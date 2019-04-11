@@ -36,7 +36,7 @@ namespace FrontlineMaidBot.Commands
             else
             {
                 var dolls = GetDolls(input.ArgsInput);
-                message = Utils.CreateResponse(dolls, _default);                
+                message = Utils.CreateResponse(dolls, _default);
             }
 
             await Bot.Client.SendTextMessageAsync
@@ -46,7 +46,7 @@ namespace FrontlineMaidBot.Commands
                 replyToMessageId: update.Message.MessageId
             );
 
-            return UpdateHandlingResult.Handled;           
+            return UpdateHandlingResult.Handled;
         }
 
 

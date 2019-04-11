@@ -1,7 +1,6 @@
 ﻿using FrontlineMaidBot.Helpers;
 using FrontlineMaidBot.Interfaces;
 using FrontlineMaidBot.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -38,7 +37,7 @@ namespace FrontlineMaidBot.Commands
             {
                 msg = Utils.CreateResponse(GetDoll(input.ArgsInput), _default);
             }
-            
+
 
             await Bot.Client.SendTextMessageAsync
             (

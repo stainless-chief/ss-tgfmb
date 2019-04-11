@@ -1,6 +1,6 @@
-﻿using Newtonsoft.Json;
+﻿using FrontlineMaidBot.Interfaces;
+using Newtonsoft.Json;
 using System.IO;
-using FrontlineMaidBot.Interfaces;
 
 namespace FrontlineMaidBot.DAL
 {

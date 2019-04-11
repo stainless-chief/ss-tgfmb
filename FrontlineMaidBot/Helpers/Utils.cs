@@ -1,8 +1,6 @@
 ﻿using FrontlineMaidBot.Models;
-using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 
 namespace FrontlineMaidBot.Helpers
@@ -31,7 +29,7 @@ namespace FrontlineMaidBot.Helpers
 
             string header = string.Empty;
 
-            if(!string.IsNullOrEmpty(production.Stars))
+            if (!string.IsNullOrEmpty(production.Stars))
             {
                 header = $"[{production.Stars}] ";
             }
@@ -43,12 +41,12 @@ namespace FrontlineMaidBot.Helpers
             {
                 header += $"{production.Name} ";
             }
-            if(!string.IsNullOrEmpty(header))
+            if (!string.IsNullOrEmpty(header))
             {
                 header += Environment.NewLine;
             }
 
-            var aliases = production.Alias == null? string.Empty : $"<b>Also known as: </b>{string.Join(", ", production.Alias)}{Environment.NewLine}";
+            var aliases = production.Alias == null ? string.Empty : $"<b>Also known as: </b>{string.Join(", ", production.Alias)}{Environment.NewLine}";
             var summary = production.Summary == null ? string.Empty : $"{Environment.NewLine}{production.Summary}{Environment.NewLine}";
 
             return $"{header}{aliases}{summary}";
@@ -60,7 +58,7 @@ namespace FrontlineMaidBot.Helpers
         {
             var fixedTime = time.Replace(":", "");
 
-            if(fixedTime.Length > 4)
+            if (fixedTime.Length > 4)
             {
                 fixedTime = fixedTime.Remove(4, fixedTime.Length - 4);
             }

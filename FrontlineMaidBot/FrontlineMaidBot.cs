@@ -14,15 +14,11 @@ namespace FrontlineMaidBot
         public FrontlineMaidBot(IOptions<BotOptions<FrontlineMaidBot>> botOptions)
             : base(botOptions)
         {
-            //Console.WriteLine("FrontlineMaidBot - Ok");
-            //Console.WriteLine("API:" + botOptions.Value.ApiToken);
         }
 
 
         public override async Task HandleUnknownUpdate(Update update)
         {
-            //Console.WriteLine(update.Message.Text);
-
             try
             {
                 if (update.Message.Chat.Type != ChatType.Private)
@@ -39,7 +35,7 @@ namespace FrontlineMaidBot
                     );
                 }
             }
-            catch(Exception ee)
+            catch (Exception ee)
             {
                 throw ee;
             }
@@ -51,7 +47,7 @@ namespace FrontlineMaidBot
             {
                 return Task.CompletedTask;
             }
-            catch(Exception ee)
+            catch (Exception ee)
             {
                 throw ee;
             }

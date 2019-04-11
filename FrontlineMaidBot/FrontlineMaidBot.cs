@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Options;
+﻿using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using System;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
@@ -10,10 +11,13 @@ namespace FrontlineMaidBot
     public class FrontlineMaidBot : BotBase<FrontlineMaidBot>
     {
         private const string _unknownUpdateRespose = "I'm sorry {0}. I'm afraid I can't do that. ";
+        private const string _errorRespose = "I'm not feeling very well... please, inform @ChiefNoir about that. He will take care of me.";
+        private readonly ILogger<FrontlineMaidBot> _logger;
 
-        public FrontlineMaidBot(IOptions<BotOptions<FrontlineMaidBot>> botOptions)
+        public FrontlineMaidBot(IOptions<BotOptions<FrontlineMaidBot>> botOptions, ILogger<FrontlineMaidBot> logger)
             : base(botOptions)
         {
+            _logger = logger;
         }
 
 
@@ -35,22 +39,29 @@ namespace FrontlineMaidBot
                     );
                 }
             }
-            catch (Exception ee)
+            catch (Exception e)
             {
-                throw ee;
+                await Client.SendTextMessageAsync
+                    (
+                        update.Message.Chat.Id,
+                        string.Format(_errorRespose, update.Message.From.FirstName),
+                        replyToMessageId: update.Message.MessageId
+                    );
+
+                _logger.LogError(e, $"[Username: {update.Message.Chat.Username}] [ChatUsername: {update.Message.Chat.Username}] [ChatType: {update.Message.Chat.Type}] [Message: {update.Message.Text}]", null);
             }
         }
 
-        public override Task HandleFaultedUpdate(Update update, Exception e)
+        public override async Task HandleFaultedUpdate(Update update, Exception e)
         {
-            try
-            {
-                return Task.CompletedTask;
-            }
-            catch (Exception ee)
-            {
-                throw ee;
-            }
+            _logger.LogError(e, $"[Username: {update.Message.Chat.Username}] [ChatUsername: {update.Message.Chat.Username}] [ChatType: {update.Message.Chat.Type}] [Message: {update.Message.Text}]", null);
+
+            await Client.SendTextMessageAsync
+                    (
+                        update.Message.Chat.Id,
+                        string.Format(_errorRespose, update.Message.From.FirstName),
+                        replyToMessageId: update.Message.MessageId
+                    );
         }
     }
 }

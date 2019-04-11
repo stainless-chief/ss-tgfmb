@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Serilog;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework.Abstractions;
 
@@ -18,6 +19,8 @@ namespace FrontlineMaidBot
 
         public Startup(IHostingEnvironment env)
         {
+            Log.Logger = new LoggerConfiguration().WriteTo.File("log.log").CreateLogger();
+
             var builder = new ConfigurationBuilder()
                             .SetBasePath(env.ContentRootPath)
                             .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
@@ -38,6 +41,7 @@ namespace FrontlineMaidBot
                 .AddUpdateHandler<IsGoodCommand>()
                 .Configure();
 
+            services.AddLogging(configure => configure.AddSerilog());
             services.AddScoped<IStorage, Storage>();
         }
 

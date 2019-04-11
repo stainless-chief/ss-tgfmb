@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework.Abstractions;
 
@@ -51,9 +50,9 @@ namespace FrontlineMaidBot
                 // make sure webhook is disabled so we can use long-polling
                 await botManager.SetWebhookStateAsync(false);
 
-                while (1==1)
+                while (1 == 1)
                 {
-                    await Task.Delay(3_000);
+                    await Task.Delay(3000);
                     await botManager.GetAndHandleNewUpdatesAsync();
                 }
             }).ContinueWith(t =>

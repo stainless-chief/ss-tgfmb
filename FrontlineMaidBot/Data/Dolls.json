@@ -61,7 +61,7 @@
   },
   {
     "Name": "Gr USPCompact",
-    "Alias": [ "usp" ],
+    "Alias": [ "usp", "uspcompact" ],
     "Stars": "☆☆☆★★",
     "Category": "HG",
     "DisplayTime": "0:28:00",
@@ -86,6 +86,7 @@
   },
   {
     "Name": "Type92",
+    "Alias": [ "type 92" ],
     "Stars": "☆☆★★★",
     "Category": "HG",
     "DisplayTime": "0:35:00",
@@ -146,7 +147,7 @@
     "Category": "HG",
     "DisplayTime": "0:50:00",
     "Time": "0050",
-    "Summary": "Good.\r\nGood FP skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP."
+    "Summary": "Pretty good.\r\nGood FP skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP;"
   },
   {
     "Name": "Spitfire",
@@ -199,6 +200,7 @@
   },
   {
     "Name": "Px4 Storm",
+    "Alias": [ "storm" ],
     "Stars": "★★★★★",
     "Category": "HG",
     "DisplayTime": "1:04:00",
@@ -240,6 +242,7 @@
   },
   {
     "Name": "PP-2000",
+    "Alias": [ "pp 2000", "pp2000" ],
     "Stars": "☆☆☆★★",
     "Category": "SMG",
     "DisplayTime": "1:10:00",
@@ -264,6 +267,7 @@
   },
   {
     "Name": "Type64",
+    "Alias": [ "type 64", "type-64" ],
     "Stars": "☆☆☆★★",
     "Category": "SMG",
     "DisplayTime": "1:25:00",
@@ -322,6 +326,7 @@
   },
   {
     "Name": "PPSh-41",
+    "Alias": [ "ppsh" ],
     "Stars": "☆☆☆★★",
     "Category": "SMG",
     "DisplayTime": "1:50:00",
@@ -330,7 +335,7 @@
   },
   {
     "Name": "Ingram",
-    "Alias": [ "mac-10" ],
+    "Alias": [ "mac-10", "mac 10" ],
     "Stars": "☆☆★★★",
     "Category": "SMG",
     "DisplayTime": "2:00:00",
@@ -446,6 +451,7 @@
   },
   {
     "Name": "Type79",
+    "Alias": [ "type-79", "type 79" ],
     "Stars": "★★★★★",
     "Category": "SMG",
     "DisplayTime": "2:35:00",
@@ -470,6 +476,7 @@
   },
   {
     "Name": "SIG-510",
+    "Alias": [ "sig 510", "sig" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
     "DisplayTime": "2:40:00",
@@ -487,6 +494,7 @@
   },
   {
     "Name": "Type 63",
+    "Alias": [ "type-63", "type63" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
     "DisplayTime": "2:45:00",
@@ -512,6 +520,7 @@
   },
   {
     "Name": "StG44",
+    "Alias": [ "stg-44", "stg 44" ],
     "Stars": "☆☆★★★",
     "Category": "AR",
     "DisplayTime": "3:00:00",
@@ -528,6 +537,7 @@
   },
   {
     "Name": "FF FN49",
+    "Alias": [ "fn49" ],
     "Stars": "☆☆☆★★",
     "Category": "RF",
     "DisplayTime": "3:10:00",
@@ -1249,7 +1259,7 @@
     "Category": "HG",
     "DisplayTime": "",
     "Time": "",
-    "Summary": "Very good.\r\nGood RoF skill buff;\r\nExcellent RoF tile buff and good coverage;\r\nGood bonus crit rate tile and skill buff;\r\nVery high base evasion"
+    "Summary": "Very good.\r\nGood RoF skill buff;\r\nExcellent RoF tile buff and good coverage;\r\nGood bonus crit rate tile and skill buff;\r\nVery high base evasion;\r\nHoxy?"
   },
   {
     "Name": "CZ75",

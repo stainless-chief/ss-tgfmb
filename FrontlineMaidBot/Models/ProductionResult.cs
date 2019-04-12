@@ -8,7 +8,6 @@ namespace FrontlineMaidBot.Models
         public List<string> Alias { get; set; }
         public string Stars { get; set; }
         public string Category { get; set; }
-        public string DisplayTime { get; set; }
         public string Time { get; set; }
         public string Summary { get; set; }
     }

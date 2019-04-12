@@ -4,7 +4,6 @@
     "Alias": null,
     "Stars": null,
     "Category": null,
-    "DisplayTime": null,
     "Time": null,
     "Summary": "Don't you have something better to do?"
   },
@@ -13,7 +12,6 @@
     "Alias": null,
     "Stars": "☆☆☆★★",
     "Category": "AR",
-    "DisplayTime": "2:40:00",
     "Time": "0240",
     "Summary": "No."
   },
@@ -22,7 +20,6 @@
     "Alias": [ "sig 510", "sig" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
-    "DisplayTime": "2:40:00",
     "Time": "0240",
     "Summary": "Good for early game."
   },
@@ -31,7 +28,6 @@
     "Alias": [ "f2000", "ff f2000" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
-    "DisplayTime": "2:45:00",
     "Time": "0245",
     "Summary": "Good for early game."
   },
@@ -40,7 +36,6 @@
     "Alias": [ "type-63", "type63" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
-    "DisplayTime": "2:45:00",
     "Time": "0245",
     "Summary": "No."
   },
@@ -49,7 +44,6 @@
     "Alias": [ "g3" ],
     "Stars": "☆☆☆★★",
     "Category": "AR",
-    "DisplayTime": "2:50:00",
     "Time": "0250",
     "Summary": "No."
   },
@@ -58,7 +52,6 @@
     "Alias": null,
     "Stars": "☆☆☆★★",
     "Category": "AR",
-    "DisplayTime": "2:50:00",
     "Time": "0250",
     "Summary": "Good for early game."
   },
@@ -67,7 +60,6 @@
     "Alias": [ "stg-44", "stg 44" ],
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "3:00:00",
     "Time": "0300",
     "Summary": "Just core her."
   },
@@ -76,7 +68,6 @@
     "Alias": null,
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "3:10:00",
     "Time": "0310",
     "Summary": "Very good for early game.\r\n;\r\nGood tile buffs for off tanks;\r\nHigh multiplier despite low rarity;\r\nGood initial CD and great uptime;\r\nBudget AR;"
   },
@@ -85,7 +76,6 @@
     "Alias": null,
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "3:20:00",
     "Time": "0320",
     "Summary": "Ghetto Gyaru"
   },
@@ -94,7 +84,6 @@
     "Alias": [ "fnc" ],
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "3:20:00",
     "Time": "0320",
     "Summary": "Good for early game."
   },
@@ -103,7 +92,6 @@
     "Alias": [ "arx160", "arx 160" ],
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "No.\r\n\r\n<i>Do you need a budget nader even though SOPMOD exists?</i>\r\n\tCore her if not."
   },
@@ -112,7 +100,6 @@
     "Alias": null,
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "No.\r\n\r\n<i>Do you need a budget nader even though SOPMOD exists?</i>\r\n\tCore her if not."
   },
@@ -121,7 +108,6 @@
     "Alias": null,
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Sort of ok.\r\nOnly AR that can equip AP ammo;\r\nVery high base FP;\r\nStrong FP tile buff"
   },
@@ -130,16 +116,38 @@
     "Alias": [ "ash 12.7", "ash" ],
     "Stars": "☆☆★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "No.\r\nUnusually high base FP;\r\nStrong FP tile buff;"
+  },
+  {
+    "Name": "Model L",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "T65",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type 03",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "Time": "",
+    "Summary": "I don't really know her."
   },
   {
     "Name": "Type56-1",
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:25:00",
     "Time": "0325",
     "Summary": "Just core her."
   },
@@ -148,7 +156,6 @@
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:25:00",
     "Time": "0325",
     "Summary": "Good."
   },
@@ -157,7 +164,6 @@
     "Alias": [ "asval", "val" ],
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:30:00",
     "Time": "0330",
     "Summary": "No.\r\n\r\n<i>Are you missing 9A-91?</i>\r\n\tCore her if not."
   },
@@ -166,7 +172,6 @@
     "Alias": [ "famas" ],
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:30:00",
     "Time": "0330",
     "Summary": "Just core her."
   },
@@ -175,7 +180,6 @@
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:30:00",
     "Time": "0330",
     "Summary": "Good.\r\nGreat overall stats\r\nGood burst damage skill;\r\nGood evasion buff for SMGs;"
   },
@@ -184,7 +188,6 @@
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:35:00",
     "Time": "0335",
     "Summary": "Very good.\r\nHigh damage during night;\r\nGood RoF synergizing her FP buff;\r\nNight princess;\r\nSecond best maid;"
   },
@@ -193,7 +196,6 @@
     "Alias": [ "g36", "maid" ],
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:40:00",
     "Time": "0340",
     "Summary": "Very good.\r\nGreat tile buff for offtank SMGs;\r\nGood initial CD and great uptime;\r\nBeautiful and smart;"
   },
@@ -202,7 +204,6 @@
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "3:40:00",
     "Time": "0340",
     "Summary": "Very good.\r\nVery high base FP;\r\nTiles buff other ARs;\r\nPowerful supportive skill;"
   },
@@ -211,7 +212,6 @@
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Ok.\r\nTank AR, capable of equiping armor plate;\r\nOne of a kind stun grenade among ARs;"
   },
@@ -220,7 +220,6 @@
     "Alias": [ "cinnamon roll" ],
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Very good.\r\nHigh base RoF;\r\nPowerful tile buff;\r\nTiles buff other ARs;\r\nGood initial CD and great uptime;\r\nHas plot armor;"
   },
@@ -229,7 +228,6 @@
     "Alias": [ "sop", "sopdog", "sopmod" ],
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Good.\r\nGreat overall stats;\r\nCan equip 2 accessories;"
   },
@@ -238,16 +236,54 @@
     "Alias": [ "star-15" ],
     "Stars": "☆★★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Very good.\r\nGreat overall stats;\r\nCan equip 2 accessories;\r\nHas special ammo that gives 5 more FP than 5★ HV;\r\nGood initial CD and incredible uptime"
+  },
+  {
+    "Name": "A-91",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Ak 5",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "CZ2000",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SAR-21",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "Time": "0325",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Murata Himeko",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "AR",
+    "Time": "",
+    "Summary": "I don't really know her."
   },
   {
     "Name": "FAL",
     "Alias": [ "fn fal" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:45:00",
     "Time": "0345",
     "Summary": "Good.\r\nHigh base FP;\r\nGood evasion tile buff and coverage;\r\nGood grenades;\r\n;"
   },
@@ -256,7 +292,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:48:00",
     "Time": "0348",
     "Summary": "Good for night.\r\nHigh damage during Night;\r\nDecent FP/Eva tile;\r\nBetter skill uptime than her night competitors;"
   },
@@ -265,7 +300,6 @@
     "Alias": [ "type-95", "qbz-95" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:50:00",
     "Time": "0350",
     "Summary": "Good.\r\nHigh base FP benefiting her damage buff;\r\nVery low initial CD with incredible skill uptime;\r\nVery consistent DPS in long fights;\r\nHas torpedo tits;"
   },
@@ -274,7 +308,6 @@
     "Alias": [ "type-97", "qbz-97" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:50:00",
     "Time": "0350",
     "Summary": "Good.\r\nHigh base FP synergizing her RoF buff;\r\nVery low initial CD with incredible skill uptime;\r\nVery consistent DPS in long fights;\r\nGood eva tile buff & placement;"
   },
@@ -283,7 +316,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:52:00",
     "Time": "0352",
     "Summary": "I don't really know her."
   },
@@ -292,7 +324,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:53:00",
     "Time": "0353",
     "Summary": "I don't really know her."
   },
@@ -301,7 +332,6 @@
     "Alias": [ "hk416" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:55:00",
     "Time": "0355",
     "Summary": "Good.\r\nGreat overall stats;\r\nHighest single nade multiplier;\r\nStrong FP tile buff;\r\nYandere"
   },
@@ -310,7 +340,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:58:00",
     "Time": "0358",
     "Summary": "Very good.\r\nVery high base FP;\r\nVery high base Accuracy;\r\nUnique skill that changes her targeting to backline;\r\nGreat tile buffs and coverage;"
   },
@@ -319,7 +348,6 @@
     "Alias": [ "g11" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:04:00",
     "Time": "0404",
     "Summary": "Very good.\r\nUnusually high base RoF;\r\nOverwhelmingly high DPS thanks to her powerful skill;\r\nStrong FP tile buff;\r\nSleepo Beepo;"
   },
@@ -328,7 +356,6 @@
     "Alias": [ "g41", "homete" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:05:00",
     "Time": "0405",
     "Summary": "Very good.\r\nGreat overall stats, jack of all trades;\r\nGood initial CD and great uptime;\r\nWill homete at you;"
   },
@@ -337,7 +364,6 @@
     "Alias": [ "zas" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:05:00",
     "Time": "0405",
     "Summary": "Very good.\r\nHigh base FP;\r\nVersatile skill, switching between AOE and self-buff depending on battle;\r\nGood initial CD;\r\nFastest Grenade priming animation;\r\nNade takes very short time to be launched;\r\nGood nade radius (2.5 yards);"
   },
@@ -346,7 +372,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:09:00",
     "Time": "0409",
     "Summary": "I don't really know her."
   },
@@ -355,7 +380,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:11:00",
     "Time": "0411",
     "Summary": "I don't really know her."
   },
@@ -364,7 +388,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:12:00",
     "Time": "0412",
     "Summary": "I don't really know her."
   },
@@ -373,7 +396,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Very good.\r\nHigh base FP;\r\nUnmatched RoF during skill;\r\nExcellent tile coverage;\r\nTiles buff all types;\r\nGood initial CD"
   },
@@ -382,7 +404,6 @@
     "Alias": [ "ots 14", "groza" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Very good.\r\nHigh damage during night;\r\nAccuracy/RoF buff for SMG;\r\nStill effective during daytime combat;\r\nNight queen;"
   },
@@ -391,1519 +412,14 @@
     "Alias": [ "art 556", "green homete" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "Ok.\r\nHigh base FP;"
-  },
-  {
-    "Name": "@ChiefNoir",
-    "Alias": [ "ChiefNoir", "chiefnoir", "chief" ],
-    "Stars": "♥",
-    "Category": "Commander",
-    "DisplayTime": null,
-    "Time": null,
-    "Summary": "He is <b>great</b>."
-  },
-  {
-    "Name": "M1911",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:20:00",
-    "Time": "0020",
-    "Summary": "No. Has smoke grenade."
-  },
-  {
-    "Name": "M1895",
-    "Alias": [ "babushka" ],
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:20:00",
-    "Time": "0020",
-    "Summary": "Good loli babushka.\r\n;Excellent firepower tile buff and good tile coverage;\r\nBonus crit tile buff;\r\nVery high FP debuff at night;\r\nHigh base evasion;"
-  },
-  {
-    "Name": "P38",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:20:00",
-    "Time": "0020",
-    "Summary": "No.\r\nHas flare but it's useless."
-  },
-  {
-    "Name": "PPK",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:22:00",
-    "Time": "0022",
-    "Summary": "Good at early game.\r\nExcellent RoF tile buff and good coverage;\r\nBonus crit tile buff;\r\nVery high evasion"
-  },
-  {
-    "Name": "FN FNP9",
-    "Alias": [ "fnp9", "ff fnp9" ],
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:25:00",
-    "Time": "0025",
-    "Summary": "Not good."
-  },
-  {
-    "Name": "MP-446",
-    "Alias": [ "mp446", "viking" ],
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:25:00",
-    "Time": "0025",
-    "Summary": "Good at early game."
-  },
-  {
-    "Name": "Bren Ten",
-    "Alias": [ "brenten" ],
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:28:00",
-    "Time": "0028",
-    "Summary": "Good at early game."
-  },
-  {
-    "Name": "Gr USPCompact",
-    "Alias": [ "usp", "uspcompact" ],
-    "Stars": "☆☆☆★★",
-    "Category": "HG",
-    "DisplayTime": "0:28:00",
-    "Time": "0028",
-    "Summary": "Not good."
-  },
-  {
-    "Name": "Noel",
-    "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Sort of ok.\r\nExcellent RoF tile buff;\r\nBonus evasion tile buff;"
-  },
-  {
-    "Name": "P08",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:30:00",
-    "Time": "0030",
-    "Summary": "She is ok.\r\nGood tile coverage;\r\nVery high evasion buff at night;\r\n\r\n<i>Do you need a combination of Accuracy and Evasion buffs at night for some reason?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "C96",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:30:00",
-    "Time": "0030",
-    "Summary": "Core her. Flare is useless."
-  },
-  {
-    "Name": "Type92",
-    "Alias": [ "type 92" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:35:00",
-    "Time": "0035",
-    "Summary": "No.\r\n\r\n<i>Do you need a combination of Accuracy and Evasion buffs for your entire team for some odd reason?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "P99",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:35:00",
-    "Time": "0035",
-    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "Astra",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:40:00",
-    "Time": "0040",
-    "Summary": "Ok.\r\nGood RoF skill buff;\r\nHigh base HP;\r\nBudget HG.\r\n\r\n<i>Are you missing Calico, Five-Seven or Stechkin?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "M9",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:40:00",
-    "Time": "0040",
-    "Summary": "Just core her."
-  },
-  {
-    "Name": "Makarov",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:40:00",
-    "Time": "0040",
-    "Summary": "Good.\r\nGood FP/RoF tile buff and coverage; \r\nVery high base evasion;\r\nBudget HG."
-  },
-  {
-    "Name": "Tokarev",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "0:45:00",
-    "Time": "0045",
-    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "G17",
-    "Alias": [ "glock 17" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Ok.\r\nRare FP debuff skill;\r\nHigh base evasion;\r\n\r\n<i>Do you want a defensive SGMG team?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "PSM",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "HK45",
-    "Alias": [ "hk 45" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Ok.\r\nExcellent FP tile buff;"
-  },
-  {
-    "Name": "CZ-805",
-    "Alias": [ "cz805" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Just core her."
-  },
-  {
-    "Name": "Mk23",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "0:50:00",
-    "Time": "0050",
-    "Summary": "Very good.\r\nExcellent FP skill buff at night, still decent at day;\r\nExcellent FP tile buff and coverage;\r\nHigh base HP;"
-  },
-  {
-    "Name": "SAA",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "0:50:00",
-    "Time": "0050",
-    "Summary": "Pretty good.\r\nGood FP skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP;"
-  },
-  {
-    "Name": "Spitfire",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "0:52:00",
-    "Time": "0052",
-    "Summary": "Ok.\r\nExcellent FP tile buff;\r\nBonus accuracy tile buff;\r\nNice hat;"
-  },
-  {
-    "Name": "K5",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "0:53:00",
-    "Time": "0053",
-    "Summary": "Very good.\r\nGood variable skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP."
-  },
-  {
-    "Name": "P7",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "0:55:00",
-    "Time": "0055",
-    "Summary": "Niche, Ok.\r\nGood evasion skill;\r\nDecent tile coverage;\r\nBonus RoF tile buff;\r\nHigh base evasion.\r\n\r\n<i>Do you need an Evasion Skill Buff AND Tile Buffs? Are you looking to make a defensive type 5HG team?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "Stechkin",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "0:55:00",
-    "Time": "0055",
-    "Summary": "Very good.\r\nGood RoF skill buff;\r\nGood RoF tile buff and coverage;\r\nBonus FP tile buff;\r\nHigh base HP."
-  },
-  {
-    "Name": "SPP-1",
-    "Alias": [ "spp" ],
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Sort of ok.\r\nMassive accuracy buff and evasion debuff;\r\nBonus FP tile buff;\r\nHigh base HP"
-  },
-  {
-    "Name": "Welrod MkII",
-    "Alias": [ "welrod" ],
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "1:00:00",
-    "Time": "0100",
-    "Summary": "Very good.\r\nExcellent FP/RoF tile buff and coverage;\r\nHigh base HP;\r\nHigh base evasion;"
-  },
-  {
-    "Name": "Contender",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "1:02:00",
-    "Time": "0102",
-    "Summary": "Very good.\r\nExcellent FP tile buff and coverage;\r\nGood bonus crit rate tile;\r\nUnique skill redirecting ally fire and amplifying all damage taken to target."
-  },
-  {
-    "Name": "Px4 Storm",
-    "Alias": [ "storm" ],
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "1:04:00",
-    "Time": "0104",
-    "Summary": "Good."
-  },
-  {
-    "Name": "M950A",
-    "Alias": [ "calico" ],
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "1:05:00",
-    "Time": "0105",
-    "Summary": "Very good.\r\nExcellent RoF skill buff;\r\nExcellent RoF tile buff;\r\nBonus accuracy tile buff;\r\nHigh base HP."
-  },
-  {
-    "Name": "NZ75",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "1:05:00",
-    "Time": "0105",
-    "Summary": "Good, but niche.\r\nGood FP tile buff and excellent coverage;\r\nExcellent evasion tile buff."
-  },
-  {
-    "Name": "Grizzly",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "1:10:00",
-    "Time": "0110",
-    "Summary": "Very good. \r\nExcellent firepower skill buff; \r\nExcellent FP tile buff and good coverage; \r\nBonus evasion tile buff;\r\nVery high base HP;"
-  },
-  {
-    "Name": "Five-seveN",
-    "Alias": [ "five seven", "5-7", "57" ],
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Very good.\r\nGood RoF skill buff;\r\nExcellent RoF tile buff and good coverage;\r\nGood bonus crit rate tile and skill buff;\r\nVery high base evasion;\r\nHoxy?"
-  },
-  {
-    "Name": "CZ75",
-    "Alias": [ "girl with axe", "axe" ],
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Ok.\r\nExcellent FP/RoF tile buff;\r\nLow cooldown pseudo-bamboo skill for low-cost boss farming;"
-  },
-  {
-    "Name": "AAT-52",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "MG",
-    "DisplayTime": "4:50:00",
-    "Time": "0450",
-    "Summary": "No."
-  },
-  {
-    "Name": "FG42",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "MG",
-    "DisplayTime": "4:50:00",
-    "Time": "0450",
-    "Summary": "No."
-  },
-  {
-    "Name": "DP28",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "MG",
-    "DisplayTime": "5:00:00",
-    "Time": "0500",
-    "Summary": "No."
-  },
-  {
-    "Name": "MG34",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "MG",
-    "DisplayTime": "5:00:00",
-    "Time": "0500",
-    "Summary": "No."
-  },
-  {
-    "Name": "LWMMG",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "MG",
-    "DisplayTime": "5:10:00",
-    "Time": "0510",
-    "Summary": "Good.\r\nHigh base FP;\r\nLow initial cooldown;"
-  },
-  {
-    "Name": "Bren",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "MG",
-    "DisplayTime": "5:20:00",
-    "Time": "0520",
-    "Summary": "Just core her."
-  },
-  {
-    "Name": "M1919A4",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "MG",
-    "DisplayTime": "5:40:00",
-    "Time": "0540",
-    "Summary": "Good.\r\nHigh base FP;\r\nLow initial cooldown;\r\nVery cute;"
-  },
-  {
-    "Name": "MG42",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "MG",
-    "DisplayTime": "5:50:00",
-    "Time": "0550",
-    "Summary": "Just core her."
-  },
-  {
-    "Name": "M2HB",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "MG",
-    "DisplayTime": "6:10:00",
-    "Time": "0610",
-    "Summary": "Very good.\r\nVery high base FP;\r\nGood passive skill;"
-  },
-  {
-    "Name": "FF M249SAW",
-    "Alias": [ "m249saw", "m249 saw" ],
-    "Stars": "☆☆★★★",
-    "Category": "MG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Do you need a Midnight MG?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "RPD",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "MG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Do you have a MG that is better at the job than her?(e.g. BAR)</i>\r\n\tCore her if yes."
-  },
-  {
-    "Name": "62 Shiki",
-    "Alias": [ "62 shiki", "type 62", "ntk-62" ],
-    "Stars": "☆☆★★★",
-    "Category": "MG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Do you have a MG that is better at the job than her?(e.g. LWMMG)</i>\r\n\tCore her if yes."
-  },
-  {
-    "Name": "M60",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:10:00",
-    "Time": "0610",
-    "Summary": "No.\r\n\r\n<i>Do you need a Midnight MG?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "Type80",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:15:00",
-    "Time": "0615",
-    "Summary": "Ok. All round decent stats"
-  },
-  {
-    "Name": "AEK-999",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:20:00",
-    "Time": "0620",
-    "Summary": "Ok for night stuff.\r\nGood armor tiles;"
-  },
-  {
-    "Name": "Mk48",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:20:00",
-    "Time": "0620",
-    "Summary": "Good.\r\nHigher clip size than her competitors;\r\nLow initial cooldown;\r\nSadomasochist;"
-  },
-  {
-    "Name": "Ameli",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:25:00",
-    "Time": "0625",
-    "Summary": "Ok for night with special eqip.\r\nLooks like a Christmas Tree;\r\n\r\n<i>Do you have her SPEQ?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "M1918",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:25:00",
-    "Time": "0625",
-    "Summary": "Ok.\r\nHigh base FP;\r\nHigh base accuracy;\r\nGood armor tile;"
-  },
-  {
-    "Name": "MG3",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:30:00",
-    "Time": "0630",
-    "Summary": "She is cute."
-  },
-  {
-    "Name": "PK",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:30:00",
-    "Time": "0630",
-    "Summary": "Very good.\r\nHigh base FP;\r\nHigh clip size;\r\nPassive skill;"
-  },
-  {
-    "Name": "Type88",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:28:00",
-    "Time": "0628",
-    "Summary": "I really don't know her."
-  },
-  {
-    "Name": "Negev",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:35:00",
-    "Time": "0635",
-    "Summary": "Good.\r\nHigh base accuracy;\r\nExcellent armor tile and coverage;\r\nSpecialized in long battles;"
-  },
-  {
-    "Name": "Gr MG4",
-    "Alias": [ "mg4" ],
-    "Stars": "★★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:40:00",
-    "Time": "0640",
-    "Summary": "No.\r\nHigh base accuracy;\r\nGreat armor tile"
-  },
-  {
-    "Name": "Gr MG5",
-    "Alias": [ "mg5" ],
-    "Stars": "★★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:45:00",
-    "Time": "0645",
-    "Summary": "Very good.\r\nHigh clip size;\r\nGood armor tile;\r\nPassive skill;"
-  },
-  {
-    "Name": "PKP",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "MG",
-    "DisplayTime": "6:50:00",
-    "Time": "0650",
-    "Summary": "Very good.\r\nHigh clip size;\r\nGood armor tile;\r\nPassive skill;"
-  },
-  {
-    "Name": "FF FN49",
-    "Alias": [ "fn49" ],
-    "Stars": "☆☆☆★★",
-    "Category": "RF",
-    "DisplayTime": "3:10:00",
-    "Time": "0310",
-    "Summary": "No."
-  },
-  {
-    "Name": "G43",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "RF",
-    "DisplayTime": "3:10:00",
-    "Time": "0310",
-    "Summary": "No."
-  },
-  {
-    "Name": "VM59",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "RF",
-    "DisplayTime": "3:20:00",
-    "Time": "0320",
-    "Summary": "No."
-  },
-  {
-    "Name": "SKS",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "RF",
-    "DisplayTime": "3:30:00",
-    "Time": "0330",
-    "Summary": "No."
-  },
-  {
-    "Name": "SVT-38",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "RF",
-    "DisplayTime": "3:30:00",
-    "Time": "0330",
-    "Summary": "No."
-  },
-  {
-    "Name": "M14",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "3:40:00",
-    "Time": "0340",
-    "Summary": "Very good.\r\nI don't want no teenage queen\r\nI just want my M-14;"
-  },
-  {
-    "Name": "SV-98",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "3:40:00",
-    "Time": "0340",
-    "Summary": "Good.\r\nGood overall stats;\r\nGood budget RF;\r\nCan shoot you through the heart."
-  },
-  {
-    "Name": "OTs-44",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "3:50:00",
-    "Time": "0350",
-    "Summary": "She is cute."
-  },
-  {
-    "Name": "Type88",
-    "Alias": [ "type 88", "hanyang" ],
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "3:50:00",
-    "Time": "0350",
-    "Summary": "No.\r\n<i>Do you need a niche night-focused RF? </i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "M1 Garand",
-    "Alias": [ "garand" ],
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "4:00:00",
-    "Time": "0400",
-    "Summary": "Ok.\r\nAuto-retarget backrow;\r\nGood overall stats;\r\nGood budget RF;\r\n\r\n<i>Are you lacking alternative RFs to use as a replacement?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "M21",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No."
-  },
-  {
-    "Name": "M1A1",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\nRoF self-buff;\r\nVery long buff duration;"
-  },
-  {
-    "Name": "Type 56-Semi",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\nFP self-buff;"
-  },
-  {
-    "Name": "Super SASS",
-    "Alias": [ "sass", "super ass" ],
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Do you have any better choices for small bamboo? (Springfield, Mosin Nagant) </i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "SSG 69",
-    "Alias": [ "ssg69" ],
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Are you missing M14 or any other alternatives?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "Type 81R",
-    "Alias": [ "type81r" ],
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Would you care enough to raise a much rarer G43 who performs even worse than her?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "Mosin-Nagant",
-    "Alias": [ "mosin", "nugget" ],
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:10:00",
-    "Time": "0410",
-    "Summary": "Ok. Has a special cape that boosts her FP and crit damage significantly.\r\nWill xopowo at you;"
-  },
-  {
-    "Name": "SVD",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:15:00",
-    "Time": "0415",
-    "Summary": "Very good.\r\nGreat overall stats;\r\nRoF self-buff;\r\n7* RF Goddess"
-  },
-  {
-    "Name": "Gr G28",
-    "Alias": [ "g28" ],
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:20:00",
-    "Time": "0420",
-    "Summary": "Good.\r\nHigh base RoF;\r\nFP self-buff;\r\n nice girl"
-  },
-  {
-    "Name": "Gr PSG-1",
-    "Alias": [ "psg" ],
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:20:00",
-    "Time": "0420",
-    "Summary": "No.\r\n\r\n<i>Do you have any better choices for small bamboo? (Springfield, Mosin Nagant) </i>\r\n\tCore her if yes."
-  },
-  {
-    "Name": "Springfield",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:25:00",
-    "Time": "0425",
-    "Summary": "Good.\r\nHas a special ammo that boosts her RoF significantly;\r\nCan bake;"
-  },
-  {
-    "Name": "PTRD",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:30:00",
-    "Time": "0430",
-    "Summary": "No.\r\n\r\n<i>Are you missing better Big Nukers like NTW-20 and M99? </i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "PzB 39",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:30:00",
-    "Time": "0430",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "PSG-1",
-    "Alias": [ "psg 1", "psg" ],
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\nHigh base RoF;"
-  },
-  {
-    "Name": "T-5000",
-    "Alias": [ "t5000" ],
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:10:00",
-    "Time": "0410",
-    "Summary": "Good.\r\nRoF/Accuracy self-buff;\r\nGood tile formation;"
-  },
-  {
-    "Name": "Carcano M1891",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:38:00",
-    "Time": "0438",
-    "Summary": "Good.\r\nSkill buffs RFs even further;\r\nBuffs on other RFs pretty much ties down to her RoF;\r\nDecent FP"
-  },
-  {
-    "Name": "Kar98k",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:40:00",
-    "Time": "0440",
-    "Summary": "Very good dorm decoration."
-  },
-  {
-    "Name": "Carcano M91∕38",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:42:00",
-    "Time": "0442",
-    "Summary": "Very doog.\r\nExtremely high damage (45x) on skill against non-elite;\r\nLow intial cooldown and cooldown;\r\nSignificantly higher FP than average;\r\nSkillshot doesn't miss;"
-  },
-  {
-    "Name": "NTW-20",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:45:00",
-    "Time": "0445",
-    "Summary": "Good.\r\nHighest base FP among RFs;"
-  },
-  {
-    "Name": "WA2000",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:50:00",
-    "Time": "0450",
-    "Summary": "Very good.\r\nHigh base RoF;\r\nPowerful RoF self-buff;\r\nTsundere;"
-  },
-  {
-    "Name": "IWS-2000",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:52:00",
-    "Time": "0452",
-    "Summary": "Good.\r\nVery high base FP;\r\nMassive FP self-buff;\r\nCore of Exodia Team;"
-  },
-  {
-    "Name": "M99",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:55:00",
-    "Time": "0455",
-    "Summary": "Good.\r\nVery high base FP;"
-  },
-  {
-    "Name": "Lee Enfield",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "5:00:00",
-    "Time": "0500",
-    "Summary": "Very good.\r\nPowerful FP self-buff"
-  },
-  {
-    "Name": "JS05",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\nHigh base FP"
-  },
-  {
-    "Name": "Elphelt",
-    "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "SG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Very good.\r\nHigh armor;\r\nHigh base HP;\r\nHigh clip size;\r\nGood tile buff and coverage;\r\nPowerful skill if activated;"
-  },
-  {
-    "Name": "NS2000",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SG",
-    "DisplayTime": "7:15:00",
-    "Time": "0715",
-    "Summary": "Ok.\r\nGood tile buff and coverage;\r\nAble to clean up with Burst Impact;"
-  },
-  {
-    "Name": "M500",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SG",
-    "DisplayTime": "7:20:00",
-    "Time": "0720",
-    "Summary": "Ok.\r\nGood tile buff and coverage;\r\nHas nekomimi, but not annoying;"
-  },
-  {
-    "Name": "KS-23",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SG",
-    "DisplayTime": "7:25:00",
-    "Time": "0725",
-    "Summary": "Ok.\r\nHigh base HP;\r\nMassive FP for a SG;"
-  },
-  {
-    "Name": "RMB-93",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SG",
-    "DisplayTime": "7:30:00",
-    "Time": "0730",
-    "Summary": "OK.\r\nGood armor;\r\nAble to clean up with Burst Impact;"
-  },
-  {
-    "Name": "M1014",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SG",
-    "DisplayTime": "7:14:00",
-    "Time": "0714",
-    "Summary": "Ok.\r\nHigh base HP;\r\nGood tile buff and coverage;"
-  },
-  {
-    "Name": "M590",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SG",
-    "DisplayTime": "7:40:00",
-    "Time": "0740",
-    "Summary": "Ok.\r\nHighest armor after skill;\r\nGood tile coverage;"
-  },
-  {
-    "Name": "SPAS-12",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SG",
-    "DisplayTime": "7:40:00",
-    "Time": "0740",
-    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
-  },
-  {
-    "Name": "M37",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SG",
-    "DisplayTime": "7:45:00",
-    "Time": "0745",
-    "Summary": "Good.\r\nGood tile buff and coverage;\r\nAble to clean up with Burst Impact;"
-  },
-  {
-    "Name": "Super-Shorty",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SG",
-    "DisplayTime": "7:50:00",
-    "Time": "0750",
-    "Summary": "Ok.\r\nVery short;\r\nHighest evasion among SGs"
-  },
-  {
-    "Name": "USAS-12",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SG",
-    "DisplayTime": "7:55:00",
-    "Time": "0755",
-    "Summary": "Good.\r\nHigh RoF that is buffed to near RoF cap at start of battle;\r\nHigh clip size that is buffed further with said steroid"
-  },
-  {
-    "Name": "M1897",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "7:30:00",
-    "Time": "0730",
-    "Summary": "Ok.\r\nHigh base HP;"
-  },
-  {
-    "Name": "Am KSG",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "8:00:00",
-    "Time": "0800",
-    "Summary": "Good.\r\nHighest armor among SGs;\r\nGood tile buff and coverage;"
-  },
-  {
-    "Name": "S.A.T.8",
-    "Alias": [ "sat8" ],
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "8:10:00",
-    "Time": "0810",
-    "Summary": "Very good.\r\nFluffy;\r\nVery high base HP;\r\nGood tile buff and coverage;\r\nSpammable shield;"
-  },
-  {
-    "Name": "AA-12",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "8:12:00",
-    "Time": "0812",
-    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
-  },
-  {
-    "Name": "M1887",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Good.\r\nHigh base HP;"
-  },
-  {
-    "Name": "IDW",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:10:00",
-    "Time": "0110",
-    "Summary": "That's... a weird cat."
-  },
-  {
-    "Name": "PP-2000",
-    "Alias": [ "pp 2000", "pp2000" ],
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:10:00",
-    "Time": "0110",
-    "Summary": "No."
-  },
-  {
-    "Name": "Spectre M4",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:20:00",
-    "Time": "0120",
-    "Summary": "No."
-  },
-  {
-    "Name": "M45",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:20:00",
-    "Time": "0120",
-    "Summary": "Good for early game."
-  },
-  {
-    "Name": "Type64",
-    "Alias": [ "type 64", "type-64" ],
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:25:00",
-    "Time": "0125",
-    "Summary": "Good for early game."
-  },
-  {
-    "Name": "M38",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:30:00",
-    "Time": "0130",
-    "Summary": "Good for early game."
-  },
-  {
-    "Name": "M3",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:30:00",
-    "Time": "0130",
-    "Summary": "No."
-  },
-  {
-    "Name": "MP40",
-    "Alias": null,
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:30:00",
-    "Time": "0130",
-    "Summary": "No."
-  },
-  {
-    "Name": "PPSh-41",
-    "Alias": [ "ppsh" ],
-    "Stars": "☆☆☆★★",
-    "Category": "SMG",
-    "DisplayTime": "1:50:00",
-    "Time": "0150",
-    "Summary": "No."
-  },
-  {
-    "Name": "Micro UZI",
-    "Alias": [ "micro-uzi", "microuzi" ],
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "1:40:00",
-    "Time": "0140",
-    "Summary": "Not very good, but she is cute and will try hard.\r\nHigh base evasion;\r\nMolotov skill;\r\n\r\n<i>Does your team still require an off-tank that could theoretically have a place for someone with as oddly placed tiles as hers?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "Sten MkII",
-    "Alias": [ "sten" ],
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "1:40:00",
-    "Time": "0140",
-    "Summary": "Good for early game.\r\n\r\n<i>Are you lacking dolls who can do her job just as well, or even better?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "F1",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "1:50:00",
-    "Time": "0150",
-    "Summary": "She is clever girl."
-  },
-  {
-    "Name": "Ingram",
-    "Alias": [ "mac-10", "mac 10" ],
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:00:00",
-    "Time": "0200",
-    "Summary": "Good for early game."
-  },
-  {
-    "Name": "Skorpion",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:00:00",
-    "Time": "0200",
-    "Summary": "Good for early game.\r\nVery high base evasion;\r\nGood tile buff;\r\nMolotov skill;\r\nTwin tails;"
-  },
-  {
-    "Name": "Z-62",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:05:00",
-    "Time": "0205",
-    "Summary": "Good.\r\nHigh base evasion;\r\nHigh base FP;\r\nGood tile coverage;\r\nMolotov skill;"
-  },
-  {
-    "Name": "PPS-43",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:10:00",
-    "Time": "0210",
-    "Summary": "Very good.\r\nVery high base FP;\r\nGood tile coverage;\r\nGood grenade skill;"
-  },
-  {
-    "Name": "FMG-9",
-    "Alias": [ "fmg9" ],
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Do you like to run tanks that are made of paper?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "EVO 3",
-    "Alias": [ "evo" ],
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Are you for some reason missing Skorpion?</i>\r\n\tCore her if yes."
-  },
-  {
-    "Name": "MT-9",
-    "Alias": [ "mt 9" ],
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\n\r\n<i>Are you missing/desperate for flashbang main tanks?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "SCW",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "No.\r\nHigh base FP;\r\nHas a self-buff;"
-  },
-  {
-    "Name": "UMP45",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:15:00",
-    "Time": "0215",
-    "Summary": "Very good.\r\nGood balanced stats;\r\nLow initial CD;\r\nExcellent tile buff and coverage;"
-  },
-  {
-    "Name": "UMP9",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:15:00",
-    "Time": "0215",
-    "Summary": "Very good.\r\nGood balanced stats;\r\nGood tile coverage;"
-  },
-  {
-    "Name": "Shipka",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:18:00",
-    "Time": "0218",
-    "Summary": "No.\r\n<i>Do you have Suomi?</i>\r\n\tCore her if yes."
-  },
-  {
-    "Name": "PP-19-01",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:18:00",
-    "Time": "0218",
-    "Summary": "Good.\r\nHigh base HP;\r\nLow initial CD;"
-  },
-  {
-    "Name": "Gr MP5",
-    "Alias": [ "mp5" ],
-    "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:20:00",
-    "Time": "0220",
-    "Summary": "No.\r\n\r\n<i>Are you going to get and enhance her special equipment (4-4N)?</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "PP-90",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:20:00",
-    "Time": "0220",
-    "Summary": "No.\r\n\r\n<i>Do you want to run an evasion tank? (relies on skill)</i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "Suomi",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:25:00",
-    "Time": "0225",
-    "Summary": "Not very good.\r\nVery high base HP;\r\nGood skill uptime"
-  },
-  {
-    "Name": "Gr G36c",
-    "Alias": [ "g36c" ],
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:30:00",
-    "Time": "0230",
-    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage;"
-  },
-  {
-    "Name": "Thompson",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:30:00",
-    "Time": "0230",
-    "Summary": "Good.\r\nVery high base HP."
-  },
-  {
-    "Name": "SR-3MP",
-    "Alias": [ "shrimp" ],
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:33:00",
-    "Time": "0233",
-    "Summary": "Good.\r\nHigh base HP and base FP\r\nExcellent tile buff and coverage;\r\nUnique and devastating self-buff;"
-  },
-  {
-    "Name": "Type79",
-    "Alias": [ "type-79", "type 79" ],
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:35:00",
-    "Time": "0235",
-    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff."
-  },
-  {
-    "Name": "Vector",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:35:00",
-    "Time": "0235",
-    "Summary": "Good.\r\nHigh base HP;\r\nHigh base FP;\r\nGood tile buff;\r\nMOLOTOV;"
-  },
-  {
-    "Name": "RO635",
-    "Alias": [ "635" ],
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "Very good.\r\nHigh base HP;\r\nLow initial CD;\r\nGood tile coverage;\r\nPowerful defensive skill;"
-  },
-  {
-    "Name": "FP-6",
-    "Alias": [ "fp6" ],
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "8:06:00",
-    "Time": "0806",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Saiga-12",
-    "Alias": [ "saiga", "saiga 12" ],
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "8:05:00",
-    "Time": "0805",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "C-MS",
-    "Alias": [ "cms" ],
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:28:00",
-    "Time": "0228",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "CZ52",
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "GSh-18",
-    "Alias": [ "gsh18", "gsh 18" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "MP-443",
-    "Alias": [ "mp443", "mp 443" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "MP-448",
-    "Alias": [ "mp448", "mp 448" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "P226",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Serdyukov",
-    "Alias": [ "sr-1", "sr 1" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "TEC-9",
-    "Alias": [ "tec 9", "tec9" ],
-    "Stars": "☆☆★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Jericho",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "00:49:00",
-    "Time": "0049",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Thunder",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "HS2000",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "P22",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Px4 Storm",
-    "Alias": [ "px4" ],
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "01:04:00",
-    "Time": "0104",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Python",
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Model L",
-    "Stars": "☆☆★★★",
-    "Category": "AR",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "T65",
-    "Stars": "☆☆★★★",
-    "Category": "AR",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Type 03",
-    "Stars": "☆☆★★★",
-    "Category": "AR",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "A-91",
-    "Stars": "☆★★★★",
-    "Category": "AR",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Ak 5",
-    "Stars": "☆★★★★",
-    "Category": "AR",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "CZ2000",
-    "Stars": "☆★★★★",
-    "Category": "AR",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "SAR-21",
-    "Stars": "☆★★★★",
-    "Category": "AR",
-    "DisplayTime": "3:25:00",
-    "Time": "0325",
-    "Summary": "I don't really know her."
   },
   {
     "Name": "AK-12",
     "Alias": [ "ak 12", "ak12" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:12:00",
     "Time": "0412",
     "Summary": "I don't really know her."
   },
@@ -1912,7 +428,6 @@
     "Alias": [ "an 94", "an94" ],
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:09:00",
     "Time": "0409",
     "Summary": "I don't really know her."
   },
@@ -1921,7 +436,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:06:00",
     "Time": "0406",
     "Summary": "I don't really know her."
   },
@@ -1930,7 +444,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "4:11:00",
     "Time": "0411",
     "Summary": "I don't really know her."
   },
@@ -1939,7 +452,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:52:00",
     "Time": "0352",
     "Summary": "I don't really know her."
   },
@@ -1948,358 +460,614 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "AR",
-    "DisplayTime": "3:53:00",
     "Time": "0353",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "F1",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "1:50:00",
-    "Time": "0150",
-    "Summary": "I don't really know her."
+    "Name": "@ChiefNoir",
+    "Alias": [ "ChiefNoir", "chiefnoir", "chief" ],
+    "Stars": "♥",
+    "Category": "Commander",
+    "Time": null,
+    "Summary": "He is <b>great</b>."
   },
   {
-    "Name": "M12",
+    "Name": "M1911",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0020",
+    "Summary": "No. Has smoke grenade."
+  },
+  {
+    "Name": "M1895",
+    "Alias": [ "babushka" ],
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0020",
+    "Summary": "Good loli babushka.\r\n;Excellent firepower tile buff and good tile coverage;\r\nBonus crit tile buff;\r\nVery high FP debuff at night;\r\nHigh base evasion;"
+  },
+  {
+    "Name": "P38",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0020",
+    "Summary": "No.\r\nHas flare but it's useless."
+  },
+  {
+    "Name": "PPK",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0022",
+    "Summary": "Good at early game.\r\nExcellent RoF tile buff and good coverage;\r\nBonus crit tile buff;\r\nVery high evasion"
+  },
+  {
+    "Name": "FN FNP9",
+    "Alias": [ "fnp9", "ff fnp9" ],
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0025",
+    "Summary": "Not good."
+  },
+  {
+    "Name": "MP-446",
+    "Alias": [ "mp446", "viking" ],
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0025",
+    "Summary": "Good at early game."
+  },
+  {
+    "Name": "Bren Ten",
+    "Alias": [ "brenten" ],
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0028",
+    "Summary": "Good at early game."
+  },
+  {
+    "Name": "Gr USPCompact",
+    "Alias": [ "usp", "uspcompact" ],
+    "Stars": "☆☆☆★★",
+    "Category": "HG",
+    "Time": "0028",
+    "Summary": "Not good."
+  },
+  {
+    "Name": "P08",
     "Alias": null,
     "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Category": "HG",
+    "Time": "0030",
+    "Summary": "She is ok.\r\nGood tile coverage;\r\nVery high evasion buff at night;\r\n\r\n<i>Do you need a combination of Accuracy and Evasion buffs at night for some reason?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "C96",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "0030",
+    "Summary": "Core her. Flare is useless."
+  },
+  {
+    "Name": "Type92",
+    "Alias": [ "type 92" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "0035",
+    "Summary": "No.\r\n\r\n<i>Do you need a combination of Accuracy and Evasion buffs for your entire team for some odd reason?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "P99",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "0035",
+    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "Astra",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "0040",
+    "Summary": "Ok.\r\nGood RoF skill buff;\r\nHigh base HP;\r\nBudget HG.\r\n\r\n<i>Are you missing Calico, Five-Seven or Stechkin?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "M9",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "0040",
+    "Summary": "Just core her."
+  },
+  {
+    "Name": "Makarov",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "0040",
+    "Summary": "Good.\r\nGood FP/RoF tile buff and coverage; \r\nVery high base evasion;\r\nBudget HG."
+  },
+  {
+    "Name": "Tokarev",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "0045",
+    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "G17",
+    "Alias": [ "glock 17" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "Ok.\r\nRare FP debuff skill;\r\nHigh base evasion;\r\n\r\n<i>Do you want a defensive SGMG team?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "PSM",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "HK45",
+    "Alias": [ "hk 45" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "Ok.\r\nExcellent FP tile buff;"
+  },
+  {
+    "Name": "CZ-805",
+    "Alias": [ "cz805" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "Just core her."
+  },
+  {
+    "Name": "CZ52",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "OTs-39",
-    "Alias": null,
+    "Name": "GSh-18",
+    "Alias": [ "gsh18", "gsh 18" ],
     "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "T77",
-    "Alias": null,
+    "Name": "MP-443",
+    "Alias": [ "mp443", "mp 443" ],
     "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "TMP",
-    "Alias": null,
+    "Name": "MP-448",
+    "Alias": [ "mp448", "mp 448" ],
     "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "Cx4 Storm",
+    "Name": "P226",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Serdyukov",
+    "Alias": [ "sr-1", "sr 1" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "TEC-9",
+    "Alias": [ "tec 9", "tec9" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Mk23",
     "Alias": null,
     "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "HG",
+    "Time": "0050",
+    "Summary": "Very good.\r\nExcellent FP skill buff at night, still decent at day;\r\nExcellent FP tile buff and coverage;\r\nHigh base HP;"
   },
   {
-    "Name": "Honey Badger",
+    "Name": "SAA",
     "Alias": null,
     "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "HG",
+    "Time": "0050",
+    "Summary": "Pretty good.\r\nGood FP skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP;"
   },
   {
-    "Name": "KLIN",
+    "Name": "Spitfire",
     "Alias": null,
     "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "HG",
+    "Time": "0052",
+    "Summary": "Ok.\r\nExcellent FP tile buff;\r\nBonus accuracy tile buff;\r\nNice hat;"
   },
   {
-    "Name": "PP-19",
+    "Name": "K5",
     "Alias": null,
     "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "HG",
+    "Time": "0053",
+    "Summary": "Very good.\r\nGood variable skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP."
   },
   {
-    "Name": "UMP40",
+    "Name": "P7",
     "Alias": null,
     "Stars": "☆★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Category": "HG",
+    "Time": "0055",
+    "Summary": "Niche, Ok.\r\nGood evasion skill;\r\nDecent tile coverage;\r\nBonus RoF tile buff;\r\nHigh base evasion.\r\n\r\n<i>Do you need an Evasion Skill Buff AND Tile Buffs? Are you looking to make a defensive type 5HG team?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "Stechkin",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "Time": "0055",
+    "Summary": "Very good.\r\nGood RoF skill buff;\r\nGood RoF tile buff and coverage;\r\nBonus FP tile buff;\r\nHigh base HP."
+  },
+  {
+    "Name": "SPP-1",
+    "Alias": [ "spp" ],
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "Sort of ok.\r\nMassive accuracy buff and evasion debuff;\r\nBonus FP tile buff;\r\nHigh base HP"
+  },
+  {
+    "Name": "Jericho",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "Time": "0049",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Thunder",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "AK-74U",
+    "Name": "Noel",
     "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Stars": "★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "Sort of ok.\r\nExcellent RoF tile buff;\r\nBonus evasion tile buff;"
+  },
+  {
+    "Name": "Clear",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "JS 9",
+    "Name": "Fail",
     "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Stars": "★",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "MP7",
+    "Name": "Kiana",
     "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:18:00",
-    "Time": "0218",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "P90",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "2:29:00",
-    "Time": "0229",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "PM-06",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Stars": "★",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "PM-9",
+    "Name": "Theresa",
     "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Stars": "★",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "Type 100",
-    "Alias": null,
+    "Name": "Welrod MkII",
+    "Alias": [ "welrod" ],
     "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "02:19:00",
-    "Time": "0219",
-    "Summary": "I don't really know her."
+    "Category": "HG",
+    "Time": "0100",
+    "Summary": "Very good.\r\nExcellent FP/RoF tile buff and coverage;\r\nHigh base HP;\r\nHigh base evasion;"
   },
   {
-    "Name": "X95",
+    "Name": "Contender",
     "Alias": null,
     "Stars": "★★★★★",
-    "Category": "SMG",
-    "DisplayTime": "",
+    "Category": "HG",
+    "Time": "0102",
+    "Summary": "Very good.\r\nExcellent FP tile buff and coverage;\r\nGood bonus crit rate tile;\r\nUnique skill redirecting ally fire and amplifying all damage taken to target."
+  },
+  {
+    "Name": "Px4 Storm",
+    "Alias": [ "storm" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "0104",
+    "Summary": "Good."
+  },
+  {
+    "Name": "M950A",
+    "Alias": [ "calico" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "0105",
+    "Summary": "Very good.\r\nExcellent RoF skill buff;\r\nExcellent RoF tile buff;\r\nBonus accuracy tile buff;\r\nHigh base HP."
+  },
+  {
+    "Name": "NZ75",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "0105",
+    "Summary": "Good, but niche.\r\nGood FP tile buff and excellent coverage;\r\nExcellent evasion tile buff."
+  },
+  {
+    "Name": "Grizzly",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "0110",
+    "Summary": "Very good. \r\nExcellent firepower skill buff; \r\nExcellent FP tile buff and good coverage; \r\nBonus evasion tile buff;\r\nVery high base HP;"
+  },
+  {
+    "Name": "Five-seveN",
+    "Alias": [ "five seven", "5-7", "57" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "Very good.\r\nGood RoF skill buff;\r\nExcellent RoF tile buff and good coverage;\r\nGood bonus crit rate tile and skill buff;\r\nVery high base evasion;\r\nHoxy?"
+  },
+  {
+    "Name": "CZ75",
+    "Alias": [ "girl with axe", "axe" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "Ok.\r\nExcellent FP/RoF tile buff;\r\nLow cooldown pseudo-bamboo skill for low-cost boss farming;"
+  },
+  {
+    "Name": "HS2000",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "HG",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "Falcon",
+    "Name": "P22",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Px4 Storm",
+    "Alias": [ "px4" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "0104",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Python",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "AAT-52",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "Time": "0450",
+    "Summary": "No."
+  },
+  {
+    "Name": "FG42",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "Time": "0450",
+    "Summary": "No."
+  },
+  {
+    "Name": "DP28",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "Time": "0500",
+    "Summary": "No."
+  },
+  {
+    "Name": "MG34",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "Time": "0500",
+    "Summary": "No."
+  },
+  {
+    "Name": "LWMMG",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "MG",
+    "Time": "0510",
+    "Summary": "Good.\r\nHigh base FP;\r\nLow initial cooldown;"
+  },
+  {
+    "Name": "Bren",
     "Alias": null,
     "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "MG",
+    "Time": "0520",
+    "Summary": "Just core her."
   },
   {
-    "Name": "Gepard M1",
+    "Name": "M1919A4",
     "Alias": null,
     "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "MG",
+    "Time": "0540",
+    "Summary": "Good.\r\nHigh base FP;\r\nLow initial cooldown;\r\nVery cute;"
   },
   {
-    "Name": "OBR",
+    "Name": "MG42",
     "Alias": null,
     "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "MG",
+    "Time": "0550",
+    "Summary": "Just core her."
   },
   {
-    "Name": "RT-20",
+    "Name": "M2HB",
     "Alias": null,
     "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Category": "MG",
+    "Time": "0610",
+    "Summary": "Very good.\r\nVery high base FP;\r\nGood passive skill;"
   },
   {
-    "Name": "SM-1",
+    "Name": "FF M249SAW",
+    "Alias": [ "m249saw", "m249 saw" ],
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Do you need a Midnight MG?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "RPD",
     "Alias": null,
     "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
+    "Category": "MG",
     "Time": "",
-    "Summary": "I don't really know her."
+    "Summary": "No.\r\n\r\n<i>Do you have a MG that is better at the job than her?(e.g. BAR)</i>\r\n\tCore her if yes."
   },
   {
-    "Name": "Steyr Scout",
-    "Alias": null,
+    "Name": "62 Shiki",
+    "Alias": [ "62 shiki", "type 62", "ntk-62" ],
     "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
+    "Category": "MG",
     "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Type 56",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "wz.29",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "K31",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "04:15:00",
-    "Time": "0415",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "KSVK",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Mk 12",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "PzB 39",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:30:00",
-    "Time": "0430",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "SPR A3G",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "4:15:00",
-    "Time": "0415",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "XM3",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Ballista",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "DSR-50",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "M82A1",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "TAC-50",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "SRS",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Summary": "No.\r\n\r\n<i>Do you have a MG that is better at the job than her?(e.g. LWMMG)</i>\r\n\tCore her if yes."
   },
   {
     "Name": "HK23",
     "Alias": null,
     "Stars": "☆☆★★★",
     "Category": "MG",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M60",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0610",
+    "Summary": "No.\r\n\r\n<i>Do you need a Midnight MG?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "Type80",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0615",
+    "Summary": "Ok. All round decent stats"
+  },
+  {
+    "Name": "AEK-999",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0620",
+    "Summary": "Ok for night stuff.\r\nGood armor tiles;"
+  },
+  {
+    "Name": "Mk48",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0620",
+    "Summary": "Good.\r\nHigher clip size than her competitors;\r\nLow initial cooldown;\r\nSadomasochist;"
+  },
+  {
+    "Name": "Ameli",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0625",
+    "Summary": "Ok for night with special eqip.\r\nLooks like a Christmas Tree;\r\n\r\n<i>Do you have her SPEQ?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "M1918",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0625",
+    "Summary": "Ok.\r\nHigh base FP;\r\nHigh base accuracy;\r\nGood armor tile;"
+  },
+  {
+    "Name": "MG3",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0630",
+    "Summary": "She is cute."
+  },
+  {
+    "Name": "PK",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "Time": "0630",
+    "Summary": "Very good.\r\nHigh base FP;\r\nHigh clip size;\r\nPassive skill;"
   },
   {
     "Name": "Mk46",
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "MG",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "I don't really know her."
   },
@@ -2308,16 +1076,54 @@
     "Alias": null,
     "Stars": "☆★★★★",
     "Category": "MG",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type88",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "Time": "0628",
+    "Summary": "I really don't know her."
+  },
+  {
+    "Name": "Negev",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "Time": "0635",
+    "Summary": "Good.\r\nHigh base accuracy;\r\nExcellent armor tile and coverage;\r\nSpecialized in long battles;"
+  },
+  {
+    "Name": "Gr MG4",
+    "Alias": [ "mg4" ],
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "Time": "0640",
+    "Summary": "No.\r\nHigh base accuracy;\r\nGreat armor tile"
+  },
+  {
+    "Name": "Gr MG5",
+    "Alias": [ "mg5" ],
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "Time": "0645",
+    "Summary": "Very good.\r\nHigh clip size;\r\nGood armor tile;\r\nPassive skill;"
+  },
+  {
+    "Name": "PKP",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "Time": "0650",
+    "Summary": "Very good.\r\nHigh clip size;\r\nGood armor tile;\r\nPassive skill;"
   },
   {
     "Name": "HK21",
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "MG",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "I don't really know her."
   },
@@ -2326,7 +1132,6 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "MG",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "I don't really know her."
   },
@@ -2335,26 +1140,447 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "MG",
-    "DisplayTime": "6:28:00",
     "Time": "0628",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "M1897",
+    "Name": "FF FN49",
+    "Alias": [ "fn49" ],
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "Time": "0310",
+    "Summary": "No."
+  },
+  {
+    "Name": "G43",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "Time": "0310",
+    "Summary": "No."
+  },
+  {
+    "Name": "VM59",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "Time": "0320",
+    "Summary": "No."
+  },
+  {
+    "Name": "SKS",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "Time": "0330",
+    "Summary": "No."
+  },
+  {
+    "Name": "SVT-38",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "RF",
+    "Time": "0330",
+    "Summary": "No."
+  },
+  {
+    "Name": "M14",
     "Alias": null,
     "Stars": "☆☆★★★",
-    "Category": "SG",
-    "DisplayTime": "7:30:00",
-    "Time": "0730",
+    "Category": "RF",
+    "Time": "0340",
+    "Summary": "Very good.\r\nI don't want no teenage queen\r\nI just want my M-14;"
+  },
+  {
+    "Name": "SV-98",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "0340",
+    "Summary": "Good.\r\nGood overall stats;\r\nGood budget RF;\r\nCan shoot you through the heart."
+  },
+  {
+    "Name": "OTs-44",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "0350",
+    "Summary": "She is cute."
+  },
+  {
+    "Name": "Type88",
+    "Alias": [ "type 88", "hanyang" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "0350",
+    "Summary": "No.\r\n<i>Do you need a niche night-focused RF? </i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "M1 Garand",
+    "Alias": [ "garand" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "0400",
+    "Summary": "Ok.\r\nAuto-retarget backrow;\r\nGood overall stats;\r\nGood budget RF;\r\n\r\n<i>Are you lacking alternative RFs to use as a replacement?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "M21",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No."
+  },
+  {
+    "Name": "M1A1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No.\r\nRoF self-buff;\r\nVery long buff duration;"
+  },
+  {
+    "Name": "Type 56-Semi",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No.\r\nFP self-buff;"
+  },
+  {
+    "Name": "Super SASS",
+    "Alias": [ "sass", "super ass" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Do you have any better choices for small bamboo? (Springfield, Mosin Nagant) </i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "SSG 69",
+    "Alias": [ "ssg69" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Are you missing M14 or any other alternatives?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "Type 81R",
+    "Alias": [ "type81r" ],
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Would you care enough to raise a much rarer G43 who performs even worse than her?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "Falcon",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "FP-6",
+    "Name": "Gepard M1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "OBR",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "RT-20",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SM-1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Steyr Scout",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type 56",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "wz.29",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Mosin-Nagant",
+    "Alias": [ "mosin", "nugget" ],
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0410",
+    "Summary": "Ok. Has a special cape that boosts her FP and crit damage significantly.\r\nWill xopowo at you;"
+  },
+  {
+    "Name": "SVD",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0415",
+    "Summary": "Very good.\r\nGreat overall stats;\r\nRoF self-buff;\r\n7* RF Goddess"
+  },
+  {
+    "Name": "Gr G28",
+    "Alias": [ "g28" ],
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0420",
+    "Summary": "Good.\r\nHigh base RoF;\r\nFP self-buff;\r\n nice girl"
+  },
+  {
+    "Name": "Gr PSG-1",
+    "Alias": [ "psg" ],
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0420",
+    "Summary": "No.\r\n\r\n<i>Do you have any better choices for small bamboo? (Springfield, Mosin Nagant) </i>\r\n\tCore her if yes."
+  },
+  {
+    "Name": "Springfield",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0425",
+    "Summary": "Good.\r\nHas a special ammo that boosts her RoF significantly;\r\nCan bake;"
+  },
+  {
+    "Name": "PTRD",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0430",
+    "Summary": "No.\r\n\r\n<i>Are you missing better Big Nukers like NTW-20 and M99? </i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "PzB 39",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0430",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PSG-1",
+    "Alias": [ "psg 1", "psg" ],
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No.\r\nHigh base RoF;"
+  },
+  {
+    "Name": "T-5000",
+    "Alias": [ "t5000" ],
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0410",
+    "Summary": "Good.\r\nRoF/Accuracy self-buff;\r\nGood tile formation;"
+  },
+  {
+    "Name": "K31",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0415",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "KSVK",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Mk 12",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PzB 39",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0430",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SPR A3G",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "0415",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "XM3",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Bronya",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Raiden Mei",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Carcano M1891",
     "Alias": null,
     "Stars": "★★★★★",
-    "Category": "SG",
-    "DisplayTime": "8:06:00",
-    "Time": "0806",
+    "Category": "RF",
+    "Time": "0438",
+    "Summary": "Good.\r\nSkill buffs RFs even further;\r\nBuffs on other RFs pretty much ties down to her RoF;\r\nDecent FP"
+  },
+  {
+    "Name": "Kar98k",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "0440",
+    "Summary": "Very good dorm decoration."
+  },
+  {
+    "Name": "Carcano M91∕38",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "0442",
+    "Summary": "Very doog.\r\nExtremely high damage (45x) on skill against non-elite;\r\nLow intial cooldown and cooldown;\r\nSignificantly higher FP than average;\r\nSkillshot doesn't miss;"
+  },
+  {
+    "Name": "NTW-20",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "0445",
+    "Summary": "Good.\r\nHighest base FP among RFs;"
+  },
+  {
+    "Name": "WA2000",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "0450",
+    "Summary": "Very good.\r\nHigh base RoF;\r\nPowerful RoF self-buff;\r\nTsundere;"
+  },
+  {
+    "Name": "IWS-2000",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "0452",
+    "Summary": "Good.\r\nVery high base FP;\r\nMassive FP self-buff;\r\nCore of Exodia Team;"
+  },
+  {
+    "Name": "M99",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "0455",
+    "Summary": "Good.\r\nVery high base FP;"
+  },
+  {
+    "Name": "Lee Enfield",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "0500",
+    "Summary": "Very good.\r\nPowerful FP self-buff"
+  },
+  {
+    "Name": "JS05",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "No.\r\nHigh base FP"
+  },
+  {
+    "Name": "Ballista",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "DSR-50",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M82A1",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "TAC-50",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SRS",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "Time": "",
     "Summary": "I don't really know her."
   },
   {
@@ -2362,79 +1588,590 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "RF",
-    "DisplayTime": "",
     "Time": "",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "Clear",
+    "Name": "NS2000",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "Time": "0715",
+    "Summary": "Ok.\r\nGood tile buff and coverage;\r\nAble to clean up with Burst Impact;"
+  },
+  {
+    "Name": "M500",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "Time": "0720",
+    "Summary": "Ok.\r\nGood tile buff and coverage;\r\nHas nekomimi, but not annoying;"
+  },
+  {
+    "Name": "KS-23",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "Time": "0725",
+    "Summary": "Ok.\r\nHigh base HP;\r\nMassive FP for a SG;"
+  },
+  {
+    "Name": "RMB-93",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "Time": "0730",
+    "Summary": "OK.\r\nGood armor;\r\nAble to clean up with Burst Impact;"
+  },
+  {
+    "Name": "M1897",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "Time": "0730",
     "Summary": "I don't really know her."
   },
   {
-    "Name": "Fail",
+    "Name": "M1014",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "Time": "0714",
+    "Summary": "Ok.\r\nHigh base HP;\r\nGood tile buff and coverage;"
   },
   {
-    "Name": "Kiana",
+    "Name": "M590",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "Time": "0740",
+    "Summary": "Ok.\r\nHighest armor after skill;\r\nGood tile coverage;"
   },
   {
-    "Name": "Theresa",
+    "Name": "SPAS-12",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "HG",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "Time": "0740",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
   },
   {
-    "Name": "Murata Himeko",
+    "Name": "M37",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "AR",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "Time": "0745",
+    "Summary": "Good.\r\nGood tile buff and coverage;\r\nAble to clean up with Burst Impact;"
   },
   {
-    "Name": "Bronya",
+    "Name": "Super-Shorty",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "RF",
-    "DisplayTime": "",
-    "Time": "",
-    "Summary": "I don't really know her."
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "Time": "0750",
+    "Summary": "Ok.\r\nVery short;\r\nHighest evasion among SGs"
   },
   {
-    "Name": "Raiden Mei",
+    "Name": "USAS-12",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
-    "Category": "RF",
-    "DisplayTime": "",
+    "Stars": "☆★★★★",
+    "Category": "SG",
+    "Time": "0755",
+    "Summary": "Good.\r\nHigh RoF that is buffed to near RoF cap at start of battle;\r\nHigh clip size that is buffed further with said steroid"
+  },
+  {
+    "Name": "Elphelt",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "SG",
     "Time": "",
-    "Summary": "I don't really know her."
+    "Summary": "Very good.\r\nHigh armor;\r\nHigh base HP;\r\nHigh clip size;\r\nGood tile buff and coverage;\r\nPowerful skill if activated;"
   },
   {
     "Name": "Seele",
     "Alias": null,
-    "Stars": "☆☆★☆☆",
+    "Stars": "★",
     "Category": "SG",
-    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M1897",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "0730",
+    "Summary": "Ok.\r\nHigh base HP;"
+  },
+  {
+    "Name": "Am KSG",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "0800",
+    "Summary": "Good.\r\nHighest armor among SGs;\r\nGood tile buff and coverage;"
+  },
+  {
+    "Name": "S.A.T.8",
+    "Alias": [ "sat8" ],
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "0810",
+    "Summary": "Very good.\r\nFluffy;\r\nVery high base HP;\r\nGood tile buff and coverage;\r\nSpammable shield;"
+  },
+  {
+    "Name": "AA-12",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "0812",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
+  },
+  {
+    "Name": "M1887",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "",
+    "Summary": "Good.\r\nHigh base HP;"
+  },
+  {
+    "Name": "FP-6",
+    "Alias": [ "fp6" ],
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "0806",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Saiga-12",
+    "Alias": [ "saiga", "saiga 12" ],
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "0805",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "FP-6",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": "0806",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "IDW",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0110",
+    "Summary": "That's... a weird cat."
+  },
+  {
+    "Name": "PP-2000",
+    "Alias": [ "pp 2000", "pp2000" ],
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0110",
+    "Summary": "No."
+  },
+  {
+    "Name": "Spectre M4",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0120",
+    "Summary": "No."
+  },
+  {
+    "Name": "M45",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0120",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "Type64",
+    "Alias": [ "type 64", "type-64" ],
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0125",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "M38",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0130",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "M3",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0130",
+    "Summary": "No."
+  },
+  {
+    "Name": "MP40",
+    "Alias": null,
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0130",
+    "Summary": "No."
+  },
+  {
+    "Name": "PPSh-41",
+    "Alias": [ "ppsh" ],
+    "Stars": "☆☆☆★★",
+    "Category": "SMG",
+    "Time": "0150",
+    "Summary": "No."
+  },
+  {
+    "Name": "Micro UZI",
+    "Alias": [ "micro-uzi", "microuzi" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0140",
+    "Summary": "Not very good, but she is cute and will try hard.\r\nHigh base evasion;\r\nMolotov skill;\r\n\r\n<i>Does your team still require an off-tank that could theoretically have a place for someone with as oddly placed tiles as hers?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "Sten MkII",
+    "Alias": [ "sten" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0140",
+    "Summary": "Good for early game.\r\n\r\n<i>Are you lacking dolls who can do her job just as well, or even better?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "F1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0150",
+    "Summary": "She is clever girl."
+  },
+  {
+    "Name": "Ingram",
+    "Alias": [ "mac-10", "mac 10" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0200",
+    "Summary": "Good for early game."
+  },
+  {
+    "Name": "Skorpion",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0200",
+    "Summary": "Good for early game.\r\nVery high base evasion;\r\nGood tile buff;\r\nMolotov skill;\r\nTwin tails;"
+  },
+  {
+    "Name": "Z-62",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0205",
+    "Summary": "Good.\r\nHigh base evasion;\r\nHigh base FP;\r\nGood tile coverage;\r\nMolotov skill;"
+  },
+  {
+    "Name": "PPS-43",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0210",
+    "Summary": "Very good.\r\nVery high base FP;\r\nGood tile coverage;\r\nGood grenade skill;"
+  },
+  {
+    "Name": "FMG-9",
+    "Alias": [ "fmg9" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Do you like to run tanks that are made of paper?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "EVO 3",
+    "Alias": [ "evo" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Are you for some reason missing Skorpion?</i>\r\n\tCore her if yes."
+  },
+  {
+    "Name": "MT-9",
+    "Alias": [ "mt 9" ],
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "No.\r\n\r\n<i>Are you missing/desperate for flashbang main tanks?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "SCW",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "No.\r\nHigh base FP;\r\nHas a self-buff;"
+  },
+  {
+    "Name": "F1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "0150",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M12",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "OTs-39",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "T77",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "TMP",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "UMP45",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "0215",
+    "Summary": "Very good.\r\nGood balanced stats;\r\nLow initial CD;\r\nExcellent tile buff and coverage;"
+  },
+  {
+    "Name": "UMP9",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "0215",
+    "Summary": "Very good.\r\nGood balanced stats;\r\nGood tile coverage;"
+  },
+  {
+    "Name": "Shipka",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "0218",
+    "Summary": "No.\r\n<i>Do you have Suomi?</i>\r\n\tCore her if yes."
+  },
+  {
+    "Name": "PP-19-01",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "0218",
+    "Summary": "Good.\r\nHigh base HP;\r\nLow initial CD;"
+  },
+  {
+    "Name": "Gr MP5",
+    "Alias": [ "mp5" ],
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "0220",
+    "Summary": "No.\r\n\r\n<i>Are you going to get and enhance her special equipment (4-4N)?</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "PP-90",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "0220",
+    "Summary": "No.\r\n\r\n<i>Do you want to run an evasion tank? (relies on skill)</i>\r\n\tCore her if not."
+  },
+  {
+    "Name": "Cx4 Storm",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Honey Badger",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "KLIN",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PP-19",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "UMP40",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Suomi",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0225",
+    "Summary": "Not very good.\r\nVery high base HP;\r\nGood skill uptime"
+  },
+  {
+    "Name": "Gr G36c",
+    "Alias": [ "g36c" ],
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0230",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage;"
+  },
+  {
+    "Name": "Thompson",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0230",
+    "Summary": "Good.\r\nVery high base HP."
+  },
+  {
+    "Name": "SR-3MP",
+    "Alias": [ "shrimp" ],
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0233",
+    "Summary": "Good.\r\nHigh base HP and base FP\r\nExcellent tile buff and coverage;\r\nUnique and devastating self-buff;"
+  },
+  {
+    "Name": "Type79",
+    "Alias": [ "type-79", "type 79" ],
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0235",
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff."
+  },
+  {
+    "Name": "Vector",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0235",
+    "Summary": "Good.\r\nHigh base HP;\r\nHigh base FP;\r\nGood tile buff;\r\nMOLOTOV;"
+  },
+  {
+    "Name": "RO635",
+    "Alias": [ "635" ],
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "Very good.\r\nHigh base HP;\r\nLow initial CD;\r\nGood tile coverage;\r\nPowerful defensive skill;"
+  },
+  {
+    "Name": "C-MS",
+    "Alias": [ "cms" ],
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0228",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "AK-74U",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "JS 9",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "MP7",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0218",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "P90",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0229",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PM-06",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PM-9",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type 100",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "Time": "0219",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "X95",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
     "Time": "",
     "Summary": "I don't really know her."
   }

@@ -1,7 +1,9 @@
 ﻿using FrontlineMaidBot.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Text;
 
 namespace FrontlineMaidBot.Helpers
 {
@@ -74,25 +76,33 @@ namespace FrontlineMaidBot.Helpers
             return fixedTime;
         }
 
-        //private static void DoDirtyWork(string filename)
+        //public static string DeNormalizeTime(string time)
         //{
-        //    var ss = new List<ProductionResult>();
-
-        //    var str = File.ReadAllLines(filename);
-
-        //    foreach (var item in str)
+        //    var result = new StringBuilder();
+        //    int counter = 0;
+        //    foreach (var c in time)
         //    {
-        //        var spl = item.Split('—');
+        //        result.Append(c);
+        //        counter++;
 
-        //        ss.Add(new ProductionResult
+        //        if(counter == 2)
         //        {
-        //            Time = NormalizeTime(spl[0]),
-        //            DisplayTime = spl[0],
-        //            Category = "[Equipment]",
-        //            Name = spl[1]
-        //        });
+        //            counter = 0;
+        //            result.Append(':');
+        //        }
         //    }
-        //    var f = JsonConvert.SerializeObject(ss);
+
+        //    return result.ToString();
+        //}
+
+        //public static void DoDirtyWork()
+        //{
+        //    var stor = new DAL.Storage();
+        //    var ss = stor.Load<List<ProductionResult>>(@"Data\Dolls.json");
+
+        //    ss = ss.OrderBy(x => x.Category).ThenBy(x => x.Stars).ToList();
+
+        //    var f = Newtonsoft.Json.JsonConvert.SerializeObject(ss);
         //}
     }
 }

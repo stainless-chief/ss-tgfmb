@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using FrontlineMaidBot.Helpers;
 using Microsoft.AspNetCore.Hosting;
 using Serilog;
 
@@ -8,7 +9,7 @@ namespace FrontlineMaidBot
     {
         public static void Main(string[] args)
         {
-            
+            //Utils.DoDirtyWork();
 
             var host = new WebHostBuilder()
                 .UseKestrel()

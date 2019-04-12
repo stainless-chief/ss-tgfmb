@@ -1699,5 +1699,743 @@
     "DisplayTime": "",
     "Time": "",
     "Summary": "Very good.\r\nHigh base HP;\r\nLow initial CD;\r\nGood tile coverage;\r\nPowerful defensive skill;"
+  },
+  {
+    "Name": "FP-6",
+    "Alias": [ "fp6" ],
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:06:00",
+    "Time": "0806",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Saiga-12",
+    "Alias": [ "saiga", "saiga 12" ],
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:05:00",
+    "Time": "0805",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "C-MS",
+    "Alias": [ "cms" ],
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:28:00",
+    "Time": "0228",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "CZ52",
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "GSh-18",
+    "Alias": [ "gsh18", "gsh 18" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "MP-443",
+    "Alias": [ "mp443", "mp 443" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "MP-448",
+    "Alias": [ "mp448", "mp 448" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "P226",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Serdyukov",
+    "Alias": [ "sr-1", "sr 1" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "TEC-9",
+    "Alias": [ "tec 9", "tec9" ],
+    "Stars": "☆☆★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Jericho",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "00:49:00",
+    "Time": "0049",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Thunder",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "HS2000",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "P22",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Px4 Storm",
+    "Alias": [ "px4" ],
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "01:04:00",
+    "Time": "0104",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Python",
+    "Stars": "★★★★★",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Model L",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "T65",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type 03",
+    "Stars": "☆☆★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "A-91",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Ak 5",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "CZ2000",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SAR-21",
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:25:00",
+    "Time": "0325",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "AK-12",
+    "Alias": [ "ak 12", "ak12" ],
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:12:00",
+    "Time": "0412",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "AN-94",
+    "Alias": [ "an 94", "an94" ],
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:09:00",
+    "Time": "0409",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Howa Type 64",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:06:00",
+    "Time": "0406",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "K11",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "4:11:00",
+    "Time": "0411",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "K2",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:52:00",
+    "Time": "0352",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "MDR",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "DisplayTime": "3:53:00",
+    "Time": "0353",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "F1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "1:50:00",
+    "Time": "0150",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M12",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "OTs-39",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "T77",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "TMP",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Cx4 Storm",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Honey Badger",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "KLIN",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PP-19",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "UMP40",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "AK-74U",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "JS 9",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "MP7",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:18:00",
+    "Time": "0218",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "P90",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "2:29:00",
+    "Time": "0229",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PM-06",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PM-9",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type 100",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "02:19:00",
+    "Time": "0219",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "X95",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SMG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Falcon",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Gepard M1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "OBR",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "RT-20",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SM-1",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Steyr Scout",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type 56",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "wz.29",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "K31",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "04:15:00",
+    "Time": "0415",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "KSVK",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Mk 12",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "PzB 39",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:30:00",
+    "Time": "0430",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SPR A3G",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "4:15:00",
+    "Time": "0415",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "XM3",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Ballista",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "DSR-50",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M82A1",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "TAC-50",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "SRS",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "HK23",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Mk46",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "UKM-2000",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "HK21",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Lewis Gun",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Type 88",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "MG",
+    "DisplayTime": "6:28:00",
+    "Time": "0628",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M1897",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "DisplayTime": "7:30:00",
+    "Time": "0730",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "FP-6",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "DisplayTime": "8:06:00",
+    "Time": "0806",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "M870",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Clear",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Fail",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Kiana",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Theresa",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "HG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Murata Himeko",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "AR",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Bronya",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Raiden Mei",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "RF",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
+  },
+  {
+    "Name": "Seele",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "SG",
+    "DisplayTime": "",
+    "Time": "",
+    "Summary": "I don't really know her."
   }
 ]

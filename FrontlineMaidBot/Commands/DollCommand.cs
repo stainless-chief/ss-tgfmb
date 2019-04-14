@@ -26,6 +26,9 @@ namespace FrontlineMaidBot.Commands
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
+            if(update == null || update.Message == null || update.Message.Chat == null)
+                return UpdateHandlingResult.Handled;
+
             var input = ParseInput(update);
 
             string message;

@@ -54,7 +54,14 @@ namespace FrontlineMaidBot
 
         public override async Task HandleFaultedUpdate(Update update, Exception e)
         {
-            _logger.LogError(e, $"[Username: {update.Message.Chat.Username}] [ChatUsername: {update.Message.Chat.Username}] [ChatType: {update.Message.Chat.Type}] [Message: {update.Message.Text}]", null);
+            if (update == null || update.Message == null || update.Message.Chat == null)
+            {
+                _logger.LogError(e, null);
+            }
+            else
+            {
+                _logger.LogError(e, $"[Username: {update.Message.Chat.Username}] [ChatUsername: {update.Message.Chat.Username}] [ChatType: {update.Message.Chat.Type}] [Message: {update.Message.Text}]", null);
+            }
 
             await Client.SendTextMessageAsync
                     (

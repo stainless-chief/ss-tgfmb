@@ -9,8 +9,6 @@ namespace FrontlineMaidBot
     {
         public static void Main(string[] args)
         {
-            //Utils.DoDirtyWork();
-
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())

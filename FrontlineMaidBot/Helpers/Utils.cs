@@ -8,6 +8,8 @@ namespace FrontlineMaidBot.Helpers
 {
     public static class Utils
     {
+        private static char[] _integers = new[] { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
+
         public static string CreateResponse(IEnumerable<ProductionResult> collection, string defaultResponse)
         {
             if (collection == null || !collection.Any())
@@ -52,27 +54,26 @@ namespace FrontlineMaidBot.Helpers
 
             return $"{header}{aliases}{summary}";
         }
-
-
-
+        
         public static string NormalizeTime(string time)
         {
-            var fixedTime = time.Replace(":", "");
+            var result = new StringBuilder();
 
-            if (fixedTime.Length > 4)
+            for (int i = 0; i < 4; i++)
             {
-                fixedTime = fixedTime.Remove(4, fixedTime.Length - 4);
+                if (i >= time.Length)
+                {
+                    result.Insert(0, 0);
+                    continue;
+                }
+
+                if (!_integers.Contains(time[i]))
+                    continue;
+
+                result.Append(time[i]);
             }
 
-
-            if (fixedTime.Length < 4)
-            {
-                var placeholder = Enumerable.Repeat("0", 4 - fixedTime.Length);
-
-                fixedTime = string.Concat(placeholder) + fixedTime;
-            }
-
-            return fixedTime;
+            return result.ToString();
         }
 
         public static string DeNormalizeTime(string time)

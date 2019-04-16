@@ -4,6 +4,7 @@ using System;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Types;
+using Telegram.Bot.Types.Enums;
 
 namespace FrontlineMaidBot
 {
@@ -40,12 +41,19 @@ namespace FrontlineMaidBot
         {
             try
             {
-                await Client.SendTextMessageAsync
-                    (
-                        update.Message.Chat.Id,
-                        _unknownUpdateRespose,
-                        replyToMessageId: update.Message.MessageId
-                    );
+                if (update?.Message?.Chat?.Type != ChatType.Private)
+                {
+                    await Task.CompletedTask;
+                }
+                else
+                {
+                    await Client.SendTextMessageAsync
+                        (
+                            update.Message.Chat.Id,
+                            _unknownUpdateRespose,
+                            replyToMessageId: update.Message.MessageId
+                        );
+                }
             }
             catch (Exception e)
             {

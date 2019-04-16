@@ -1,11 +1,13 @@
 [
-  "'/doll %hh:mm%' \r\nGet the possible outcome of T-doll production.",
+  "'/doll %hh:mm%' \r\nGet the possible outcome of T-doll production.\r\n",
 
-  "'/equip %hh:mm%' \r\nGet the possible outcome of equip production.",
+  "'/equip %hh:mm%' \r\nGet the possible outcome of equip production.\r\n",
 
-  "'/isgood %doll name%' \r\nGet quick summary on doll.",
+  "'/isgood %doll name%' \r\nGet quick summary on T-doll.\r\n",
 
   "'/poke' \r\nDon't tease me.",
 
-  "'/help' \r\nGet commands list."
+  "'/slap %name%' \r\nTeach someone or something a lesson.\r\n",
+
+  "'/help' \r\nGet commands list.\r\n"
 ]

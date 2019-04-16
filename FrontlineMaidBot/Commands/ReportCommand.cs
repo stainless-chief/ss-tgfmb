@@ -1,6 +1,4 @@
 ﻿using FrontlineMaidBot.Interfaces;
-using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Framework.Abstractions;
@@ -8,18 +6,14 @@ using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
 {
-    public class HelpCommand : CommandBase<BaseCommandArgs>
+    public class ReportCommand : CommandBase<BaseCommandArgs>
     {
-        private const string _commandName = "help";
-        private readonly string _helpResponse;
+        private const string _commandName = "report";
+        private readonly IStatistics _statistics;
 
-        public HelpCommand(IStorage storage) : base(name: _commandName)
+        public ReportCommand(IStatistics statistics) : base(name: _commandName)
         {
-            _helpResponse = string.Join
-                (
-                    $"{Environment.NewLine}",
-                    storage.GetHelp()
-                );
+            _statistics = statistics;
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
@@ -30,7 +24,7 @@ namespace FrontlineMaidBot.Commands
             await Bot.Client.SendTextMessageAsync
             (
                 update.Message.Chat.Id,
-                _helpResponse,
+                _statistics.GenerateReport(),
                 replyToMessageId: update.Message.MessageId
             );
 

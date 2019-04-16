@@ -54,23 +54,29 @@ namespace FrontlineMaidBot.Helpers
 
             return $"{header}{aliases}{summary}";
         }
-        
+
         public static string NormalizeTime(string time)
         {
             var result = new StringBuilder();
+            int i = 0;
 
-            for (int i = 0; i < 4; i++)
+            while (result.Length < 4)
             {
                 if (i >= time.Length)
                 {
                     result.Insert(0, 0);
+                    i++;
                     continue;
                 }
 
                 if (!_integers.Contains(time[i]))
+                {
+                    i++;
                     continue;
+                }
 
                 result.Append(time[i]);
+                i++;
             }
 
             return result.ToString();
@@ -97,14 +103,5 @@ namespace FrontlineMaidBot.Helpers
             return result.ToString();
         }
 
-        //public static void DoDirtyWork()
-        //{
-        //    var stor = new DAL.Storage();
-        //    var ss = stor.Load<List<ProductionResult>>(@"Equipment.json");
-
-        //    ss = ss.OrderBy(x => x.Category).ThenBy(x => x.Stars).ToList();
-
-        //    var f = Newtonsoft.Json.JsonConvert.SerializeObject(ss);
-        //}
     }
 }

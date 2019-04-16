@@ -13,15 +13,13 @@ namespace FrontlineMaidBot.Commands
     public class IsGoodCommand : CommandBase<BaseCommandArgs>
     {
         private const string _commandName = "isgood";
-        private const string _dataPath = "Dolls.json";
         private const string _default = "I'm sorry. I don't know.";
-        private const string _empty = "Is something wrong?";
 
-        private readonly List<ProductionResult> _dolls;
+        private readonly IEnumerable<ProductionResult> _dolls;
 
         public IsGoodCommand(IStorage storage) : base(name: _commandName)
         {
-            _dolls = storage.Load<List<ProductionResult>>(_dataPath);
+            _dolls = storage.GetDolls();
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
@@ -29,18 +27,9 @@ namespace FrontlineMaidBot.Commands
             if (update == null || update.Message == null || update.Message.Chat == null)
                 return UpdateHandlingResult.Handled;
 
-            string msg;
             var input = base.ParseInput(update);
-
-            if (string.IsNullOrEmpty(input.ArgsInput))
-            {
-                msg = _empty;
-            }
-            else
-            {
-                msg = Utils.CreateResponse(GetDoll(input.ArgsInput), _default);
-            }
-
+            var doll = GetDoll(input.ArgsInput);
+            var msg = Utils.CreateResponse(doll, _default);
 
             await Bot.Client.SendTextMessageAsync
             (

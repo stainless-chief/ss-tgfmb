@@ -8,6 +8,14 @@
     "Summary": "Don't you have something better to do?"
   },
   {
+    "Name": "Kalina",
+    "Alias": null,
+    "Stars": null,
+    "Category": null,
+    "Time": null,
+    "Summary": "I don't trust her."
+  },
+  {
     "Name": "Galil",
     "Alias": null,
     "Stars": "☆☆☆★★",
@@ -157,7 +165,7 @@
     "Stars": "☆★★★★",
     "Category": "AR",
     "Time": "0325",
-    "Summary": "Good."
+    "Summary": "She is cute."
   },
   {
     "Name": "AS Val",
@@ -325,7 +333,7 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0353",
-    "Summary": "I don't really know her."
+    "Summary": "Good. \r\nGood Inital CD;\r\nDeployable shield & Evasion Buff;\r\nGood offensive tiles and coverage;\r\nHigh base damage;\r\nGood offensive skill w/ good uptime (when no ally is in front)"
   },
   {
     "Name": "416",
@@ -337,7 +345,7 @@
   },
   {
     "Name": "Am RFB",
-    "Alias": null,
+    "Alias": [ "rfb" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0358",
@@ -717,7 +725,7 @@
     "Stars": "☆★★★★",
     "Category": "HG",
     "Time": "0053",
-    "Summary": "Very good.\r\nGood variable skill buff;\r\nGood FP tile buff and coverage;\r\nBonus accuracy tile buff;\r\nHigh base HP."
+    "Summary": "Very good.Excellent FP & Acc tile buff;\r\nGodly tile coverage;"
   },
   {
     "Name": "P7",
@@ -985,7 +993,7 @@
   },
   {
     "Name": "62 Shiki",
-    "Alias": [ "62 shiki", "type 62", "ntk-62" ],
+    "Alias": [ "62-shiki", "type 62", "ntk-62" ],
     "Stars": "☆☆★★★",
     "Category": "MG",
     "Time": "",
@@ -1653,7 +1661,7 @@
     "Stars": "☆★★★★",
     "Category": "SG",
     "Time": "0740",
-    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
+    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage;\r\nBig breasts;"
   },
   {
     "Name": "M37",
@@ -1665,7 +1673,7 @@
   },
   {
     "Name": "Super-Shorty",
-    "Alias": null,
+    "Alias": [ "supershorty", "shorty" ],
     "Stars": "☆★★★★",
     "Category": "SG",
     "Time": "0750",
@@ -1712,8 +1720,8 @@
     "Summary": "Good.\r\nHighest armor among SGs;\r\nGood tile buff and coverage;"
   },
   {
-    "Name": "S.A.T.8",
-    "Alias": [ "sat8" ],
+    "Name": "S.A.T8",
+    "Alias": [ "sat8", "s.a.t.8" ],
     "Stars": "★★★★★",
     "Category": "SG",
     "Time": "0810",
@@ -1721,11 +1729,11 @@
   },
   {
     "Name": "AA-12",
-    "Alias": null,
+    "Alias": [ "aa12" ],
     "Stars": "★★★★★",
     "Category": "SG",
     "Time": "0812",
-    "Summary": "Good.\r\nHigh base HP;\r\nGood tile buff and coverage"
+    "Summary": "High base HP;\r\nHigh clip size;\r\nHigh RoF;\r\nGood tile buff and coverage;"
   },
   {
     "Name": "M1887",
@@ -2109,7 +2117,7 @@
     "Stars": "★★★★★",
     "Category": "SMG",
     "Time": "0228",
-    "Summary": "I don't really know her."
+    "Summary": "Very good.\r\nAlmost no initial CD;\r\nGreat stats all around;\r\nGreat tile coverage;\r\nAble to equip AP;\r\nCan push 1 frame less for most AR from tiles;"
   },
   {
     "Name": "AK-74U",
@@ -2161,11 +2169,11 @@
   },
   {
     "Name": "Type 100",
-    "Alias": null,
+    "Alias": [ "100 shiki", "100-shiki" ],
     "Stars": "★★★★★",
     "Category": "SMG",
     "Time": "0219",
-    "Summary": "I don't really know her."
+    "Summary": "No."
   },
   {
     "Name": "X95",

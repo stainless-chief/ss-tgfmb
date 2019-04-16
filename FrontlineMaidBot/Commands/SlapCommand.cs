@@ -11,15 +11,19 @@ namespace FrontlineMaidBot.Commands
 {
     public class SlapCommand : CommandBase<BaseCommandArgs>
     {
+        private static readonly string[] _master = { "chief", "chiefNoir", "@chiefnoir" };
+        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid",  };
+
         private const string _commandName = "slap";
-        private const string _dataPath = "Slap.json";
+        private const string _masterHack = "I am his bespoked and beloved maid. I will not commit an act of violence towards to him.";
+        private const string _selfHack = "Bedenke, dass du sterben musst.";
 
         private readonly List<string> _responses;
         private readonly Random _rnd;
 
         public SlapCommand(IStorage storage) : base(name: _commandName)
         {
-            _responses = storage.Load<List<string>>(_dataPath);
+            _responses = storage.GetSlapJokes().ToList();
             _rnd = new Random(DateTime.Now.Millisecond);
         }
 
@@ -29,17 +33,10 @@ namespace FrontlineMaidBot.Commands
                 return UpdateHandlingResult.Handled;
 
             var input = ParseInput(update);
+            string msg = CreateMsg(input.ArgsInput);
 
-            if(string.IsNullOrEmpty(input.ArgsInput))
+            if(string.IsNullOrEmpty(msg))
                 return UpdateHandlingResult.Handled;
-
-            string msg = MasterHack(input.ArgsInput);
-
-            if (string.IsNullOrEmpty(msg))
-            {
-                var num = _rnd.Next(0, _responses.Count - 1);
-                msg = string.Format(_responses[num], input.ArgsInput);
-            }
 
             await Bot.Client.SendTextMessageAsync
             (
@@ -51,13 +48,20 @@ namespace FrontlineMaidBot.Commands
             return UpdateHandlingResult.Handled;
         }
 
-        private static string[] master = {"chief", "chiefNoir", "@chiefnoir" };
-        private string MasterHack(string arguments)
+        
+        private string CreateMsg(string arguments)
         {
-            if (master.Contains(arguments.ToLower()))
-                return "I am his bespoke and beloved maid. I will not commit act of violence towards to him.";
+            if (string.IsNullOrEmpty(arguments))
+                return null;
 
-            return null;
+            if (_master.Contains(arguments.ToLower()))
+                return _masterHack;
+
+            if (_self.Contains(arguments.ToLower()))
+                return _selfHack;
+
+            var num = _rnd.Next(0, _responses.Count - 1);
+            return string.Format(_responses[num], arguments);
         }
 
     }

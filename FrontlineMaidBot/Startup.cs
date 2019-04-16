@@ -1,6 +1,7 @@
 ﻿using FrontlineMaidBot.Commands;
 using FrontlineMaidBot.DAL;
 using FrontlineMaidBot.Interfaces;
+using FrontlineMaidBot.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -14,12 +15,13 @@ namespace FrontlineMaidBot
     public class Startup
     {
         private const string _botSettingsSection = "FrontlineMaidBot";
+        private const string _logPath = @"Logs\log.log";
 
         public IConfiguration Configuration { get; }
 
         public Startup(IHostingEnvironment env)
         {
-            Log.Logger = new LoggerConfiguration().WriteTo.File("log.log").CreateLogger();
+            Log.Logger = new LoggerConfiguration().WriteTo.File(_logPath).CreateLogger();
 
             var builder = new ConfigurationBuilder()
                             .SetBasePath(env.ContentRootPath)
@@ -39,10 +41,13 @@ namespace FrontlineMaidBot
                 .AddUpdateHandler<PokeCommand>()
                 .AddUpdateHandler<HelpCommand>()
                 .AddUpdateHandler<IsGoodCommand>()
+                .AddUpdateHandler<SlapCommand>()
+                .AddUpdateHandler<ReportCommand>()
                 .Configure();
 
             services.AddLogging(configure => configure.AddSerilog());
             services.AddScoped<IStorage, Storage>();
+            services.AddSingleton<IStatistics, Statistics>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
@@ -54,7 +59,7 @@ namespace FrontlineMaidBot
                 // make sure webhook is disabled so we can use long-polling
                 await botManager.SetWebhookStateAsync(false);
 
-                while (1 == 1)
+                while (true)
                 {
                     await Task.Delay(3000);
                     await botManager.GetAndHandleNewUpdatesAsync();

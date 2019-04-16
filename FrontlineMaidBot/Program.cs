@@ -1,7 +1,5 @@
 ﻿using System.IO;
-using FrontlineMaidBot.Helpers;
 using Microsoft.AspNetCore.Hosting;
-using Serilog;
 
 namespace FrontlineMaidBot
 {
@@ -18,4 +16,5 @@ namespace FrontlineMaidBot
             host.Run();
         }
     }
+
 }

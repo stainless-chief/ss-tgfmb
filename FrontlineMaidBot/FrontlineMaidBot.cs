@@ -80,12 +80,25 @@ namespace FrontlineMaidBot
                     + $"[ChatType: {update?.Message?.Chat?.Type}] "
                     + $"[Message: {update?.Message?.Text}]", null);
 
-            await Client.SendTextMessageAsync
-                    (
-                        update.Message.Chat.Id,
-                        _faultedUpdateRespose,
-                        replyToMessageId: update.Message.MessageId
-                    );
+            if (update?.Message?.Chat == null)
+                return;
+
+            try
+            {
+                await Client.SendTextMessageAsync
+                        (
+                            update.Message.Chat.Id,
+                            _faultedUpdateRespose,
+                            replyToMessageId: update.Message.MessageId
+                        );
+            }
+            catch (Exception ee)
+            {
+                _logger.LogError(ee, $"[Username: {update?.Message?.Chat?.Username}]"
+                    + $"[ChatUsername: {update?.Message?.Chat?.Username}] "
+                    + $"[ChatType: {update?.Message?.Chat?.Type}] "
+                    + $"[Message: {update?.Message?.Text}]", null);
+            }
         }
     }
 }

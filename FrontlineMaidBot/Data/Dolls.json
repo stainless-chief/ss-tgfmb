@@ -77,7 +77,7 @@
     "Stars": "☆☆★★★",
     "Category": "AR",
     "Time": "0310",
-    "Summary": "Very good for early game.\r\n;\r\nGood tile buffs for off tanks;\r\nHigh multiplier despite low rarity;\r\nGood initial CD and great uptime;\r\nBudget AR;"
+    "Summary": "Very good for early game;\r\nGood tile buffs for off tanks;\r\nHigh multiplier despite low rarity;\r\nGood initial CD and great uptime;\r\nBudget AR;"
   },
   {
     "Name": "AK-47",
@@ -1117,7 +1117,7 @@
     "Stars": "★★★★★",
     "Category": "MG",
     "Time": "0650",
-    "Summary": "Very good.\r\nHigh clip size;\r\nGood armor tile;\r\nPassive skill;"
+    "Summary": "Very good.\r\nHigh clip size;\r\nPassive skill;"
   },
   {
     "Name": "HK21",
@@ -1657,7 +1657,7 @@
   },
   {
     "Name": "M37",
-    "Alias": null,
+    "Alias": [ "itacha" ],
     "Stars": "☆★★★★",
     "Category": "SG",
     "Time": "0745",
@@ -1893,7 +1893,7 @@
     "Stars": "☆☆★★★",
     "Category": "SMG",
     "Time": "",
-    "Summary": "No.\r\n\r\n<i>Are you for some reason missing Skorpion?</i>\r\n\tCore her if yes."
+    "Summary": "No.\r\n\r\n<i>Are you for some reason missing Skorpion?</i>\r\n\tCore her if not."
   },
   {
     "Name": "MT-9",
@@ -1910,14 +1910,6 @@
     "Category": "SMG",
     "Time": "",
     "Summary": "No.\r\nHigh base FP;\r\nHas a self-buff;"
-  },
-  {
-    "Name": "F1",
-    "Alias": null,
-    "Stars": "☆☆★★★",
-    "Category": "SMG",
-    "Time": "0150",
-    "Summary": "I don't really know her."
   },
   {
     "Name": "M12",

@@ -14,16 +14,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Logs\log.log" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="Logs\log.log">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-
-  <ItemGroup>
+    <Folder Include="Logs\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 

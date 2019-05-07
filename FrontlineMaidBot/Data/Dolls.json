@@ -1577,11 +1577,11 @@
   },
   {
     "Name": "DSR-50",
-    "Alias": null,
+    "Alias": [ "gd dsr-50", "dsr", "dsr 50", "tits" ],
     "Stars": "★★★★★",
     "Category": "RF",
     "Time": "",
-    "Summary": "I don't really know her."
+    "Summary": "Yes.\r\nArmor penetratin nuke;\r\nVery high base FP;\r\nPowerful multiplier against armors;"
   },
   {
     "Name": "M82A1",
@@ -1869,7 +1869,7 @@
     "Stars": "☆☆★★★",
     "Category": "SMG",
     "Time": "0150",
-    "Summary": "She is clever girl."
+    "Summary": "No. She is australian."
   },
   {
     "Name": "Ingram",

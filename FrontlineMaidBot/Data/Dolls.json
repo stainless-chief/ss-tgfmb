@@ -344,14 +344,6 @@
     "Summary": "Good.\r\nHigh base FP synergizing her RoF buff;\r\nVery low initial CD with incredible skill uptime;\r\nVery consistent DPS in long fights;\r\nGood eva tile buff & placement;"
   },
   {
-    "Name": "K2",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "AR",
-    "Time": "0352",
-    "Summary": "I don't really know her."
-  },
-  {
     "Name": "MDR",
     "Alias": null,
     "Stars": "★★★★★",
@@ -398,30 +390,6 @@
     "Category": "AR",
     "Time": "0405",
     "Summary": "Very good.\r\nHigh base FP;\r\nVersatile skill, switching between AOE and self-buff depending on battle;\r\nGood initial CD;\r\nFastest Grenade priming animation;\r\nNade takes very short time to be launched;\r\nGood nade radius (2.5 yards);"
-  },
-  {
-    "Name": "AN-94",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "AR",
-    "Time": "0409",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "K11",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "AR",
-    "Time": "0411",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "AK-12",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "AR",
-    "Time": "0412",
-    "Summary": "I don't really know her."
   },
   {
     "Name": "AUG",
@@ -840,14 +808,6 @@
     "Summary": "Very good.\r\nExcellent FP tile buff and coverage;\r\nGood bonus crit rate tile;\r\nUnique skill redirecting ally fire and amplifying all damage taken to target."
   },
   {
-    "Name": "Px4 Storm",
-    "Alias": [ "storm" ],
-    "Stars": "★★★★★",
-    "Category": "HG",
-    "Time": "0104",
-    "Summary": "Good."
-  },
-  {
     "Name": "M950A",
     "Alias": [ "calico" ],
     "Stars": "★★★★★",
@@ -905,7 +865,7 @@
   },
   {
     "Name": "Px4 Storm",
-    "Alias": [ "px4" ],
+    "Alias": [ "px4", "storm" ],
     "Stars": "★★★★★",
     "Category": "HG",
     "Time": "0104",
@@ -1102,14 +1062,6 @@
     "Category": "MG",
     "Time": "",
     "Summary": "I don't really know her."
-  },
-  {
-    "Name": "Type88",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "MG",
-    "Time": "0628",
-    "Summary": "I really don't know her."
   },
   {
     "Name": "Negev",
@@ -1406,14 +1358,6 @@
     "Category": "RF",
     "Time": "0430",
     "Summary": "No.\r\n\r\n<i>Are you missing better Big Nukers like NTW-20 and M99? </i>\r\n\tCore her if not."
-  },
-  {
-    "Name": "PzB 39",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "Time": "0430",
-    "Summary": "I don't really know her."
   },
   {
     "Name": "PSG-1",
@@ -1765,14 +1709,6 @@
     "Stars": "★★★★★",
     "Category": "SG",
     "Time": "0805",
-    "Summary": "I don't really know her."
-  },
-  {
-    "Name": "FP-6",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "SG",
-    "Time": "0806",
     "Summary": "I don't really know her."
   },
   {

@@ -11,17 +11,33 @@
     "Name": "@Sumtin_gud",
     "Alias": null,
     "Stars": "🛡",
-    "Category": "Commander",
+    "Category": "G&K Commander",
     "Time": null,
-    "Summary": "G&K Commander. He is an interesting one, as I say."
+    "Summary": "G&K Commander. He is weird as a weird cat. You should slap him."
   },
   {
     "Name": "Kalina",
     "Alias": null,
     "Stars": null,
-    "Category": null,
+    "Category": "G&K logistics officer",
     "Time": null,
     "Summary": "I don't trust her."
+  },
+  {
+    "Name": "Persica",
+    "Alias": null,
+    "Stars": null,
+    "Category": "IOP Manufacturing, tech support officer",
+    "Time": null,
+    "Summary": "Lazy and messy woman."
+  },
+  {
+    "Name": "Helianthus",
+    "Alias": [ "helian" ],
+    "Stars": null,
+    "Category": "G&K officer",
+    "Time": null,
+    "Summary": "She looks quite lonely. Maybe you should invite her to a date. "
   },
   {
     "Name": "Galil",
@@ -475,7 +491,7 @@
     "Name": "@ChiefNoir",
     "Alias": [ "ChiefNoir", "chiefnoir", "chief" ],
     "Stars": "♥",
-    "Category": "Commander",
+    "Category": "G&K Commander",
     "Time": null,
     "Summary": "He is <b>great</b>."
   },

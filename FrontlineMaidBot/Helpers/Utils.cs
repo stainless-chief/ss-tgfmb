@@ -8,7 +8,7 @@ namespace FrontlineMaidBot.Helpers
 {
     public static class Utils
     {
-        private static char[] _integers = new[] { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
+        private static readonly char[] _integers = new[] { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
 
         public static string CreateResponse(IEnumerable<ProductionResult> collection, string defaultResponse)
         {
@@ -49,10 +49,39 @@ namespace FrontlineMaidBot.Helpers
                 header += Environment.NewLine;
             }
 
-            var aliases = production.Alias == null ? string.Empty : $"<b>Also known as: </b>{string.Join(", ", production.Alias)}{Environment.NewLine}";
-            var summary = production.Summary == null ? string.Empty : $"{Environment.NewLine}{production.Summary}{Environment.NewLine}";
+            string aliases = string.Empty;
+            if (production.Alias != null && production.Alias.Any())
+            {
+                aliases = $"<b>Also known as: </b>{string.Join(", ", production.Alias)}{Environment.NewLine}";
+            }
 
-            return $"{header}{aliases}{summary}";
+            string advantages = string.Empty;
+            if (!string.IsNullOrEmpty(production.Advantages))
+            {
+                advantages = $"<b>Advantages:</b>{Environment.NewLine}{production.Advantages}{Environment.NewLine}";
+            }
+
+            string disadvantages = string.Empty;
+            if(!string.IsNullOrEmpty(production.Disadvantages))
+            {
+                disadvantages = $"<b>Disadvantages:</b>{Environment.NewLine}{production.Disadvantages}{Environment.NewLine}";
+            }
+
+            string summary = string.Empty;
+            if (!string.IsNullOrEmpty(production.Summary))
+            {
+                summary = $"<b>Summary:</b>{Environment.NewLine}{production.Summary}{Environment.NewLine}";
+            }
+
+            return $"{header}{aliases}{advantages}{disadvantages}{summary}";
+        }
+
+        internal static string CreateResponseSuggestion(IEnumerable<ProductionResult> sug, string defaultResponse, string suggestion)
+        {
+            if (sug == null || !sug.Any())
+                return defaultResponse;
+
+            return suggestion + $"{Environment.NewLine}{string.Join(", ", sug.OrderBy(x=>x.Name).Select(x => $"<b>[{x.Category}]</b>{x.Name}" ))}.";
         }
 
         public static string NormalizeTime(string time)

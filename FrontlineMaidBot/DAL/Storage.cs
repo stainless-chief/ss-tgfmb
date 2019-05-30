@@ -7,6 +7,7 @@ using System.IO;
 
 namespace FrontlineMaidBot.DAL
 {
+    //TODO: maybe I should move all search methods here
     public class Storage : IStorage
     {
         private const string _dataFolder = "Data";
@@ -20,6 +21,12 @@ namespace FrontlineMaidBot.DAL
         {
             var content = File.ReadAllText(path);
             return JsonConvert.DeserializeObject<T>(content);
+        }
+
+        public static void SaveToFile(string path, object something)
+        {
+            var str = JsonConvert.SerializeObject(something);
+            File.WriteAllText(path, str);
         }
 
         public IEnumerable<ProductionResult> GetDolls()

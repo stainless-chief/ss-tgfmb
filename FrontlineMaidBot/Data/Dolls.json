@@ -1513,14 +1513,14 @@
   },
   {
     "Name": "Howa Type 64",
-    "Alias": null,
+    "Alias": [ "64 Shiki" ],
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0406",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
-    "Lookup": "howa type 64;",
+    "Advantages": "○ Strong tile coverage and buff\r\n○ Very High base damage",
+    "Disadvantages": "○ Low base RoF",
+    "Summary": "She is sort of good.",
+    "Lookup": "howa type 64;64 shiki",
     "Id": -1,
     "Extension": {
       "Stats": {
@@ -1544,9 +1544,9 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0411",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good overall stats\r\n○ Lower ICD than standard (also faster animation than FAL)\r\n○ Instantly launches all nades (Not affected by RoF for activation)\r\n○ Strong tile coverage and buff\r\n○ Has additional AOE damage if Grenade hits a marked target\r\n○ Shoots grenades randomly (Can be useful or detrimental)",
+    "Disadvantages": "○ Number of nades is based on Links\r\n○ Initial Nade impact lowers enemy link count making grenades following having to deal with a lower multiplier if you hit the same enemy\r\n○ Smaller radius for each grenade (1 yard)\r\n○ Shoots grenades randomly (Can be useful or detrimental)",
+    "Summary": "She is good.",
     "Lookup": "k11;",
     "Id": -1,
     "Extension": {
@@ -1571,9 +1571,9 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0352",
-    "Advantages": "○ Strongest pre 6 second DPS",
-    "Disadvantages": "○ Unusual tile buff for the position she usually occupies",
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Strongest pre 6 second DPS (Swiftly loses steam when compared to others\r\nafter 6s though)\r\n○ Can have perfect uptime if you restrict her RoF\r\n○ Strong synergy with SR3MP",
+    "Disadvantages": "○ Unusual tile buff for the position she usually occupies\r\n○ Switches from Fever mode and Note mode after 8s (DPS slows down)\r\n○ Able to enter heat mode if RoF is over 93\r\n○ Note mode -Movement speed hinders the team if she's fighting bosses with walk time",
+    "Summary": "She is sort of good.",
     "Lookup": "k2;",
     "Id": -1,
     "Extension": {
@@ -2026,14 +2026,14 @@
   },
   {
     "Name": "Tokarev",
-    "Alias": null,
+    "Alias": [ "TT" ],
     "Stars": "☆☆★★★",
     "Category": "HG",
     "Time": "0045",
     "Advantages": "○ Good tile coverage\r\n○ Very high base HP",
-    "Disadvantages": "○ Low base evasion\r\n\r\n○ Lackluster offensive tile buff",
+    "Disadvantages": "○ Low base evasion\r\n○ Lackluster offensive tile buff",
     "Summary": "She is not good. \r\n<i>Do you need an Evasion Skill Buff?</i>\r\n\tCore her if not.",
-    "Lookup": "tokarev;",
+    "Lookup": "tokarev;tt",
     "Id": -1,
     "Extension": {
       "Stats": {
@@ -2431,14 +2431,14 @@
   },
   {
     "Name": "Serdyukov",
-    "Alias": null,
+    "Alias": [ "SPS" ],
     "Stars": "☆☆★★★",
     "Category": "HG",
     "Time": "0053",
-    "Advantages": "○ Serviceable FP Buff",
+    "Advantages": "○ Serviceable FP Buff\r\n○ Good for MGSG",
     "Disadvantages": "○ Mediocre base HP\r\n○ Low evasion",
     "Summary": "She is sort of good. And cute.",
-    "Lookup": "serdyukov;",
+    "Lookup": "serdyukov;sps",
     "Id": -1,
     "Extension": {
       "Stats": {
@@ -2543,9 +2543,9 @@
     "Stars": "☆★★★★",
     "Category": "HG",
     "Time": "0049",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Decent tiles value\r\n○ Kazuhira Miller in a dress",
+    "Disadvantages": "○ Unusual tile coverage\r\n○ Terrible buff values\r\n○ Takes forever to go online",
+    "Summary": "She is not good.",
     "Lookup": "jericho;",
     "Id": -1,
     "Extension": {
@@ -2895,7 +2895,7 @@
     "Category": "HG",
     "Time": null,
     "Advantages": "○ Excellent FP/RoF tile buff;\r\n○ Low cooldown pseudo-bamboo skill for low-cost boss farming;",
-    "Disadvantages": "○ Awkward tile placement\r\n○ Random targeting\r\n○ Burst skill not suitable for general usage\r\n○ Limited event doll",
+    "Disadvantages": "○ Awkward tile placement\r\n○ Random targeting\r\n○ Skill Ignores Contender's target focus\r\n○ Burst skill not suitable for general usage",
     "Summary": "She is good for niche use.",
     "Lookup": "cz75;girl with axe;axe",
     "Id": -1,
@@ -4838,9 +4838,9 @@
     "Stars": "☆★★★★",
     "Category": "RF",
     "Time": "0415",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Decent overall stats\r\n○ Reasonably Quick nuke with a decent multiplier",
+    "Disadvantages": "○ Long ICD\r\n○ Low multiplier for self buff",
+    "Summary": "She is not good.",
     "Lookup": "spr a3g;",
     "Id": -1,
     "Extension": {
@@ -5270,9 +5270,9 @@
     "Stars": "★★★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": "○ Good tile formation\r\n○ High base damage",
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good tile formation\r\n○ High base damage\r\n○ Can benefit from Crit damage buff from fairies & Px4\r\n○ No Aiming Animation (True ICD is 10s)",
+    "Disadvantages": "○ Still a bamboo\r\n○ Low base RoF\r\n○ Marker retargeting makes it harder to use her",
+    "Summary": "She is loner Nuker",
     "Lookup": "tac-50;",
     "Id": -1,
     "Extension": {
@@ -7295,10 +7295,37 @@
     "Stars": "☆★★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": "Not good.\r\n○ Very High base FP",
+    "Advantages": "○ Very High base FP",
     "Disadvantages": "○ Long aim time for such a weak nuke\r\n○ Nuke skill not optimal for general usage despite the penetrating effect\r\n",
     "Summary": "She is not good.",
     "Lookup": "pzb39;",
+    "Id": -1,
+    "Extension": {
+      "Stats": {
+        "Damage": -1,
+        "Accuracity": -1,
+        "Evasion": -1,
+        "RateOfFire": -1,
+        "HP": -1
+      },
+      "Skill": {
+        "Description": null,
+        "InitialCD": -1,
+        "SkillCD": -1
+      },
+      "Buff": null
+    }
+  },
+  {
+    "Name": "@gohomeflykite",
+    "Alias": null,
+    "Stars": "🛡",
+    "Category": "G&K Commander",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": "I don't really understand her what K11 finds in him. Liebe ist blind.",
+    "Lookup": "@gohomeflykite;",
     "Id": -1,
     "Extension": {
       "Stats": {

@@ -1,9 +1,11 @@
-﻿using FrontlineMaidBot.Interfaces;
+﻿using FrontlineMaidBot.Helpers;
+using FrontlineMaidBot.Interfaces;
 using FrontlineMaidBot.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 namespace FrontlineMaidBot.DAL
 {
@@ -17,6 +19,19 @@ namespace FrontlineMaidBot.DAL
         private const string _pokeFile = "Poke.json";
         private const string _slapFile = "Slap.json";
 
+
+        private readonly List<ProductionResult> _dolls = new List<ProductionResult>();
+        private readonly List<ProductionResult> _equipment = new List<ProductionResult>();
+
+        public Storage()
+        {
+            _dolls = LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _dollsFile));
+            _equipment = LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _equipmentFile));
+        }
+
+
+
+
         private static T LoadFromFile<T>(string path)
         {
             var content = File.ReadAllText(path);
@@ -29,15 +44,6 @@ namespace FrontlineMaidBot.DAL
             File.WriteAllText(path, str);
         }
 
-        public IEnumerable<ProductionResult> GetDolls()
-        {
-            return LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _dollsFile));
-        }
-
-        public IEnumerable<ProductionResult> GetEquipment()
-        {
-            return LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _equipmentFile));
-        }
 
         public IEnumerable<string> GetPokeJokes()
         {
@@ -54,6 +60,44 @@ namespace FrontlineMaidBot.DAL
             var help = LoadFromFile<List<string>>(Path.Combine(_dataFolder, _helpFile));
 
             return string.Join(Environment.NewLine, help);
+        }
+
+
+
+
+        public IEnumerable<ProductionResult> GetDollsByTime(string time)
+        {
+            if (string.IsNullOrEmpty(time))
+                return new List<ProductionResult>();
+
+            var normalTime = Utils.NormalizeTime(time);
+
+            return _dolls.Where(x => x.Time == normalTime);
+        }
+
+        public IEnumerable<ProductionResult> GetDollsByName(string name)
+        {
+            if (string.IsNullOrEmpty(name))
+                return new List<ProductionResult>();
+
+            var normal = name.ToLower().Replace(" ", string.Empty);
+
+            return _dolls.Where(x => x.Lookup.Contains(normal));
+        }
+
+        public IEnumerable<ProductionResult> GetEquipmentByTime(string time)
+        {
+            if (string.IsNullOrEmpty(time))
+                return new List<ProductionResult>();
+
+            var normalTime = Utils.NormalizeTime(time);
+
+            return _equipment.Where(x => x.Time == normalTime);
+        }
+
+        public IEnumerable<ProductionResult> GetEquipmentByName(string name)
+        {
+            throw new NotImplementedException();
         }
     }
 }

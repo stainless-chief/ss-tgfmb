@@ -1,8 +1,5 @@
 ﻿using FrontlineMaidBot.Helpers;
 using FrontlineMaidBot.Interfaces;
-using FrontlineMaidBot.Models;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Framework.Abstractions;
@@ -14,12 +11,11 @@ namespace FrontlineMaidBot.Commands
     {
         private const string _commandName = "equip";
         private const string _default = "I'm sorry. I can't find anything.";
-
-        private readonly IEnumerable<ProductionResult> _equip;
+        private readonly IStorage _storage;
 
         public EquipCommand(IStorage storage) : base(name: _commandName)
         {
-            _equip = storage.GetEquipment();
+            _storage = storage;
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
@@ -28,7 +24,7 @@ namespace FrontlineMaidBot.Commands
                 return UpdateHandlingResult.Handled;
 
             var input = base.ParseInput(update);
-            var equip = GetEquip(input.ArgsInput);
+            var equip = _storage.GetEquipmentByTime(input.ArgsInput);
             var message = Utils.CreateResponse(equip, _default);
 
             await Bot.Client.SendTextMessageAsync
@@ -42,12 +38,5 @@ namespace FrontlineMaidBot.Commands
         }
 
 
-        private IEnumerable<ProductionResult> GetEquip(string time)
-        {
-            if (string.IsNullOrEmpty(time))
-                return new List<ProductionResult>();
-
-            return _equip.Where(x => x.Time == Utils.NormalizeTime(time));
-        }
     }
 }

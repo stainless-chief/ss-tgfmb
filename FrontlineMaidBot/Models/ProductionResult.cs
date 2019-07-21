@@ -4,6 +4,8 @@ namespace FrontlineMaidBot.Models
 {
     public class ProductionResult
     {
+        public int Id { get; set; }
+
         public string Name { get; set; }
         public List<string> Alias { get; set; }
         public string Stars { get; set; }
@@ -14,8 +16,6 @@ namespace FrontlineMaidBot.Models
         public string Summary { get; set; }
 
         public string Lookup { get; set; }
-
-        public int Id { get; set; }
 
         public Extension Extension { get; set; }
     }

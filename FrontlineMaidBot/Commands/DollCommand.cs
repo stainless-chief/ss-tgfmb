@@ -1,8 +1,5 @@
 ﻿using FrontlineMaidBot.Helpers;
 using FrontlineMaidBot.Interfaces;
-using FrontlineMaidBot.Models;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Framework.Abstractions;
@@ -14,12 +11,11 @@ namespace FrontlineMaidBot.Commands
     {
         private const string _commandName = "doll";
         private const string _default = "I'm sorry. I can't find anything.";
-
-        private readonly IEnumerable<ProductionResult> _dolls;
+        private IStorage _storage;
 
         public DollCommand(IStorage storage) : base(name: _commandName)
         {
-            _dolls = storage.GetDolls().Where(x => !string.IsNullOrEmpty(x.Time));
+            _storage = storage;
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
@@ -28,7 +24,7 @@ namespace FrontlineMaidBot.Commands
                 return UpdateHandlingResult.Handled;
 
             var input = ParseInput(update);
-            var dolls = GetDolls(input.ArgsInput);
+            var dolls = _storage.GetDollsByName(input.ArgsInput);
             var message = Utils.CreateResponse(dolls, _default);
 
             await Bot.Client.SendTextMessageAsync
@@ -41,14 +37,5 @@ namespace FrontlineMaidBot.Commands
             return UpdateHandlingResult.Handled;
         }
 
-
-        private IEnumerable<ProductionResult> GetDolls(string time)
-        {
-            if (string.IsNullOrEmpty(time))
-                return new List<ProductionResult>();
-
-            var normalTime = Utils.NormalizeTime(time);
-            return _dolls.Where(x => x.Time == normalTime);
-        }
     }
 }

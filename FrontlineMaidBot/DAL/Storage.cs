@@ -9,7 +9,6 @@ using System.Linq;
 
 namespace FrontlineMaidBot.DAL
 {
-    //TODO: maybe I should move all search methods here
     public class Storage : IStorage
     {
         private const string _dataFolder = "Data";

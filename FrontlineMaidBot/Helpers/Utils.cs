@@ -48,6 +48,10 @@ namespace FrontlineMaidBot.Helpers
             {
                 header += Environment.NewLine;
             }
+            if (!string.IsNullOrEmpty(production.Time))
+            {
+                header += $"Production time: <b>{DeNormalizeTime(production.Time)}</b>";
+            }
 
             string aliases = string.Empty;
             if (production.Alias != null && production.Alias.Any())

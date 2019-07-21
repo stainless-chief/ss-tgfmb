@@ -23,7 +23,7 @@ namespace FrontlineMaidBot.Models
     public class Extension
     {
         public Stats Stats { get; set; }
-        public Skill Skill { get; set; }
+        public string Skill { get; set; }
         public string Buff { get; set; }
     }
 

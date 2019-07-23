@@ -5,7 +5,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0005",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "bm 3-12x40|bm3-12x40|bm 312x40",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "AC1 Suppressor",
@@ -13,7 +37,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0007",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ac1 suppressor|ac1suppressor",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "EOT 506",
@@ -21,7 +69,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0008",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "eot 506|eot506",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "PEQ-2",
@@ -29,7 +101,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0009",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "peq-2|peq2",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "AMP COMPM2",
@@ -37,7 +133,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0010",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "amp compm2|ampcompm2",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP X1 Exoskeleton",
@@ -45,7 +165,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0012",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop x1 exoskeleton|iopx1exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP T1 Exoskeleton",
@@ -53,7 +197,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0012",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop t1 exoskeleton|iopt1exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "ILM Hollow Point Ammo",
@@ -61,7 +229,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0013",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ilm hollow point ammo|ilmhollowpointammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "BK Slug",
@@ -69,7 +261,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0014",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "bk slug|bkslug",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "＃1 Buckshot",
@@ -77,7 +293,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0014",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "＃1 buckshot|＃1buckshot",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "M61 Armor-Piercing Ammo",
@@ -85,7 +325,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0015",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "m61 armor-piercing ammo|m61armor-piercingammo|m61 armorpiercing ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Ragged Cape",
@@ -93,7 +357,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0016",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ragged cape|raggedcape",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "FMJ High-Velocity Ammo",
@@ -101,7 +389,31 @@
     "Stars": "☆☆☆★★",
     "Category": "Equipment",
     "Time": "0018",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "fmj high-velocity ammo|fmjhigh-velocityammo|fmj highvelocity ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "LRA 2-12x50",
@@ -109,7 +421,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0020",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "lra 2-12x50|lra2-12x50|lra 212x50",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "AC2 Suppressor",
@@ -117,7 +453,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0022",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ac2 suppressor|ac2suppressor",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "EOT 512",
@@ -125,7 +485,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0023",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "eot 512|eot512",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "PEQ-5",
@@ -133,7 +517,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0024",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "peq-5|peq5",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "AMP COMPM4",
@@ -141,7 +549,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0025",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "amp compm4|ampcompm4",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Type 1 Armor Plate",
@@ -149,7 +581,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0026",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "type 1 armor plate|type1armorplate",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP X2 Exoskeleton",
@@ -157,7 +613,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0027",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop x2 exoskeleton|iopx2exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP T2 Exoskeleton",
@@ -165,7 +645,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0027",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop t2 exoskeleton|iopt2exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "ILM Hollow Point Ammo (3-Star)",
@@ -173,7 +677,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0028",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ilm hollow point ammo (3-star)|ilmhollowpointammo(3-star)|ilm hollow point ammo (3star)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "FST Slug",
@@ -181,7 +709,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0029",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "fst slug|fstslug",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "＃0 Buckshot",
@@ -189,7 +741,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0029",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "＃0 buckshot|＃0buckshot",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "M993 Armor-Piercing Ammo",
@@ -197,7 +773,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0030",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "m993 armor-piercing ammo|m993armor-piercingammo|m993 armorpiercing ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Camouflage Cape",
@@ -205,7 +805,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0031",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "camouflage cape|camouflagecape",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "JSP High-Velocity Ammo",
@@ -213,7 +837,31 @@
     "Stars": "☆☆★★★",
     "Category": "Equipment",
     "Time": "0033",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "jsp high-velocity ammo|jsphigh-velocityammo|jsp highvelocity ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "PSO-1",
@@ -221,7 +869,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0035",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "pso-1|pso1",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "AC3 Suppressor",
@@ -229,7 +901,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0037",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ac3 suppressor|ac3suppressor",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "EOT 516",
@@ -237,7 +933,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0038",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "eot 516|eot516",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "PEQ-15",
@@ -245,7 +965,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0039",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "peq-15|peq15",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "COG M150",
@@ -253,7 +997,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0040",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "cog m150|cogm150",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Type 2 Armor Plate",
@@ -261,7 +1029,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0041",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "type 2 armor plate|type2armorplate",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP T3 Exoskeleton",
@@ -269,7 +1061,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0042",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop t3 exoskeleton|iopt3exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP X3 Exoskeleton",
@@ -277,7 +1093,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0042",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop x3 exoskeleton|iopx3exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "ILM Hollow Point Ammo",
@@ -285,7 +1125,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0043",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ilm hollow point ammo|ilmhollowpointammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "WAD Slug",
@@ -293,7 +1157,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0044",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "wad slug|wadslug",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "＃00 Buckshot",
@@ -301,7 +1189,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0044",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "＃00 buckshot|＃00buckshot",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Mk169 Armor-Piercing Ammo",
@@ -309,7 +1221,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0045",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "mk169 armor-piercing ammo|mk169armor-piercingammo|mk169 armorpiercing ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Urban Camouflage Cape",
@@ -317,7 +1253,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0046",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "urban camouflage cape|urbancamouflagecape",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP High-Capacity Ammo Box",
@@ -325,7 +1285,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0047",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop high-capacity ammo box|iophigh-capacityammobox|iop highcapacity ammo box",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "JHP High-Velocity Ammo",
@@ -333,7 +1317,31 @@
     "Stars": "☆★★★★",
     "Category": "Equipment",
     "Time": "0048",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "jhp high-velocity ammo|jhphigh-velocityammo|jhp highvelocity ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "VFL 6-24x56",
@@ -341,7 +1349,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0045",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "vfl 6-24x56|vfl6-24x56|vfl 624x56",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "AC4 Suppressor",
@@ -349,7 +1381,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0047",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ac4 suppressor|ac4suppressor",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "EOT 518",
@@ -357,7 +1413,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0048",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "eot 518|eot518",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "PEQ-16A",
@@ -365,7 +1445,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0049",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "peq-16a|peq16a",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "ITI Mars",
@@ -373,7 +1477,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0050",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iti mars|itimars",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Type 3 Armor Plate",
@@ -381,7 +1509,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0051",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "type 3 armor plate|type3armorplate",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP X4 Exoskeleton",
@@ -389,7 +1541,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0052",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop x4 exoskeleton|iopx4exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP T4 Exoskeleton",
@@ -397,7 +1573,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0052",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop t4 exoskeleton|iopt4exoskeleton",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "ILM Hollow Point Ammo",
@@ -405,7 +1605,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0053",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "ilm hollow point ammo|ilmhollowpointammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "SABOT Slug",
@@ -413,7 +1637,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0054",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "sabot slug|sabotslug",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "＃000 Buckshot",
@@ -421,7 +1669,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0054",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "＃000 buckshot|＃000buckshot",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Mk211 High-Explosive Armor-Piercing Ammo",
@@ -429,7 +1701,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0055",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "mk211 high-explosive armor-piercing ammo|mk211high-explosivearmor-piercingammo|mk211 highexplosive armorpiercing ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Thermoptic Camouflage Cape",
@@ -437,7 +1733,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0056",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "thermoptic camouflage cape|thermopticcamouflagecape",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "IOP Maximum Ammo Box",
@@ -445,7 +1765,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0057",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "iop maximum ammo box|iopmaximumammobox",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "APCR High-Velocity Ammo",
@@ -453,7 +1797,31 @@
     "Stars": "★★★★★",
     "Category": "Equipment",
     "Time": "0058",
-    "Advantages": null
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "apcr high-velocity ammo|apcrhigh-velocityammo|apcr highvelocity ammo",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": null,
+        "DamageBonus": null,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Armor Fairy",
@@ -461,7 +1829,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0300",
-    "Advantages": null
+    "Advantages": "She is specialized for boosting armor, along with a respectable amount of general stat buffing. She was especially useful during Deep Dive when used together with Negev in the Garm fight.",
+    "Disadvantages": null,
+    "Summary": "Her aura is especially good for SGMG teams, usable in specific situations that require high armor (usually event stages). Low priority.",
+    "Lookup": "armor fairy|armorfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Riot Control",
+        "Description": "[Consumes 3 Support Order points]\r\nIn the next battle, increase the armor for all SGs in the Echelon by 50% for 20 seconds. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 22,
+        "CritDamageBonus": 22,
+        "AccuracyBonus": null,
+        "EvasionBonus": null,
+        "ArmorBonus": 25,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Shield Fairy",
@@ -469,15 +1861,63 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0305",
-    "Advantages": null
+    "Advantages": "High evasion aura, though her base damage aura is relatively low, which is similar to the Landmine Fairy's (Low Damage buff, High accuracy buff ).\r\nWhen compared to the Taunt Fairy, whose skill is also for damage tanking, her skill only works well for SMGs whereas the Taunt Fairy's taunt dummy works for everything. The taunt dummy however cannot dodge, meaning it will be face-tanking damage, while SMGs can.\r\nThis allows for the deployed shield to last much longer.",
+    "Disadvantages": null,
+    "Summary": "Mediocre aura, usage of skill is very limited. Pretty mediocre but usable in all ARSMG teams. Does not hurt to train but definitely not priority.",
+    "Lookup": "shield fairy|shieldfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Energy Shield",
+        "Description": "[Consumes 3 Support Order points]\r\nIn the next battle, grant a shield to all SMG in the echelon, each absorbing 150 points of damage.",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 20,
+        "CritDamageBonus": null,
+        "AccuracyBonus": 60,
+        "EvasionBonus": 80,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
-    "Name": "Provocation Fairy",
-    "Alias": null,
+    "Name": "Taunt Fairy",
+    "Alias": [ "Provocation Fairy" ],
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0310",
-    "Advantages": null
+    "Advantages": "Her Aura buffs everything, though none of them increase stats by too much. If the crit rate is not too low, her buffs to damage output can be pretty decent. Her skill is especially effective against bosses and can be utilized well for brute-forcing Jupiters or just about any high damage dealing enemy.",
+    "Disadvantages": null,
+    "Summary": "Above average aura, capable of tanking damage when facing powerful enemies. High priority in skill level as she is often used in various high difficulty fights especially in ranking.",
+    "Lookup": "taunt fairy|tauntfairy|provocation fairy|provocationfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Taunt Target",
+        "Description": "[Consumes 3 Support Order points]\r\nDeploy a decoy dummy with 1600 HP in front of your echelon and have it serve its purpose as a decoy attracting the attention of enemies in front of it. ",
+        "InitCooldown": 0,
+        "Cooldown": 0
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 18,
+        "CritDamageBonus": 25,
+        "AccuracyBonus": 58,
+        "EvasionBonus": 28,
+        "ArmorBonus": 8,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Sniper Fairy",
@@ -485,15 +1925,63 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0330",
-    "Advantages": null
+    "Advantages": "Her aura consists mostly of accuracy and crit damage buffs. If its solely about the aura, using the Illumine Fairy would make more sense. Her selling point is her nuke skill, which is used against bosses. ",
+    "Disadvantages": null,
+    "Summary": "Definitely not priority as every aspect of her aura are outclassed, also her skill is very niche and barely used to worth the data investment.",
+    "Lookup": "sniper fairy|sniperfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Sniper Command",
+        "Description": "[Consumes 2 Support Order points]\r\nAim for the enemy with the highest HP and deal 20000 damage to it in the next battle.\r\nHas an initial cooldown of 10 seconds. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": null,
+        "CritDamageBonus": 36,
+        "AccuracyBonus": 88,
+        "EvasionBonus": 28,
+        "ArmorBonus": 15,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
-    "Name": "Bombardment Fairy",
-    "Alias": null,
+    "Name": "Artillery Fairy",
+    "Alias": [ "Bombardment Fairy", " Mortar Fairy" ],
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0335",
-    "Advantages": null
+    "Advantages": "Explosively high damage buff, highest among all fairies, with some decent evasion buffs to boot. Her active skill however is actually too slow and takes a while before it hits. The Airstrike Fairy should be used to make extra quick work of bad evil men persons. Even so, she ranks pretty high with just her aura. She lost her title as the strongest buffer after ver2.01 (Crit damage formula overhaul), but she is still irreplaceable in the cases where you need sheer damage. For instance, nuke and grenade skills and brute-forcing armor with Night ARs are where damage buffing works better than a crit damage buff.",
+    "Disadvantages": null,
+    "Summary": "Strong aura, unmatched damage buff, must train.",
+    "Lookup": "artillery fairy|artilleryfairy|bombardment fairy|bombardmentfairy| mortar fairy|mortarfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Bombard Command",
+        "Description": "[Consumes 3 Support Order points]\r\nFires a mortar shell in the next fight. Deals up to 1200 damage to enemy units within a 2.5 radius. \r\n\r\nHas an initial cooldown of 5 seconds. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 55,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": 56,
+        "ArmorBonus": 6,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Airstrike Fairy",
@@ -501,7 +1989,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0340",
-    "Advantages": null
+    "Advantages": "Similar aura to the Warrior Fairy's, but with a 5% higher damage, but a slightly lower accuracy buff. Her higher damage buff comes out superior though. Her active skill is even more astounding. Death itself ensues with its rad damage, allowing to reduce casualties effectively. For instance when used with RFHG, she can effectively rid the field of Dinergates/Tarantulas, who are the RFHG's nemesis. She is currently deemed one of the most versatile fairies.",
+    "Disadvantages": null,
+    "Summary": "Strong aura, very useful skill, must train.",
+    "Lookup": "airstrike fairy|airstrikefairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Fatal Airstrike",
+        "Description": "[Consumes 3 Support Order points]\r\nLaunches airstrike in the next fight, deals 500 damage to all enemy units. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 30,
+        "CritDamageBonus": null,
+        "AccuracyBonus": 50,
+        "EvasionBonus": 40,
+        "ArmorBonus": 10,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Reinforcement Fairy",
@@ -509,15 +2021,63 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0400",
-    "Advantages": null
+    "Advantages": "Low damage output buffs, though she does provide the highest evasion buffs among all fairies. Her active skill can only repair one doll at a time. This can be suitable for scenarios where damage taken is low and you have to take continuous short fights.",
+    "Disadvantages": null,
+    "Summary": "Aura is considered bad if the echelon doesn't need alot of evasion. Her skill is useful to a certain extent.",
+    "Lookup": "reinforcement fairy|reinforcementfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "T-Doll Reinforcement",
+        "Description": "[Consumes 2 Support Order points]\r\nProvide 1 dummy expansion reinforcement for the lowest percentage health T-doll in the echelon. Also provides bonus 10% evasion for that echelon for all the fights in the same turn. ",
+        "InitCooldown": 0,
+        "Cooldown": 1
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 12,
+        "CritDamageBonus": 15,
+        "AccuracyBonus": null,
+        "EvasionBonus": 88,
+        "ArmorBonus": 12,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
-    "Name": "Airborne Fairy",
-    "Alias": null,
+    "Name": "Parachute Fairy",
+    "Alias": [ "Airborne Fairy" ],
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0405",
-    "Advantages": null
+    "Advantages": "Her aura is similar to the Command Fairy's, besides her crit damage aura being 4% higher. Her active skill is the skill with the highest tactical value in the game. There are quite a number of hard stages that can be cleared easily with the help of the Airborne Fairy. She is also compulsory for getting a high score in the ranking stage, so do not hesitate to level her skill. However, only being obtainable from the high cost recipe (2000/500/2000/1000) makes dupes of this fairy fairly scares, hence resorting to using the Command Fairy can be a viable and good choice early on, for she would be much easier to raise. ",
+    "Disadvantages": null,
+    "Summary": "Has the strongest aura and highest tactical value in ver 2.01, must train. Don't feed as fodder unless you crafted too many.",
+    "Lookup": "parachute fairy|parachutefairy|airborne fairy|airbornefairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Heliport Liberation",
+        "Description": "[Consumes 5 Support Order points]\r\nThis echelon can airdrop to any landing zone in the map, but will receive a 40% penalty to Damage, Accuracy, Evasion, Armor, and Critical Hit for two turns. ",
+        "InitCooldown": 0,
+        "Cooldown": 5
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 36,
+        "CritDamageBonus": 40,
+        "AccuracyBonus": null,
+        "EvasionBonus": 32,
+        "ArmorBonus": 8,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Defense Fairy",
@@ -525,7 +2085,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0410",
-    "Advantages": null
+    "Advantages": "A 22% buff in damage is serviceable at best. Her evasion buff is quite high as well, and while she contests with the Armor Fairy in terms of armor buff, her 20% doesn't sell as well. Her active skill is damage reduction. Unfortanetly late game bosses can deal up to 200 damage per hit, so even with the her skill, it won't do well in relieving pressure. In such cases the Taunt Fairy would usually fare better. The Defense Fairy's skill is more suited for drawn out fights with a lots of mobs, as it can help reduce the pressure on main tanks. It's not often such situations occur however.",
+    "Disadvantages": null,
+    "Summary": "Mediocre aura, active skill is niche. Low priority.",
+    "Lookup": "defense fairy|defensefairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Temporary Armor",
+        "Description": "[Consumes 5 Support Order points]\r\nReduce Echelon's Damage taken by 30% for every battle in one turn for 20 seconds. ",
+        "InitCooldown": 0,
+        "Cooldown": 1
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 22,
+        "CritDamageBonus": null,
+        "AccuracyBonus": null,
+        "EvasionBonus": 80,
+        "ArmorBonus": 20,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Warrior Fairy",
@@ -533,7 +2117,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0430",
-    "Advantages": null
+    "Advantages": "Warrior Fairy's aura is actually decent. 25% damage is not low among fairies while also providing a huge amount of accuracy and some evasion. Most importantly, with her skill she is very versatile. Her skill also comes at an affordable cost.",
+    "Disadvantages": null,
+    "Summary": "When active skill is used, she is powerful in enhancing single battle combat capability. Highly versatile.",
+    "Lookup": "warrior fairy|warriorfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Combat Efficiency",
+        "Description": "[Consumes 1 Support Order]\r\nRaise Echelon's Damage by 20% and 10% Firing Speed for 20 seconds in the next battle (Doesn't stack). ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 25,
+        "CritDamageBonus": null,
+        "AccuracyBonus": 80,
+        "EvasionBonus": 40,
+        "ArmorBonus": 10,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Fury Fairy",
@@ -541,7 +2149,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0435",
-    "Advantages": null
+    "Advantages": "Her specialty is Crit Damage boosting. If the crit rate is not too low, her buffs to damage output can outperform even the Artillery Fairy. Though, her active skill can easily overcap stats or just do nothing at all, which makes it more suitable for MG teams equipped with VFLs.",
+    "Disadvantages": null,
+    "Summary": "Strong aura, unmatched, must train.",
+    "Lookup": "fury fairy|furyfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Power Overwhelming",
+        "Description": "[Consumes 1 Support Order points]\r\nIn the next battle, increases Accuracy by 50% and Crit Rate by 25% for the entire echelon for 20 seconds (does not stack).",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 15,
+        "CritDamageBonus": 40,
+        "AccuracyBonus": null,
+        "EvasionBonus": 40,
+        "ArmorBonus": 10,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Command Fairy",
@@ -549,7 +2181,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0500",
-    "Advantages": null
+    "Advantages": "With a damage aura just as scary as the Artillery Fairy's, it is too bad she has a lower evasion aura. Given the fact that she's handed to you for free after your very first EQHC attempt however, complaining is beyond unjustified. Train her properly and you'll get an alright damage aura. A primary beneficiary of the 2.01 update, despite her having a 4% less critical damage buff compared to the Airborne Fairy, she has practically the best aura, given her much better accessibility for being obtainable from the cheaper (500/500/500/500) recipe, unlike the Airborne Fairy, who requires much more resources to craft.",
+    "Disadvantages": null,
+    "Summary": "Decent aura, doesn't hurt to train her.",
+    "Lookup": "command fairy|commandfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Super EXP",
+        "Description": "[Consumes 1 Support Order points]\r\nIncrease the EXP gained by the Echelon in the next battle by 5%(25%).\r\nDoes not work in Combat Sim.",
+        "InitCooldown": 0,
+        "Cooldown": 1
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 36,
+        "CritDamageBonus": 36,
+        "AccuracyBonus": null,
+        "EvasionBonus": 32,
+        "ArmorBonus": 8,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Rescue Fairy",
@@ -557,7 +2213,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0505",
-    "Advantages": null
+    "Advantages": "I will not discuss her skill due to its superstitious properties and controversial reputation. All in all, people that believe in it will always believe in it, but those who don't will never change their mind.\r\nThat aside, her aura is excellent, with a higher base damage and evade aura compared to the Warrior Fairy's. From an aura-only standpoint, her's is even better than the Warrior Fairy's, but after skills are accounted for, Warrior comes out victorious nonetheless. As a conclusion, it is up to the player to decide which to train.",
+    "Disadvantages": null,
+    "Summary": "Decent aura, doesn't hurt to train her. ",
+    "Lookup": "rescue fairy|rescuefairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Efficient Rescue",
+        "Description": "[Consumes 1 Support Order points]\r\nImprove the chance of getting a rare T-doll as combat loot in the next fight. ",
+        "InitCooldown": 0,
+        "Cooldown": 1
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 32,
+        "CritDamageBonus": null,
+        "AccuracyBonus": 80,
+        "EvasionBonus": 64,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Illumination Fairy",
@@ -565,7 +2245,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0510",
-    "Advantages": null
+    "Advantages": "Possessing a very similar buff to the Sniper Fairy's, she has the highest accuracy buff out of all fairies at a ballin' 90% and a nice critical damage buff (38%) to boot. Due to her skill however, she has mostly seen use in night battles, and for her to properly shine depends on the situation. Ultimately, her skill is her selling point.",
+    "Disadvantages": null,
+    "Summary": "Okay aura, with her skill used mainly in night battles, prioritize her skill level over her stars. She is very useful in night rankings, a staple for high ranking.",
+    "Lookup": "illumination fairy|illuminationfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Night Illumination",
+        "Description": "[Consumes 5 Support Order points]\r\nRaise Echelon's vision by 2 points within 2 turns, during this period raise Echelon's accuracy by 30% for 20 seconds in all battles. ",
+        "InitCooldown": 0,
+        "Cooldown": 2
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": null,
+        "CritDamageBonus": 38,
+        "AccuracyBonus": 90,
+        "EvasionBonus": 32,
+        "ArmorBonus": 8,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Landmine Fairy",
@@ -573,7 +2277,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0530",
-    "Advantages": null
+    "Advantages": "25% damage aura is not bad, but her active skill is not very practical, just like the Rocket Fairy's. Besides that, it is also dependant on the enemies' movement to step on the mine voluntarily for it to be put to proper use.\r\n\r\nOne thing of note is that the enemy's CE is not deducted with mine damage intake.",
+    "Disadvantages": null,
+    "Summary": "Aura is not bad, her active skill is about the same as Rocket Fairy's. Low priority.",
+    "Lookup": "landmine fairy|landminefairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Mines Frontline",
+        "Description": "[Consumes 5 Support Order points]\r\nBury a Mine at the neighboring point where there is no enemy, this mine will stay for 2 turns and when the enemy triggers it, will deal 50% damage to the current HP. \r\nIneffective against bosses.",
+        "InitCooldown": 0,
+        "Cooldown": 3
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 25,
+        "CritDamageBonus": null,
+        "AccuracyBonus": 44,
+        "EvasionBonus": 85,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Rocket Fairy",
@@ -581,7 +2309,31 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0535",
-    "Advantages": null
+    "Advantages": "One of the high crit damage buffer, but with surprisingly high armor aura, but armor fairy exist. Unfortunately, her accuracy buff is relatively low. Her skill is not very practical due to the fact that it does not work on bosses, but she can possibly be useful against powerful non-boss units in future. In turn however, the Support Command cost is just too high.",
+    "Disadvantages": null,
+    "Summary": "Aura with little versatility. Effects of DPS increase are restricted with already sufficient crit rate but still valid. Aura armor boost is outclassed by that of Armor Fairy's. Active skill can be useful in specific situations. Low priority.",
+    "Lookup": "rocket fairy|rocketfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Battlefield Reaper",
+        "Description": "[Consumes 5 Support Order points]\r\nDeploy a rocket launcher at a specified range, if the enemy move within range in two turns, it will deal 20% damage based on it's current HP.\r\nIneffective against bosses.",
+        "InitCooldown": 0,
+        "Cooldown": 3
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": null,
+        "CritDamageBonus": 35,
+        "AccuracyBonus": 44,
+        "EvasionBonus": null,
+        "ArmorBonus": 22,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   },
   {
     "Name": "Construction Fairy",
@@ -589,6 +2341,318 @@
     "Stars": "★",
     "Category": "Fairy",
     "Time": "0540",
-    "Advantages": null
+    "Advantages": "Also known as Fortress fairy. Aura-wise, her buff is worse than the Taunt Fairy's in every way, save for a negligible 2% higher armor buff. Even so, the buffs her skill gives are undeniably powerful, with the only drawback being the buff's position to remain stationary, and you having to make the enemy come to you, forcing you to play passively. Another way to utilize the Construction Fairy is after Echelon A sets up the Fortress and Echelon B, with a much better fairy, stays on the Fortress node to fight the enemy. Surely this strategy will see its uses in the future.",
+    "Disadvantages": null,
+    "Summary": "Aura is weaker than Taunt Fairy's, but her skill is amazing. Very useful when it comes to dealing with extremely strong enemy units.",
+    "Lookup": "construction fairy|constructionfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Emergency Fortress",
+        "Description": "[Consumes 5 Support Order points]\r\nBuild an unmovable fortress at your Echelon's position. If your Echelon takes battle in this spot will gain a boost in damage, accuracy, evasion, armor and critical hit rate by 30%. ",
+        "InitCooldown": 0,
+        "Cooldown": 3
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 15,
+        "CritDamageBonus": 20,
+        "AccuracyBonus": 50,
+        "EvasionBonus": 40,
+        "ArmorBonus": 10,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Golden Fairy",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": "Golden fairy's passive/buffs are special in that it has low base values but have a much higher growth, if you don't invest in training her the buffs aren't that good, but when she is at 5* level 100 her buffs are a direct upgrade to Taunt Fairy at the same stars and level. Her damage and crit damage buffs are quite high when you add them up, and she has an alright accuracy and evade buff. Unless you invest heavily in her, she should be laid aside for storage as she possesses no practical skill.",
+    "Disadvantages": null,
+    "Summary": "SWAG",
+    "Lookup": "golden fairy|goldenfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Golden Law",
+        "Description": "[Consumes 0 Support Order]\r\nThe message from fate shall boost your determination.",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 20,
+        "CritDamageBonus": 25,
+        "AccuracyBonus": 62,
+        "EvasionBonus": 50,
+        "ArmorBonus": 12,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Firework Fairy",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "firework fairy|fireworkfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Do-something-cool",
+        "Description": "[Consumes 3 Support Order points]\r\nRaises echelons accuracy by 80% for the next 10 seconds. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 32,
+        "CritDamageBonus": null,
+        "AccuracyBonus": 75,
+        "EvasionBonus": 32,
+        "ArmorBonus": 8,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Nian Fairy",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "nian fairy|nianfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Firecracker",
+        "Description": "[Consumes 3 Support Order points]\r\nIgnites firecrackers at the start of the next battle, causing 2 second stuns to the target unit while spreading to targets within a 4 tiles radius dealing 50 damage per second, firecracker duration: 5 seconds. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 25,
+        "CritDamageBonus": 25,
+        "AccuracyBonus": null,
+        "EvasionBonus": 20,
+        "ArmorBonus": 20,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Yae Sakura",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "yae sakura|yaesakura",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Higoku Gense",
+        "Description": "Summons flaming pillars on random locations after entering combat, pillars lasts for 2 seconds while it deals damage over time to any enemies that makes contact with it. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 26,
+        "CritDamageBonus": 32,
+        "AccuracyBonus": null,
+        "EvasionBonus": 24,
+        "ArmorBonus": 6,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Kaguya Hime",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "kaguya hime|kaguyahime",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Yatakikou",
+        "Description": "Casts laser beam that deals 20% damage to random enemies within two node radius of the equipped echelon's position, bosses cannot be harmed by this damage. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": null,
+        "CritDamageBonus": 32,
+        "AccuracyBonus": 70,
+        "EvasionBonus": 24,
+        "ArmorBonus": 15,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Chloe",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "chloe",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Puppets of Sorrow",
+        "Description": "Summons two puppets with 600HP in front of the echelon in the next fight, the puppets will deal flat 100 damage to all enemies every 3 seconds while being able to block damage for the squad. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 18,
+        "CritDamageBonus": null,
+        "AccuracyBonus": 55,
+        "EvasionBonus": 64,
+        "ArmorBonus": 6,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Suee",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "suee",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "I Want you",
+        "Description": "Throws down flower on an adjacent random empty battlefield node, when friendly echelon fights on top of the flowered node they will receive small bonuses to crit rate, damage, accuracy evasion and armor. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": null,
+        "CritDamageBonus": 30,
+        "AccuracyBonus": null,
+        "EvasionBonus": 70,
+        "ArmorBonus": 18,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Sehra & Nina",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "sehra & nina|sehra&nina",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Ladymade Star",
+        "Description": "Boosts damage by 20% of all T-dolls in the echelon while dampen accuracy by 10% for all enemy units in the next fight. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 15,
+        "CritDamageBonus": 25,
+        "AccuracyBonus": 40,
+        "EvasionBonus": 50,
+        "ArmorBonus": null,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
+  },
+  {
+    "Name": "Preiya & Camilla",
+    "Alias": null,
+    "Stars": "★",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "preiya & camilla|preiya&camilla",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Oblivion",
+        "Description": "Produce grounds with combat effects in the next fight. Friendly units standing on red grounds will have damage and accuracy increase by 30%, but suffer 20% armor and evasion penalties. Standing on yellow grounds will have armor and evasion increase by 30%, but suffer 20% damage and accuracy penalties. Skill lasts 30 seconds ",
+        "InitCooldown": null,
+        "Cooldown": null
+      },
+      "Buff": {
+        "Target": "All",
+        "DamageBonus": 22,
+        "CritDamageBonus": 22,
+        "AccuracyBonus": 50,
+        "EvasionBonus": 10,
+        "ArmorBonus": 10,
+        "RateOfFireBonus": null,
+        "CriticalRateBonus": null,
+        "ReducesSkillCD": null,
+        "Pattern": null
+      }
+    }
   }
 ]

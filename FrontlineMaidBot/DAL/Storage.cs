@@ -124,8 +124,8 @@ namespace FrontlineMaidBot.DAL
             var normal = name.ToLower().Replace(" ", string.Empty).Replace("-", string.Empty);
 
             //very deep run
-            return _dolls.Where(x => x.Lookup.Contains(name)).Union(
-                _equipment.Where(x => x.Lookup.Contains(name)));
+            return _dolls.Where(x => x.Lookup.Contains(normal)).Union(
+                _equipment.Where(x => x.Lookup.Contains(normal)));
         }
     }
 }

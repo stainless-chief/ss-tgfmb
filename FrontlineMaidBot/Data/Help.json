@@ -1,9 +1,7 @@
 [
-  "'/doll %hh:mm%' \r\nGet the possible outcome of T-doll production.\r\n",
+  "'/time %hh:mm%' \r\nGet the possible outcome of production.\r\n",
 
-  "'/equip %hh:mm%' \r\nGet the possible outcome of equip production.\r\n",
-
-  "'/isgood %doll name%' \r\nGet quick summary on T-doll.\r\n",
+  "'/isgood %name%' \r\nGet quick summary on T-doll or fairy.\r\n",
 
   "'/poke' \r\nDon't tease me.",
 

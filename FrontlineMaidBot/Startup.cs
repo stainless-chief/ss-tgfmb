@@ -1,15 +1,12 @@
 ﻿using FrontlineMaidBot.Commands;
 using FrontlineMaidBot.DAL;
 using FrontlineMaidBot.Generator;
-using FrontlineMaidBot.Helpers;
 using FrontlineMaidBot.Interfaces;
-using FrontlineMaidBot.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog;
-using System.Linq;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework.Abstractions;
 
@@ -39,20 +36,16 @@ namespace FrontlineMaidBot
         {
             services.AddTelegramBot<FrontlineMaidBot>(Configuration.GetSection(_botSettingsSection))
                 .AddUpdateHandler<StartCommand>()
-                .AddUpdateHandler<EquipCommand>()
-                .AddUpdateHandler<DollCommand>()
                 .AddUpdateHandler<PokeCommand>()
                 .AddUpdateHandler<HelpCommand>()
                 .AddUpdateHandler<IsGoodCommand>()
                 .AddUpdateHandler<SlapCommand>()
                 .AddUpdateHandler<TimeCommand>()
-                .AddUpdateHandler<ReportCommand>()
                 .Configure();
 
             services.AddLogging(configure => configure.AddSerilog());
             services.AddScoped<IStorage, Storage>();
             services.AddScoped<IResponseGenerator, ResponseGenerator>();
-            services.AddSingleton<IStatistics, Statistics>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)

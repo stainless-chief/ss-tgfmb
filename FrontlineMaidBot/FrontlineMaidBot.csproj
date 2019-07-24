@@ -6,18 +6,14 @@
     <Authors>Stanislav "Chief" Shevtsov</Authors>
     <Company>Fireplace of Despair</Company>
     <NeutralLanguage>en</NeutralLanguage>
-    <AssemblyVersion>0.0.0.10</AssemblyVersion>
-    <FileVersion>0.0.0.10</FileVersion>
+    <AssemblyVersion>0.0.0.11</AssemblyVersion>
+    <FileVersion>0.0.0.11</FileVersion>
     <Version>0.0.0.10</Version>
     <Description>Simple GirlsFrontline Bot for Telegram</Description>
     <Copyright>Stanislav "Chief" Shevtsov</Copyright>
     <ApplicationIcon />
     <OutputType>WinExe</OutputType>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Logs\" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />

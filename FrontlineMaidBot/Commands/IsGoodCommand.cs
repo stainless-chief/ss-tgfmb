@@ -16,10 +16,12 @@ namespace FrontlineMaidBot.Commands
         private const string _suggestion = "I'm sorry... did you mean someone like:";
 
         private readonly IStorage _storage;
+        private readonly IResponseGenerator _generator;
 
-        public IsGoodCommand(IStorage storage) : base(name: _commandName)
+        public IsGoodCommand(IStorage storage, IResponseGenerator generator) : base(name: _commandName)
         {
             _storage = storage;
+            _generator = generator;
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
@@ -42,11 +44,11 @@ namespace FrontlineMaidBot.Commands
 
                 if (count == 1)
                 {
-                    msg = Utils.CreateResponse(dolls.First(), _default);
+                    msg = _generator.CreateSummaryMessage(dolls.First(), _default);
                 }
                 else if (count > 1)
                 {
-                    msg = Utils.CreateResponseSuggestion(dolls, _default, _suggestion);
+                    msg = _generator.CreateSuggestionMessage(dolls, _default, _suggestion);
                 }
             }
 

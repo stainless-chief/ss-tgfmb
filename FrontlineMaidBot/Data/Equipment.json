@@ -17,17 +17,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -49,17 +43,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -81,17 +69,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -113,17 +95,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -145,17 +121,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -177,17 +147,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -209,17 +173,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -241,17 +199,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -273,17 +225,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -305,17 +251,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -337,17 +277,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -369,17 +303,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -401,17 +329,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -433,17 +355,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -465,17 +381,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -497,17 +407,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -529,17 +433,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -561,17 +459,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -593,17 +485,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -625,17 +511,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -657,17 +537,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -689,17 +563,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -721,17 +589,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -753,17 +615,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -785,17 +641,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -817,17 +667,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -849,17 +693,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -881,17 +719,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -913,17 +745,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -945,17 +771,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -977,17 +797,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1009,17 +823,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1041,17 +849,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1073,17 +875,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1105,17 +901,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1137,17 +927,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1169,17 +953,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1201,17 +979,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1233,17 +1005,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1265,17 +1031,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1297,17 +1057,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1329,17 +1083,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1361,17 +1109,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1393,17 +1135,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1425,17 +1161,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1457,17 +1187,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1489,17 +1213,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1521,17 +1239,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1553,17 +1265,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1585,17 +1291,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1617,17 +1317,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1649,17 +1343,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1681,17 +1369,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1713,17 +1395,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1745,17 +1421,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1777,17 +1447,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1809,17 +1473,11 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": null,
-        "DamageBonus": null,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {}
       }
     }
   },
@@ -1841,17 +1499,15 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 22,
-        "CritDamageBonus": 22,
-        "AccuracyBonus": null,
-        "EvasionBonus": null,
-        "ArmorBonus": 25,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 25,
+          "Critical Damage": 22,
+          "Damage": 22
+        }
       }
     }
   },
@@ -1873,17 +1529,15 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 20,
-        "CritDamageBonus": null,
-        "AccuracyBonus": 60,
-        "EvasionBonus": 80,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 60,
+          "Damage": 20,
+          "Evasion": 80
+        }
       }
     }
   },
@@ -1905,17 +1559,17 @@
         "InitCooldown": 0,
         "Cooldown": 0
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 18,
-        "CritDamageBonus": 25,
-        "AccuracyBonus": 58,
-        "EvasionBonus": 28,
-        "ArmorBonus": 8,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 58,
+          "Armor": 8,
+          "Critical Damage": 25,
+          "Damage": 18,
+          "Evasion": 28
+        }
       }
     }
   },
@@ -1937,17 +1591,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": null,
-        "CritDamageBonus": 36,
-        "AccuracyBonus": 88,
-        "EvasionBonus": 28,
-        "ArmorBonus": 15,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 88,
+          "Armor": 15,
+          "Critical Damage": 36,
+          "Evasion": 28
+        }
       }
     }
   },
@@ -1969,17 +1622,15 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 55,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": 56,
-        "ArmorBonus": 6,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 6,
+          "Damage": 55,
+          "Evasion": 56
+        }
       }
     }
   },
@@ -2001,17 +1652,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 30,
-        "CritDamageBonus": null,
-        "AccuracyBonus": 50,
-        "EvasionBonus": 40,
-        "ArmorBonus": 10,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 50,
+          "Armor": 10,
+          "Damage": 30,
+          "Evasion": 40
+        }
       }
     }
   },
@@ -2033,17 +1683,16 @@
         "InitCooldown": 0,
         "Cooldown": 1
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 12,
-        "CritDamageBonus": 15,
-        "AccuracyBonus": null,
-        "EvasionBonus": 88,
-        "ArmorBonus": 12,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 12,
+          "Critical Damage": 15,
+          "Damage": 12,
+          "Evasion": 88
+        }
       }
     }
   },
@@ -2065,17 +1714,16 @@
         "InitCooldown": 0,
         "Cooldown": 5
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 36,
-        "CritDamageBonus": 40,
-        "AccuracyBonus": null,
-        "EvasionBonus": 32,
-        "ArmorBonus": 8,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 8,
+          "Critical Damage": 40,
+          "Damage": 36,
+          "Evasion": 32
+        }
       }
     }
   },
@@ -2097,17 +1745,15 @@
         "InitCooldown": 0,
         "Cooldown": 1
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 22,
-        "CritDamageBonus": null,
-        "AccuracyBonus": null,
-        "EvasionBonus": 80,
-        "ArmorBonus": 20,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 20,
+          "Damage": 22,
+          "Evasion": 80
+        }
       }
     }
   },
@@ -2129,17 +1775,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 25,
-        "CritDamageBonus": null,
-        "AccuracyBonus": 80,
-        "EvasionBonus": 40,
-        "ArmorBonus": 10,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 80,
+          "Armor": 10,
+          "Damage": 25,
+          "Evasion": 40
+        }
       }
     }
   },
@@ -2161,17 +1806,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 15,
-        "CritDamageBonus": 40,
-        "AccuracyBonus": null,
-        "EvasionBonus": 40,
-        "ArmorBonus": 10,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 10,
+          "Critical Damage": 40,
+          "Damage": 15,
+          "Evasion": 40
+        }
       }
     }
   },
@@ -2193,17 +1837,16 @@
         "InitCooldown": 0,
         "Cooldown": 1
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 36,
-        "CritDamageBonus": 36,
-        "AccuracyBonus": null,
-        "EvasionBonus": 32,
-        "ArmorBonus": 8,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 8,
+          "Critical Damage": 36,
+          "Damage": 36,
+          "Evasion": 32
+        }
       }
     }
   },
@@ -2225,17 +1868,15 @@
         "InitCooldown": 0,
         "Cooldown": 1
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 32,
-        "CritDamageBonus": null,
-        "AccuracyBonus": 80,
-        "EvasionBonus": 64,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 80,
+          "Damage": 32,
+          "Evasion": 64
+        }
       }
     }
   },
@@ -2257,17 +1898,16 @@
         "InitCooldown": 0,
         "Cooldown": 2
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": null,
-        "CritDamageBonus": 38,
-        "AccuracyBonus": 90,
-        "EvasionBonus": 32,
-        "ArmorBonus": 8,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 90,
+          "Armor": 8,
+          "Critical Damage": 38,
+          "Evasion": 32
+        }
       }
     }
   },
@@ -2289,17 +1929,15 @@
         "InitCooldown": 0,
         "Cooldown": 3
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 25,
-        "CritDamageBonus": null,
-        "AccuracyBonus": 44,
-        "EvasionBonus": 85,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 44,
+          "Damage": 25,
+          "Evasion": 85
+        }
       }
     }
   },
@@ -2321,17 +1959,15 @@
         "InitCooldown": 0,
         "Cooldown": 3
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": null,
-        "CritDamageBonus": 35,
-        "AccuracyBonus": 44,
-        "EvasionBonus": null,
-        "ArmorBonus": 22,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 44,
+          "Armor": 22,
+          "Critical Damage": 35
+        }
       }
     }
   },
@@ -2353,17 +1989,17 @@
         "InitCooldown": 0,
         "Cooldown": 3
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 15,
-        "CritDamageBonus": 20,
-        "AccuracyBonus": 50,
-        "EvasionBonus": 40,
-        "ArmorBonus": 10,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 50,
+          "Armor": 10,
+          "Critical Damage": 20,
+          "Damage": 15,
+          "Evasion": 40
+        }
       }
     }
   },
@@ -2385,17 +2021,17 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 20,
-        "CritDamageBonus": 25,
-        "AccuracyBonus": 62,
-        "EvasionBonus": 50,
-        "ArmorBonus": 12,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 62,
+          "Armor": 12,
+          "Critical Damage": 25,
+          "Damage": 20,
+          "Evasion": 50
+        }
       }
     }
   },
@@ -2417,17 +2053,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 32,
-        "CritDamageBonus": null,
-        "AccuracyBonus": 75,
-        "EvasionBonus": 32,
-        "ArmorBonus": 8,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 75,
+          "Armor": 8,
+          "Damage": 32,
+          "Evasion": 32
+        }
       }
     }
   },
@@ -2449,17 +2084,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 25,
-        "CritDamageBonus": 25,
-        "AccuracyBonus": null,
-        "EvasionBonus": 20,
-        "ArmorBonus": 20,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 20,
+          "Critical Damage": 25,
+          "Damage": 25,
+          "Evasion": 20
+        }
       }
     }
   },
@@ -2481,17 +2115,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 26,
-        "CritDamageBonus": 32,
-        "AccuracyBonus": null,
-        "EvasionBonus": 24,
-        "ArmorBonus": 6,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 6,
+          "Critical Damage": 32,
+          "Damage": 26,
+          "Evasion": 24
+        }
       }
     }
   },
@@ -2513,17 +2146,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": null,
-        "CritDamageBonus": 32,
-        "AccuracyBonus": 70,
-        "EvasionBonus": 24,
-        "ArmorBonus": 15,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 70,
+          "Armor": 15,
+          "Critical Damage": 32,
+          "Evasion": 24
+        }
       }
     }
   },
@@ -2545,17 +2177,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 18,
-        "CritDamageBonus": null,
-        "AccuracyBonus": 55,
-        "EvasionBonus": 64,
-        "ArmorBonus": 6,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 55,
+          "Armor": 6,
+          "Damage": 18,
+          "Evasion": 64
+        }
       }
     }
   },
@@ -2577,17 +2208,15 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": null,
-        "CritDamageBonus": 30,
-        "AccuracyBonus": null,
-        "EvasionBonus": 70,
-        "ArmorBonus": 18,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Armor": 18,
+          "Critical Damage": 30,
+          "Evasion": 70
+        }
       }
     }
   },
@@ -2609,17 +2238,16 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 15,
-        "CritDamageBonus": 25,
-        "AccuracyBonus": 40,
-        "EvasionBonus": 50,
-        "ArmorBonus": null,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 40,
+          "Critical Damage": 25,
+          "Damage": 15,
+          "Evasion": 50
+        }
       }
     }
   },
@@ -2641,17 +2269,17 @@
         "InitCooldown": null,
         "Cooldown": null
       },
-      "Buff": {
+      "Buff": null,
+      "BuffFull": {
         "Target": "All",
-        "DamageBonus": 22,
-        "CritDamageBonus": 22,
-        "AccuracyBonus": 50,
-        "EvasionBonus": 10,
-        "ArmorBonus": 10,
-        "RateOfFireBonus": null,
-        "CriticalRateBonus": null,
-        "ReducesSkillCD": null,
-        "Pattern": null
+        "Pattern": null,
+        "Effects": {
+          "Accuracy": 50,
+          "Armor": 10,
+          "Critical Damage": 22,
+          "Damage": 22,
+          "Evasion": 10
+        }
       }
     }
   }

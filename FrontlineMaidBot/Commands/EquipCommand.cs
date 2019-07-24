@@ -12,10 +12,12 @@ namespace FrontlineMaidBot.Commands
         private const string _commandName = "equip";
         private const string _default = "I'm sorry. I can't find anything.";
         private readonly IStorage _storage;
+        private readonly IResponseGenerator _generator;
 
-        public EquipCommand(IStorage storage) : base(name: _commandName)
+        public EquipCommand(IStorage storage, IResponseGenerator generator) : base(name: _commandName)
         {
             _storage = storage;
+            _generator = generator;
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
@@ -25,7 +27,7 @@ namespace FrontlineMaidBot.Commands
 
             var input = base.ParseInput(update);
             var equip = _storage.GetEquipmentByTime(input.ArgsInput);
-            var message = Utils.CreateResponse(equip, _default);
+            var message = _generator.CreateTimerMessage(equip, _default);
 
             await Bot.Client.SendTextMessageAsync
             (

@@ -1,5 +1,4 @@
-﻿using FrontlineMaidBot.Helpers;
-using FrontlineMaidBot.Interfaces;
+﻿using FrontlineMaidBot.Interfaces;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Framework.Abstractions;
@@ -7,14 +6,14 @@ using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
 {
-    public class DollCommand : CommandBase<BaseCommandArgs>
+    public class TimerCommand : CommandBase<BaseCommandArgs>
     {
-        private const string _commandName = "doll";
+        private const string _commandName = "time";
         private const string _default = "I'm sorry. I can't find anything.";
         private readonly IStorage _storage;
         private readonly IResponseGenerator _generator;
 
-        public DollCommand(IStorage storage, IResponseGenerator generator) : base(name: _commandName)
+        public TimerCommand(IStorage storage, IResponseGenerator generator) : base(name: _commandName)
         {
             _storage = storage;
             _generator = generator;
@@ -26,7 +25,7 @@ namespace FrontlineMaidBot.Commands
                 return UpdateHandlingResult.Handled;
 
             var input = ParseInput(update);
-            var dolls = _storage.GetDollsByName(input.ArgsInput);
+            var dolls = _storage.GetByTime(input.ArgsInput);
             var message = _generator.CreateTimerMessage(dolls, _default);
 
             await Bot.Client.SendTextMessageAsync
@@ -38,6 +37,5 @@ namespace FrontlineMaidBot.Commands
 
             return UpdateHandlingResult.Handled;
         }
-
     }
 }

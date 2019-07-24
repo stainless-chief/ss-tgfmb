@@ -37,13 +37,6 @@ namespace FrontlineMaidBot.DAL
             return JsonConvert.DeserializeObject<T>(content);
         }
 
-        public static void SaveToFile(string path, object something)
-        {
-            var str = JsonConvert.SerializeObject(something);
-            File.WriteAllText(path, str);
-        }
-
-
         public IEnumerable<string> GetPokeJokes()
         {
             return LoadFromFile<List<string>>(Path.Combine(_dataFolder, _pokeFile));
@@ -97,6 +90,21 @@ namespace FrontlineMaidBot.DAL
         public IEnumerable<ProductionResult> GetEquipmentByName(string name)
         {
             throw new NotImplementedException();
+        }
+
+
+        public IEnumerable<ProductionResult> GetByTime(string time)
+        {
+            var normalTime = Utils.NormalizeTime(time);
+
+            if(string.IsNullOrEmpty(normalTime))
+                return new List<ProductionResult>();
+
+            return
+                _equipment.Where(x => x.Time == normalTime).Union(
+                    _dolls.Where(x => x.Time == normalTime)
+
+                    );
         }
     }
 }

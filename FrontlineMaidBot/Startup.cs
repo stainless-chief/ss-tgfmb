@@ -1,5 +1,6 @@
 ﻿using FrontlineMaidBot.Commands;
 using FrontlineMaidBot.DAL;
+using FrontlineMaidBot.Generator;
 using FrontlineMaidBot.Interfaces;
 using FrontlineMaidBot.Service;
 using Microsoft.AspNetCore.Builder;
@@ -47,6 +48,7 @@ namespace FrontlineMaidBot
 
             services.AddLogging(configure => configure.AddSerilog());
             services.AddScoped<IStorage, Storage>();
+            services.AddScoped<IResponseGenerator, ResponseGenerator>();
             services.AddSingleton<IStatistics, Statistics>();
         }
 

@@ -1,6 +1,7 @@
 ﻿using FrontlineMaidBot.Commands;
 using FrontlineMaidBot.DAL;
 using FrontlineMaidBot.Generator;
+using FrontlineMaidBot.Helpers;
 using FrontlineMaidBot.Interfaces;
 using FrontlineMaidBot.Service;
 using Microsoft.AspNetCore.Builder;
@@ -8,6 +9,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog;
+using System.Linq;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework.Abstractions;
 

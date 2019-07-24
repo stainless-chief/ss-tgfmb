@@ -6,14 +6,14 @@ using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
 {
-    public class TimerCommand : CommandBase<BaseCommandArgs>
+    public class TimeCommand : CommandBase<BaseCommandArgs>
     {
         private const string _commandName = "time";
         private const string _default = "I'm sorry. I can't find anything.";
         private readonly IStorage _storage;
         private readonly IResponseGenerator _generator;
 
-        public TimerCommand(IStorage storage, IResponseGenerator generator) : base(name: _commandName)
+        public TimeCommand(IStorage storage, IResponseGenerator generator) : base(name: _commandName)
         {
             _storage = storage;
             _generator = generator;

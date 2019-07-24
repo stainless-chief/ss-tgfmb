@@ -93,6 +93,8 @@ namespace FrontlineMaidBot.DAL
         }
 
 
+
+
         public IEnumerable<ProductionResult> GetByTime(string time)
         {
             var normalTime = Utils.NormalizeTime(time);
@@ -105,6 +107,25 @@ namespace FrontlineMaidBot.DAL
                     _dolls.Where(x => x.Time == normalTime)
 
                     );
+        }
+
+        public IEnumerable<ProductionResult> GetByName(string name)
+        {
+            if (string.IsNullOrEmpty(name))
+                return new List<ProductionResult>();
+
+            //We need first excact run, to ensure uniqe 
+            var ss = _dolls.Where(x => x.Name == name).Union(
+                _equipment.Where(x => x.Name == name));
+
+            if (ss.Any())
+                return ss;
+
+            var normal = name.ToLower().Replace(" ", string.Empty).Replace("-", string.Empty);
+
+            //very deep run
+            return _dolls.Where(x => x.Lookup.Contains(name)).Union(
+                _equipment.Where(x => x.Lookup.Contains(name)));
         }
     }
 }

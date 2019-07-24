@@ -12,7 +12,6 @@ namespace FrontlineMaidBot.Commands
     {
         private const string _commandName = "isgood";
         private const string _default = "I'm sorry. I don't know.";
-        private const string _empty = "You must specify girl name.";
         private const string _suggestion = "I'm sorry... did you mean someone like:";
 
         private readonly IStorage _storage;
@@ -30,26 +29,17 @@ namespace FrontlineMaidBot.Commands
                 return UpdateHandlingResult.Handled;
 
             var input = base.ParseInput(update);
-            string msg;
+            var dolls = _storage.GetByName(input.ArgsInput);
+            var count = dolls.Count();
 
-            if (string.IsNullOrEmpty(input.ArgsInput))
+            string msg;
+            if (count <= 1)
             {
-                msg = _empty;
+                msg = _generator.CreateSummaryMessage(dolls.FirstOrDefault(), _default);
             }
             else
             {
-                msg = _default;
-                var dolls = _storage.GetDollsByName(input.ArgsInput);
-                var count = dolls.Count();
-
-                if (count == 1)
-                {
-                    msg = _generator.CreateSummaryMessage(dolls.First(), _default);
-                }
-                else if (count > 1)
-                {
-                    msg = _generator.CreateSuggestionMessage(dolls, _default, _suggestion);
-                }
+                msg = _generator.CreateSuggestionMessage(dolls, _default, _suggestion);
             }
 
 

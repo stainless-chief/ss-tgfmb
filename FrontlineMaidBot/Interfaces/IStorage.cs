@@ -5,8 +5,8 @@ namespace FrontlineMaidBot.Interfaces
 {
     public interface IStorage
     {
-        IEnumerable<ProductionResult> GetByTime(string name);
-
+        IEnumerable<ProductionResult> GetByTime(string time);
+        IEnumerable<ProductionResult> GetByName(string name);
 
 
         IEnumerable<ProductionResult> GetDollsByTime(string time);

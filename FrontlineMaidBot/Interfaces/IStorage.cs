@@ -8,18 +8,9 @@ namespace FrontlineMaidBot.Interfaces
         IEnumerable<ProductionResult> GetByTime(string time);
         IEnumerable<ProductionResult> GetByName(string name);
 
-
-        IEnumerable<ProductionResult> GetDollsByTime(string time);
-        IEnumerable<ProductionResult> GetDollsByName(string name);
-
-        IEnumerable<ProductionResult> GetEquipmentByTime(string time);
-        IEnumerable<ProductionResult> GetEquipmentByName(string name);
-
-
-
-
         IEnumerable<string> GetPokeJokes();
         IEnumerable<string> GetSlapJokes();
+
         string GetHelp();        
     }
 }

@@ -119,7 +119,7 @@ namespace FrontlineMaidBot.Generator
             if (sug == null || !sug.Any())
                 return defaultResponse;
 
-            return suggestion + $"{Environment.NewLine}{string.Join(", ", sug.OrderBy(x => x.Name).Select(x => $"<b>[{x.Category}]</b>{x.Name}"))}.";
+            return suggestion + $"{Environment.NewLine}{string.Join(", ", sug.OrderBy(x => x.Name).Select(x => $"<b>[{x.Category}]</b> {x.Name}"))}.";
         }
 
         const string buffs = "<b>Buffs </b>";

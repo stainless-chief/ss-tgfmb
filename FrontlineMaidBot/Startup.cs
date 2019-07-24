@@ -45,6 +45,7 @@ namespace FrontlineMaidBot
                 .AddUpdateHandler<HelpCommand>()
                 .AddUpdateHandler<IsGoodCommand>()
                 .AddUpdateHandler<SlapCommand>()
+                .AddUpdateHandler<TimeCommand>()
                 .AddUpdateHandler<ReportCommand>()
                 .Configure();
 

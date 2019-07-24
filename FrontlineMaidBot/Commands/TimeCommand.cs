@@ -32,6 +32,7 @@ namespace FrontlineMaidBot.Commands
             (
                 update.Message.Chat.Id,
                 message,
+                Telegram.Bot.Types.Enums.ParseMode.Html,
                 replyToMessageId: update.Message.MessageId
             );
 

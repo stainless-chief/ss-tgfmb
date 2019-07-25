@@ -5,12 +5,21 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace FrontlineMaidBot.Generator
 {
     public class ResponseGenerator : IResponseGenerator
     {
+        private const string _buffs = "<b>Buffs </b>";
+        private const string _skill = "<b>Skill (10 lvl):</b>";
+        private const string _alsoKnowAs = "<b>Also known as: </b>";
+        private const string _advantages = "<b>Advantages: </b>";
+        private const string _disadvantages = "<b>Disadvantages: </b>";
+        private const string _summary = "<b>Summary: </b>";
+        private const string _initCooldown = "<b>Initial cooldown: </b>";
+        private const string _cooldown = "<b>Cooldown: </b>";
+
+
         public string CreateTimerMessage(IEnumerable<ProductionResult> collection, string defaultResponse)
         {
             if (collection == null || !collection.Any())
@@ -43,16 +52,16 @@ namespace FrontlineMaidBot.Generator
                 result.Append($"<b>[{production.Name}]</b>");
 
             if (production.Alias != null && production.Alias.Any())
-                result.Append($"{Environment.NewLine}{alsoKnowAs}{string.Join(",", production.Alias)}");
+                result.Append($"{Environment.NewLine}{_alsoKnowAs}{string.Join(",", production.Alias)}");
 
             if (!string.IsNullOrEmpty(production.Advantages))
-                result.Append($"{Environment.NewLine}{advantages}{Environment.NewLine}{production.Advantages}");
+                result.Append($"{Environment.NewLine}{_advantages}{Environment.NewLine}{production.Advantages}");
 
             if (!string.IsNullOrEmpty(production.Disadvantages))
-                result.Append($"{Environment.NewLine}{disadvantages}{Environment.NewLine}{production.Disadvantages}");
+                result.Append($"{Environment.NewLine}{_disadvantages}{Environment.NewLine}{production.Disadvantages}");
 
             if (!string.IsNullOrEmpty(production.Summary))
-                result.Append($"{Environment.NewLine}{summary}{Environment.NewLine}{production.Summary}");
+                result.Append($"{Environment.NewLine}{_summary}{Environment.NewLine}{production.Summary}");
 
             if (result.Length == 0)
                 return defaultResponse;
@@ -77,19 +86,19 @@ namespace FrontlineMaidBot.Generator
                 result.Append($"<b>[{production.Name}]</b>");
 
             if (production.Alias!= null && production.Alias.Any())
-                result.Append($"{Environment.NewLine}{alsoKnowAs}{string.Join(",", production.Alias)}");
+                result.Append($"{Environment.NewLine}{_alsoKnowAs}{string.Join(",", production.Alias)}");
 
             if(production.Extension?.Skill != null)
             {
                 if (!string.IsNullOrEmpty(production.Extension.Skill.Name))
                 {
-                    result.Append($"{Environment.NewLine}{skill} {production.Extension.Skill.Name}");
+                    result.Append($"{Environment.NewLine}{_skill} {production.Extension.Skill.Name}");
 
                     if (production.Extension.Skill.InitCooldown.HasValue)
-                        result.Append($"{initCd}{production.Extension.Skill.InitCooldown} seconds. ");
+                        result.Append($"{_initCooldown}{production.Extension.Skill.InitCooldown} seconds. ");
 
                     if (production.Extension.Skill.Cooldown.HasValue)
-                        result.Append($"{Cd}{production.Extension.Skill.Cooldown} seconds.");
+                        result.Append($"{_cooldown}{production.Extension.Skill.Cooldown} seconds.");
 
                     if (!string.IsNullOrEmpty(production.Extension?.Skill?.Description))
                         result.Append($"{Environment.NewLine}{production.Extension.Skill.Description}");
@@ -99,7 +108,7 @@ namespace FrontlineMaidBot.Generator
             {
                 if (!string.IsNullOrEmpty(production.Extension.BuffFull.Target))
                 {
-                    result.Append($"{Environment.NewLine}{buffs}<b>{production.Extension.BuffFull.Target}</b>");
+                    result.Append($"{Environment.NewLine}{_buffs}<b>{production.Extension.BuffFull.Target}</b>");
 
                     if (production.Extension.BuffFull.Effects.Any())
                     {
@@ -118,18 +127,6 @@ namespace FrontlineMaidBot.Generator
 
             return suggestion + $"{Environment.NewLine}{string.Join(", ", sug.OrderBy(x => x.Name).Select(x => $"<b>[{x.Category}]</b> {x.Name}"))}.";
         }
-
-        const string buffs = "<b>Buffs </b>";
-
-
-        const string skill = "<b>Skill (10 lvl):</b>";
-
-
-        const string alsoKnowAs = "<b>Also known as: </b>";
-        const string advantages = "<b>Advantages: </b>";
-        const string disadvantages = "<b>Disadvantages: </b>";
-        const string summary = "<b>Summary: </b>";
-        const string initCd = "<b>Initial cooldown: </b>";
-        const string Cd = "<b>Cooldown: </b>";
+        
     }
 }

@@ -8,10 +8,6 @@ namespace FrontlineMaidBot.Generator
 
         public string Greeting => "Guten Tag, commander.";
 
-        public string CantSlapMaster => "I am his bespoken and beloved maid. I will not commit an act of violence towards to him.";
-
-        public string CantSlapHerself => "You are not a smart man, aren't you?";
-
         public string DontKnow => "I'm sorry. I don't know.";
 
         public string Suggestion => "I'm sorry... did you mean someone like:";

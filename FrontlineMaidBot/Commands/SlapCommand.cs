@@ -12,7 +12,9 @@ namespace FrontlineMaidBot.Commands
     public class SlapCommand : CommandBase<BaseCommandArgs>
     {
         private static readonly string[] _master = { "chief", "chiefNoir", "@chiefnoir" };
-        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid", "G36" };
+        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid", "G36" };        
+        private const string _cantSlapMaster = "I am his bespoken and beloved maid. I will not commit an act of violence towards to him.";
+        private const string _cantSlapHerself = "You are not a smart man, aren't you?";
 
         private const string _commandName = "slap";
 
@@ -58,10 +60,10 @@ namespace FrontlineMaidBot.Commands
                 return null;
 
             if (_master.Contains(arguments.ToLower()))
-                return _defaultMessages.CantSlapMaster;
+                return _cantSlapMaster;
 
             if (_self.Contains(arguments.ToLower()))
-                return _defaultMessages.CantSlapHerself;
+                return _cantSlapHerself;
 
             var num = _rnd.Next(0, _responses.Count - 1);
             return string.Format(_responses[num], arguments);

@@ -11,9 +11,9 @@ namespace FrontlineMaidBot.Commands
     {
         private const string _commandName = "info";
 
-        private readonly IStorage _storage;
-        private readonly IResponseGenerator _generator;
         private readonly IDefaultMessages _defaultMessages;
+        private readonly IResponseGenerator _generator;
+        private readonly IStorage _storage;
 
         public InfoCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages) : base(name: _commandName)
         {

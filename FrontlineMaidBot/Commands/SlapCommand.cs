@@ -11,17 +11,16 @@ namespace FrontlineMaidBot.Commands
 {
     public class SlapCommand : CommandBase<BaseCommandArgs>
     {
-        private static readonly string[] _master = { "chief", "chiefNoir", "@chiefnoir" };
-        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid", "G36" };        
-        private const string _cantSlapMaster = "I am his bespoken and beloved maid. I will not commit an act of violence towards to him.";
-        private const string _cantSlapHerself = "You are not a smart man, aren't you?";
-
         private const string _commandName = "slap";
-
-        private readonly List<string> _responses;
-        private readonly Random _rnd;
+        private const string _cantSlapHerself = "You are not a smart man, aren't you?";
+        private const string _cantSlapMaster = "I am his bespoken and beloved maid. I will not commit an act of violence towards to him.";
+        
+        private static readonly string[] _master = { "chief", "chiefNoir", "@chiefnoir" };
+        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid", "G36" };
 
         private readonly IDefaultMessages _defaultMessages;
+        private readonly List<string> _responses;
+        private readonly Random _rnd;
 
         public SlapCommand(IStorage storage, IDefaultMessages defaultMessages) : base(name: _commandName)
         {
@@ -38,7 +37,7 @@ namespace FrontlineMaidBot.Commands
                 return UpdateHandlingResult.Handled;
 
             var input = ParseInput(update);
-            if(string.IsNullOrEmpty(input?.ArgsInput))
+            if (string.IsNullOrEmpty(input?.ArgsInput))
             {
                 await Send(update.Message.Chat.Id, _defaultMessages.WrongParams, update.Message.MessageId);
                 return UpdateHandlingResult.Handled;
@@ -46,14 +45,13 @@ namespace FrontlineMaidBot.Commands
 
             string msg = CreateMsg(input.ArgsInput);
 
-            if(string.IsNullOrEmpty(msg))
+            if (string.IsNullOrEmpty(msg))
                 return UpdateHandlingResult.Handled;
 
             await Send(update.Message.Chat.Id, msg, update.Message.MessageId);
             return UpdateHandlingResult.Handled;
         }
 
-        
         private string CreateMsg(string arguments)
         {
             if (string.IsNullOrEmpty(arguments))

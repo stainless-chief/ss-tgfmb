@@ -10,9 +10,9 @@ namespace FrontlineMaidBot.Commands
     {
         private const string _commandName = "time";
 
-        private readonly IStorage _storage;
-        private readonly IResponseGenerator _generator;
         private readonly IDefaultMessages _defaultMessages;
+        private readonly IResponseGenerator _generator;
+        private readonly IStorage _storage;
 
         public TimeCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages) : base(name: _commandName)
         {
@@ -27,7 +27,7 @@ namespace FrontlineMaidBot.Commands
                 return UpdateHandlingResult.Handled;
 
             var input = ParseInput(update);
-            if(string.IsNullOrEmpty(input?.ArgsInput))
+            if (string.IsNullOrEmpty(input?.ArgsInput))
             {
                 await Send(update.Message.Chat.Id, _defaultMessages.WrongParams, update.Message.MessageId);
                 return UpdateHandlingResult.Handled;
@@ -35,7 +35,6 @@ namespace FrontlineMaidBot.Commands
 
             var dolls = _storage.GetByTime(input.ArgsInput);
             var message = _generator.CreateTimerMessage(dolls, _defaultMessages.CantFind);
-
 
             await Send(update.Message.Chat.Id, message, update.Message.MessageId);
             return UpdateHandlingResult.Handled;

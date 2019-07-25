@@ -29,7 +29,41 @@ namespace FrontlineMaidBot.DAL
             _productionResults = dolls.Union(equipment).ToList();
         }
 
-        
+        public IEnumerable<ProductionResult> GetByName(string name)
+        {
+            if (string.IsNullOrEmpty(name))
+                return new List<ProductionResult>();
+
+            //We need first exact run, to be sure that there is no matches on unique Name
+            var byUniqueName = _productionResults.Where(x => x.Name == name);
+
+            if (byUniqueName.Any())
+                return byUniqueName;
+
+            var normal = name.ToLower().Replace(new[] { " ", "-", ".", "|" }, "");
+
+            //the second run is deep - everything slightly similar will be good enough
+            return _productionResults.Where(x => x.Lookup.Contains(normal));
+        }
+
+        public IEnumerable<ProductionResult> GetByTime(string time)
+        {
+            if (string.IsNullOrEmpty(time))
+                return new List<ProductionResult>();
+
+            var normalTime = Utils.NormalizeTime(time);
+
+            
+            return _productionResults.Where(x => x.Time == normalTime);
+        }
+
+        public string GetHelp()
+        {
+            var help = LoadFromFile<List<string>>(Path.Combine(_dataFolder, _helpFile));
+
+            return string.Join(Environment.NewLine, help);
+        }
+
         public IEnumerable<string> GetPokeJokes()
         {
             return LoadFromFile<List<string>>(Path.Combine(_dataFolder, _pokeFile));
@@ -40,42 +74,6 @@ namespace FrontlineMaidBot.DAL
             return LoadFromFile<List<string>>(Path.Combine(_dataFolder, _slapFile));
         }
 
-        public string GetHelp()
-        {
-            var help = LoadFromFile<List<string>>(Path.Combine(_dataFolder, _helpFile));
-
-            return string.Join(Environment.NewLine, help);
-        }
-
-        public IEnumerable<ProductionResult> GetByTime(string time)
-        {
-            var normalTime = Utils.NormalizeTime(time);
-
-            if(string.IsNullOrEmpty(normalTime))
-                return new List<ProductionResult>();
-
-            return
-                _productionResults.Where(x => x.Time == normalTime);
-        }
-
-        public IEnumerable<ProductionResult> GetByName(string name)
-        {
-            if (string.IsNullOrEmpty(name))
-                return new List<ProductionResult>();
-
-            //We need first excact run, to ensure uniqe 
-            var ss = _productionResults.Where(x => x.Name == name);
-
-            if (ss.Any())
-                return ss;
-
-            var normal = name.ToLower().Replace(new[] { " ", "-", "." }, "");
-
-            //very deep run
-            return _productionResults.Where(x => x.Lookup.Contains(normal));
-        }
-
-        
 
         private static T LoadFromFile<T>(string path)
         {

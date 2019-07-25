@@ -1,18 +1,18 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using FrontlineMaidBot.Interfaces;
+using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using System;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
-using FrontlineMaidBot.Interfaces;
 
 namespace FrontlineMaidBot
 {
     public class FrontlineMaidBot : BotBase<FrontlineMaidBot>
     {
-        private readonly ILogger<FrontlineMaidBot> _logger;
         private readonly IDefaultMessages _defaultMessages;
+        private readonly ILogger<FrontlineMaidBot> _logger;
 
         public FrontlineMaidBot(IOptions<BotOptions<FrontlineMaidBot>> botOptions, ILogger<FrontlineMaidBot> logger, IDefaultMessages defaultMessages)
             : base(botOptions)
@@ -26,15 +26,32 @@ namespace FrontlineMaidBot
             Client.OnReceiveGeneralError += Client_OnReceiveGeneralError;
         }
 
-
-        private void Client_OnReceiveGeneralError(object sender, Telegram.Bot.Args.ReceiveGeneralErrorEventArgs e)
-        {            
-            _logger.LogError(e.Exception, "OnReceiveGeneralError", null);
-        }
-
-        private void Client_OnReceiveError(object sender, Telegram.Bot.Args.ReceiveErrorEventArgs e)
+        public override async Task HandleFaultedUpdate(Update update, Exception e)
         {
-            _logger.LogError(e.ApiRequestException, "OnReceiveError", null);
+            _logger.LogError(e, $"[User name: {update?.Message?.Chat?.Username}]"
+                    + $"[ChatUsername: {update?.Message?.Chat?.Username}] "
+                    + $"[ChatType: {update?.Message?.Chat?.Type}] "
+                    + $"[Message: {update?.Message?.Text}]", null);
+
+            if (update?.Message?.Chat == null)
+                return;
+
+            try
+            {
+                await Client.SendTextMessageAsync
+                        (
+                            update.Message.Chat.Id,
+                            _defaultMessages.ErrorHappens,
+                            replyToMessageId: update.Message.MessageId
+                        );
+            }
+            catch (Exception ee)
+            {
+                _logger.LogError(ee, $"[User name: {update?.Message?.Chat?.Username}]"
+                    + $"[ChatUsername: {update?.Message?.Chat?.Username}] "
+                    + $"[ChatType: {update?.Message?.Chat?.Type}] "
+                    + $"[Message: {update?.Message?.Text}]", null);
+            }
         }
 
         public override async Task HandleUnknownUpdate(Update update)
@@ -57,7 +74,7 @@ namespace FrontlineMaidBot
             }
             catch (Exception e)
             {
-                _logger.LogError(e, $"[Username: {update?.Message?.Chat?.Username}]"
+                _logger.LogError(e, $"[User name: {update?.Message?.Chat?.Username}]"
                     + $"[ChatUsername: {update?.Message?.Chat?.Username}] "
                     + $"[ChatType: {update?.Message?.Chat?.Type}] "
                     + $"[Message: {update?.Message?.Text}]", null);
@@ -73,32 +90,14 @@ namespace FrontlineMaidBot
             }
         }
 
-        public override async Task HandleFaultedUpdate(Update update, Exception e)
+        private void Client_OnReceiveError(object sender, Telegram.Bot.Args.ReceiveErrorEventArgs e)
         {
-            _logger.LogError(e, $"[Username: {update?.Message?.Chat?.Username}]"
-                    + $"[ChatUsername: {update?.Message?.Chat?.Username}] "
-                    + $"[ChatType: {update?.Message?.Chat?.Type}] "
-                    + $"[Message: {update?.Message?.Text}]", null);
+            _logger.LogError(e.ApiRequestException, "OnReceiveError", null);
+        }
 
-            if (update?.Message?.Chat == null)
-                return;
-
-            try
-            {
-                await Client.SendTextMessageAsync
-                        (
-                            update.Message.Chat.Id,
-                            _defaultMessages.ErrorHappens,
-                            replyToMessageId: update.Message.MessageId
-                        );
-            }
-            catch (Exception ee)
-            {
-                _logger.LogError(ee, $"[Username: {update?.Message?.Chat?.Username}]"
-                    + $"[ChatUsername: {update?.Message?.Chat?.Username}] "
-                    + $"[ChatType: {update?.Message?.Chat?.Type}] "
-                    + $"[Message: {update?.Message?.Text}]", null);
-            }
+        private void Client_OnReceiveGeneralError(object sender, Telegram.Bot.Args.ReceiveGeneralErrorEventArgs e)
+        {
+            _logger.LogError(e.Exception, "OnReceiveGeneralError", null);
         }
     }
 }

@@ -1,8 +1,8 @@
-﻿using System.Threading.Tasks;
+﻿using FrontlineMaidBot.Interfaces;
+using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Framework.Abstractions;
 using Telegram.Bot.Types;
-using FrontlineMaidBot.Interfaces;
 
 namespace FrontlineMaidBot.Commands
 {
@@ -30,6 +30,5 @@ namespace FrontlineMaidBot.Commands
 
             return UpdateHandlingResult.Handled;
         }
-
     }
 }

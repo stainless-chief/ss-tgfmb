@@ -32,24 +32,6 @@ namespace FrontlineMaidBot
             Configuration = builder.Build();
         }
 
-        public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddTelegramBot<FrontlineMaidBot>(Configuration.GetSection(_botSettingsSection))
-                .AddUpdateHandler<StartCommand>()
-                .AddUpdateHandler<PokeCommand>()
-                .AddUpdateHandler<HelpCommand>()
-                .AddUpdateHandler<IsGoodCommand>()
-                .AddUpdateHandler<SlapCommand>()
-                .AddUpdateHandler<TimeCommand>()
-                .AddUpdateHandler<InfoCommand>()
-                .Configure();
-
-            services.AddLogging(configure => configure.AddSerilog());
-            services.AddScoped<IStorage, Storage>();
-            services.AddScoped<IResponseGenerator, ResponseGenerator>();
-            services.AddScoped<IDefaultMessages, DefaultMessages>();
-        }
-
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             Task.Factory.StartNew(async () =>
@@ -70,6 +52,22 @@ namespace FrontlineMaidBot
             });
         }
 
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddTelegramBot<FrontlineMaidBot>(Configuration.GetSection(_botSettingsSection))
+                .AddUpdateHandler<StartCommand>()
+                .AddUpdateHandler<PokeCommand>()
+                .AddUpdateHandler<HelpCommand>()
+                .AddUpdateHandler<IsGoodCommand>()
+                .AddUpdateHandler<SlapCommand>()
+                .AddUpdateHandler<TimeCommand>()
+                .AddUpdateHandler<InfoCommand>()
+                .Configure();
+
+            services.AddLogging(configure => configure.AddSerilog());
+            services.AddScoped<IStorage, Storage>();
+            services.AddScoped<IResponseGenerator, ResponseGenerator>();
+            services.AddScoped<IDefaultMessages, DefaultMessages>();
+        }
     }
 }
-

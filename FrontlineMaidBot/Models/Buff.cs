@@ -4,9 +4,9 @@ namespace FrontlineMaidBot.Models
 {
     public class BuffFull
     {
-        public string Target { get; set; }
-        public string Pattern { get; set; }
         public Dictionary<string, int> Effects { get; set; }
+        public string Pattern { get; set; }
+        public string Target { get; set; }
 
         public BuffFull()
         {

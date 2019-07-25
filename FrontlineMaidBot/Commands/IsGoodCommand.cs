@@ -11,11 +11,11 @@ namespace FrontlineMaidBot.Commands
     {
         private const string _commandName = "isgood";
 
-        private readonly IStorage _storage;
-        private readonly IResponseGenerator _generator;
         private readonly IDefaultMessages _defaultMessages;
+        private readonly IResponseGenerator _generator;
+        private readonly IStorage _storage;
 
-        public IsGoodCommand(IStorage storage, IResponseGenerator generator,IDefaultMessages defaultMessages ) : base(name: _commandName)
+        public IsGoodCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages) : base(name: _commandName)
         {
             _storage = storage;
             _generator = generator;
@@ -29,7 +29,7 @@ namespace FrontlineMaidBot.Commands
 
             var input = base.ParseInput(update);
 
-            if(string.IsNullOrEmpty(input?.ArgsInput))
+            if (string.IsNullOrEmpty(input?.ArgsInput))
             {
                 await Send(update.Message.Chat.Id, _defaultMessages.WrongParams, update.Message.MessageId);
                 return UpdateHandlingResult.Handled;
@@ -48,11 +48,9 @@ namespace FrontlineMaidBot.Commands
                 msg = _generator.CreateSuggestionMessage(dolls, _defaultMessages.DontKnow, _defaultMessages.Suggestion);
             }
 
-
             await Send(update.Message.Chat.Id, msg, update.Message.MessageId);
             return UpdateHandlingResult.Handled;
         }
-
 
         private Task<Message> Send(long chatId, string message, int messageId)
         {

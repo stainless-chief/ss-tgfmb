@@ -2,8 +2,8 @@
 {
     public class Extension
     {
-        public Skill Skill { get; set; }
         public BuffFull BuffFull { get; set; }
+        public Skill Skill { get; set; }
 
         public Extension()
         {

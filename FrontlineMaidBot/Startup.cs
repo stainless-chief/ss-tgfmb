@@ -47,6 +47,7 @@ namespace FrontlineMaidBot
             services.AddLogging(configure => configure.AddSerilog());
             services.AddScoped<IStorage, Storage>();
             services.AddScoped<IResponseGenerator, ResponseGenerator>();
+            services.AddScoped<IDefaultMessages, DefaultMessages>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
@@ -55,7 +56,7 @@ namespace FrontlineMaidBot
             {
                 var botManager = app.ApplicationServices.GetRequiredService<IBotManager<FrontlineMaidBot>>();
 
-                // make sure webhook is disabled so we can use long-polling
+                // make sure web hook is disabled so we can use long-polling
                 await botManager.SetWebhookStateAsync(false);
 
                 while (true)

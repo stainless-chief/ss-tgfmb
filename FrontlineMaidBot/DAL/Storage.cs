@@ -75,6 +75,7 @@ namespace FrontlineMaidBot.DAL
             return _productionResults.Where(x => x.Lookup.Contains(normal));
         }
 
+        
 
         private static T LoadFromFile<T>(string path)
         {

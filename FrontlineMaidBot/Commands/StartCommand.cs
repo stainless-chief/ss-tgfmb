@@ -2,30 +2,34 @@
 using Telegram.Bot.Framework;
 using Telegram.Bot.Framework.Abstractions;
 using Telegram.Bot.Types;
+using FrontlineMaidBot.Interfaces;
 
 namespace FrontlineMaidBot.Commands
 {
     public class StartCommand : CommandBase<BaseCommandArgs>
     {
         private const string _commandName = "start";
-        private const string _message = "Guten Tag, commander.";
 
-        public StartCommand() : base(name: _commandName)
+        private readonly IDefaultMessages _defaultMessages;
+
+        public StartCommand(IDefaultMessages defaultMessages) : base(name: _commandName)
         {
+            _defaultMessages = defaultMessages;
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
-            if (update == null || update.Message == null || update.Message.Chat == null)
+            if (update?.Message?.Chat == null)
                 return UpdateHandlingResult.Handled;
 
             await Bot.Client.SendTextMessageAsync
             (
                 update.Message.Chat.Id,
-                _message
+                _defaultMessages.Greeting
             );
 
             return UpdateHandlingResult.Handled;
         }
+
     }
 }

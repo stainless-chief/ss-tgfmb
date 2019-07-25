@@ -5,20 +5,20 @@ using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
+using FrontlineMaidBot.Interfaces;
 
 namespace FrontlineMaidBot
 {
     public class FrontlineMaidBot : BotBase<FrontlineMaidBot>
     {
-        private const string _unknownUpdateRespose = "I'm sorry. I'm afraid I can't do that.";
-        private const string _faultedUpdateRespose = "I'm not feeling very well... please, inform @ChiefNoir about that. He will take care of me.";
-        private const string _unknownUpdateErrorRespose = "I'm not feeling very good... please, inform @ChiefNoir about that. He will take care of me.";
         private readonly ILogger<FrontlineMaidBot> _logger;
+        private readonly IDefaultMessages _defaultMessages;
 
-        public FrontlineMaidBot(IOptions<BotOptions<FrontlineMaidBot>> botOptions, ILogger<FrontlineMaidBot> logger)
+        public FrontlineMaidBot(IOptions<BotOptions<FrontlineMaidBot>> botOptions, ILogger<FrontlineMaidBot> logger, IDefaultMessages defaultMessages)
             : base(botOptions)
         {
             _logger = logger;
+            _defaultMessages = defaultMessages;
 
             _logger.Log(LogLevel.Information, "Let's go", null);
 
@@ -50,7 +50,7 @@ namespace FrontlineMaidBot
                     await Client.SendTextMessageAsync
                         (
                             update.Message.Chat.Id,
-                            _unknownUpdateRespose,
+                            _defaultMessages.WrongCommand,
                             replyToMessageId: update.Message.MessageId
                         );
                 }
@@ -67,7 +67,7 @@ namespace FrontlineMaidBot
                     await Client.SendTextMessageAsync
                         (
                             update.Message.Chat.Id,
-                            _unknownUpdateErrorRespose
+                            _defaultMessages.ErrorHappens
                         );
                 }
             }
@@ -88,7 +88,7 @@ namespace FrontlineMaidBot
                 await Client.SendTextMessageAsync
                         (
                             update.Message.Chat.Id,
-                            _faultedUpdateRespose,
+                            _defaultMessages.ErrorHappens,
                             replyToMessageId: update.Message.MessageId
                         );
             }

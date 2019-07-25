@@ -1,6 +1,5 @@
 ﻿using FrontlineMaidBot.Interfaces;
 using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
 using Telegram.Bot.Framework.Abstractions;
@@ -24,18 +23,22 @@ namespace FrontlineMaidBot.Commands
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
-            if (update == null || update.Message == null || update.Message.Chat == null)
+            if (update?.Message?.Chat == null)
                 return UpdateHandlingResult.Handled;
 
-            await Bot.Client.SendTextMessageAsync
-            (
-                update.Message.Chat.Id,
-                _helpResponse,
-                replyToMessageId: update.Message.MessageId
-            );
-
+            await Send(update.Message.Chat.Id, _helpResponse, update.Message.MessageId);
             return UpdateHandlingResult.Handled;
         }
 
+        private Task<Message> Send(long chatId, string message, int messageId)
+        {
+            return Bot.Client.SendTextMessageAsync
+            (
+                chatId,
+                message,
+                Telegram.Bot.Types.Enums.ParseMode.Html,
+                replyToMessageId: messageId
+            );
+        }
     }
 }

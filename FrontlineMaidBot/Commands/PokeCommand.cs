@@ -25,21 +25,25 @@ namespace FrontlineMaidBot.Commands
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
-            if (update == null || update.Message == null || update.Message.Chat == null)
+            if (update?.Message?.Chat == null)
                 return UpdateHandlingResult.Handled;
 
             var num = _rnd.Next(0, _responses.Count - 1);
             var message = _responses[num];
 
-            await Bot.Client.SendTextMessageAsync
-            (
-                update.Message.Chat.Id,
-                message,
-                replyToMessageId: update.Message.MessageId
-            );
-
+            await Send(update.Message.Chat.Id, message, update.Message.MessageId);
             return UpdateHandlingResult.Handled;
         }
 
+        private Task<Message> Send(long chatId, string message, int messageId)
+        {
+            return Bot.Client.SendTextMessageAsync
+            (
+                chatId,
+                message,
+                Telegram.Bot.Types.Enums.ParseMode.Html,
+                replyToMessageId: messageId
+            );
+        }
     }
 }

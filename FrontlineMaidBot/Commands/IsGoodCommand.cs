@@ -1,5 +1,4 @@
-﻿using FrontlineMaidBot.Helpers;
-using FrontlineMaidBot.Interfaces;
+﻿using FrontlineMaidBot.Interfaces;
 using System.Linq;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework;
@@ -11,50 +10,59 @@ namespace FrontlineMaidBot.Commands
     public class IsGoodCommand : CommandBase<BaseCommandArgs>
     {
         private const string _commandName = "isgood";
-        private const string _default = "I'm sorry. I don't know.";
-        private const string _suggestion = "I'm sorry... did you mean someone like:";
 
         private readonly IStorage _storage;
         private readonly IResponseGenerator _generator;
+        private readonly IDefaultMessages _defaultMessages;
 
-        public IsGoodCommand(IStorage storage, IResponseGenerator generator) : base(name: _commandName)
+        public IsGoodCommand(IStorage storage, IResponseGenerator generator,IDefaultMessages defaultMessages ) : base(name: _commandName)
         {
             _storage = storage;
             _generator = generator;
+            _defaultMessages = defaultMessages;
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
-            if (update == null || update.Message == null || update.Message.Chat == null)
+            if (update?.Message?.Chat == null)
                 return UpdateHandlingResult.Handled;
 
             var input = base.ParseInput(update);
+
+            if(string.IsNullOrEmpty(input?.ArgsInput))
+            {
+                await Send(update.Message.Chat.Id, _defaultMessages.WrongParams, update.Message.MessageId);
+                return UpdateHandlingResult.Handled;
+            }
+
             var dolls = _storage.GetByName(input.ArgsInput);
             var count = dolls.Count();
 
             string msg;
             if (count <= 1)
             {
-                msg = _generator.CreateSummaryMessage(dolls.FirstOrDefault(), _default);
+                msg = _generator.CreateSummaryMessage(dolls.FirstOrDefault(), _defaultMessages.DontKnow);
             }
             else
             {
-                msg = _generator.CreateSuggestionMessage(dolls, _default, _suggestion);
+                msg = _generator.CreateSuggestionMessage(dolls, _defaultMessages.DontKnow, _defaultMessages.Suggestion);
             }
 
 
-            await Bot.Client.SendTextMessageAsync
-            (
-                update.Message.Chat.Id,
-                msg,
-                Telegram.Bot.Types.Enums.ParseMode.Html,
-                replyToMessageId: update.Message.MessageId
-            );
-
+            await Send(update.Message.Chat.Id, msg, update.Message.MessageId);
             return UpdateHandlingResult.Handled;
         }
 
 
-
+        private Task<Message> Send(long chatId, string message, int messageId)
+        {
+            return Bot.Client.SendTextMessageAsync
+            (
+                chatId,
+                message,
+                Telegram.Bot.Types.Enums.ParseMode.Html,
+                replyToMessageId: messageId
+            );
+        }
     }
 }

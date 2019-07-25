@@ -12,39 +12,42 @@ namespace FrontlineMaidBot.Commands
     public class SlapCommand : CommandBase<BaseCommandArgs>
     {
         private static readonly string[] _master = { "chief", "chiefNoir", "@chiefnoir" };
-        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid",  };
+        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid", "G36" };
 
         private const string _commandName = "slap";
-        private const string _masterHack = "I am his bespoked and beloved maid. I will not commit an act of violence towards to him.";
-        private const string _selfHack = "Bedenke, dass du sterben musst.";
 
         private readonly List<string> _responses;
         private readonly Random _rnd;
 
-        public SlapCommand(IStorage storage) : base(name: _commandName)
+        private readonly IDefaultMessages _defaultMessages;
+
+        public SlapCommand(IStorage storage, IDefaultMessages defaultMessages) : base(name: _commandName)
         {
+            _defaultMessages = defaultMessages;
+
             _responses = storage.GetSlapJokes().ToList();
+
             _rnd = new Random(DateTime.Now.Millisecond);
         }
 
         public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
         {
-            if (update == null || update.Message == null || update.Message.Chat == null)
+            if (update?.Message?.Chat == null)
                 return UpdateHandlingResult.Handled;
 
             var input = ParseInput(update);
+            if(string.IsNullOrEmpty(input?.ArgsInput))
+            {
+                await Send(update.Message.Chat.Id, _defaultMessages.WrongParams, update.Message.MessageId);
+                return UpdateHandlingResult.Handled;
+            }
+
             string msg = CreateMsg(input.ArgsInput);
 
             if(string.IsNullOrEmpty(msg))
                 return UpdateHandlingResult.Handled;
 
-            await Bot.Client.SendTextMessageAsync
-            (
-                update.Message.Chat.Id,
-                msg,
-                replyToMessageId: update.Message.MessageId
-            );
-
+            await Send(update.Message.Chat.Id, msg, update.Message.MessageId);
             return UpdateHandlingResult.Handled;
         }
 
@@ -55,14 +58,24 @@ namespace FrontlineMaidBot.Commands
                 return null;
 
             if (_master.Contains(arguments.ToLower()))
-                return _masterHack;
+                return _defaultMessages.CantSlapMaster;
 
             if (_self.Contains(arguments.ToLower()))
-                return _selfHack;
+                return _defaultMessages.CantSlapHerself;
 
             var num = _rnd.Next(0, _responses.Count - 1);
             return string.Format(_responses[num], arguments);
         }
 
+        private Task<Message> Send(long chatId, string message, int messageId)
+        {
+            return Bot.Client.SendTextMessageAsync
+            (
+                chatId,
+                message,
+                Telegram.Bot.Types.Enums.ParseMode.Html,
+                replyToMessageId: messageId
+            );
+        }
     }
 }

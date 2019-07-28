@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog;
+using System;
 using System.Threading.Tasks;
 using Telegram.Bot.Framework.Abstractions;
 
@@ -14,6 +15,7 @@ namespace FrontlineMaidBot
 {
     public class Startup
     {
+        //TODO: logging is messy, I should do it properly
         private const string _botSettingsSection = "FrontlineMaidBot";
         private const string _logPath = @"Logs\log.log";
 
@@ -43,12 +45,17 @@ namespace FrontlineMaidBot
 
                 while (true)
                 {
-                    await Task.Delay(3000);
-                    await botManager.GetAndHandleNewUpdatesAsync();
+                    await Task.Delay(1000);
+                    try
+                    {
+                        await botManager.GetAndHandleNewUpdatesAsync();
+                    }
+                    catch (Exception ee)
+                    {
+                        //loop should not fail
+                        Log.Logger.Error(ee, "Main loop fails");
+                    }
                 }
-            }).ContinueWith(t =>
-            {
-                if (t.IsFaulted) throw t.Exception;
             });
         }
 

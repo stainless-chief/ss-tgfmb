@@ -8,6 +8,7 @@ using System.Text;
 
 namespace FrontlineMaidBot.Generator
 {
+    //TODO: I think, I should move messages templates to the file and load it on start.
     public class ResponseGenerator : IResponseGenerator
     {
         private const string _advantages = "<b>Advantages: </b>";

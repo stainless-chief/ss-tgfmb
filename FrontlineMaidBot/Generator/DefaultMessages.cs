@@ -2,6 +2,7 @@
 
 namespace FrontlineMaidBot.Generator
 {
+    //TODO: It will be better to load it from file, won't it?
     public class DefaultMessages : IDefaultMessages
     {
         public string CantFind => "I'm sorry. I can't find anything.";

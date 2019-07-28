@@ -46,10 +46,10 @@ namespace FrontlineMaidBot.Generator
                     result.Append($"{Environment.NewLine}{_skill} {production.Extension.Skill.Name}");
 
                     if (production.Extension.Skill.InitCooldown.HasValue)
-                        result.Append($"{_initCooldown}{production.Extension.Skill.InitCooldown} seconds. ");
+                        result.Append($"{Environment.NewLine}{_initCooldown}{production.Extension.Skill.InitCooldown} seconds. ");
 
                     if (production.Extension.Skill.Cooldown.HasValue)
-                        result.Append($"{_cooldown}{production.Extension.Skill.Cooldown} seconds.");
+                        result.Append($"  {_cooldown}{production.Extension.Skill.Cooldown} seconds.");
 
                     if (!string.IsNullOrEmpty(production.Extension?.Skill?.Description))
                         result.Append($"{Environment.NewLine}{production.Extension.Skill.Description}");

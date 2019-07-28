@@ -18,6 +18,7 @@ namespace FrontlineMaidBot.DAL
         private const string _helpFile = "Help.json";
         private const string _pokeFile = "Poke.json";
         private const string _slapFile = "Slap.json";
+        private const string _feedback = "feedback.log";
 
         private readonly List<ProductionResult> _productionResults;
 
@@ -74,6 +75,17 @@ namespace FrontlineMaidBot.DAL
             return LoadFromFile<List<string>>(Path.Combine(_dataFolder, _slapFile));
         }
 
+        public void SaveFeedback(string username, string chat, string text)
+        {
+            var content =
+                $"{Environment.NewLine}{Environment.NewLine}{Environment.NewLine}" +
+                $"{DateTime.Now.ToString("[dd.mm.yyyy] hh:MM:ss")}" +
+                $"User name: {username}; chat: {chat};"+
+                $"{Environment.NewLine} {text}"
+                ;
+
+            File.AppendAllText(Path.Combine(_dataFolder, _feedback), content);
+        }
 
         private static T LoadFromFile<T>(string path)
         {

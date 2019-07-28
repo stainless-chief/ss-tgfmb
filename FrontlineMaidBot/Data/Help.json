@@ -3,9 +3,13 @@
 
   "'/isgood %name%' \r\nGet quick summary on T-doll or fairy.\r\n",
 
+  "'/info %name%' \r\nGet quick info on T-doll or fairy.\r\n",
+
   "'/poke' \r\nDon't tease me.",
 
   "'/slap %name%' \r\nTeach someone or something a lesson.\r\n",
+
+  "'/feedback %text%' \r\nGive bug report or suggest improvement. \r\n",
 
   "'/help' \r\nGet commands list.\r\n"
 ]

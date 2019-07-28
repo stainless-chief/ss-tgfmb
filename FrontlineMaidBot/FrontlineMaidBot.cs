@@ -74,8 +74,7 @@ namespace FrontlineMaidBot
             }
             catch (Exception e)
             {
-                _logger.LogError(e, $"[User name: {update?.Message?.Chat?.Username}]"
-                    + $"[ChatUsername: {update?.Message?.Chat?.Username}] "
+                _logger.LogError(e, $"[User name: {update?.Message?.Chat?.Username}]"                    
                     + $"[ChatType: {update?.Message?.Chat?.Type}] "
                     + $"[Message: {update?.Message?.Text}]", null);
 

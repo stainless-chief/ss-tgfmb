@@ -26,5 +26,11 @@ namespace FrontlineMaidBot.Interfaces
         /// <summary>Get collection of slap jokes</summary>
         /// <returns>Collection of slap jokes</returns>
         IEnumerable<string> GetSlapJokes();
+
+        /// <summary>Save feedback from user</summary>
+        /// <param name="username">User name</param>
+        /// <param name="chat">Chat name</param>
+        /// <param name="text">Feedback</param>
+        void SaveFeedback(string username, string chat, string text);
     }
 }

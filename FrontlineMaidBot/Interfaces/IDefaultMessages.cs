@@ -23,5 +23,11 @@
 
         /// <summary> When user input wrong parameters</summary>
         string WrongParams { get; }
+
+        /// <summary> When user input contains of nothingness</summary>
+        string EmptyParams { get; }
+
+        /// <summary> Command was successful</summary>
+        string EverythingWentGood { get;  }
     }
 }

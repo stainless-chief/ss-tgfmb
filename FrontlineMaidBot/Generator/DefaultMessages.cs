@@ -11,5 +11,7 @@ namespace FrontlineMaidBot.Generator
         public string Suggestion => "I'm sorry... did you mean someone like:";
         public string WrongCommand => "I'm sorry. I'm afraid I can't do that.";
         public string WrongParams => "I'm sorry... what?";
+        public string EmptyParams => "You must write at least something, I can't work with nothingness.";
+        public string EverythingWentGood => "Thank you for your cooperation! Your request has been submitted to my master.";
     }
 }

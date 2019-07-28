@@ -62,6 +62,7 @@ namespace FrontlineMaidBot
                 .AddUpdateHandler<SlapCommand>()
                 .AddUpdateHandler<TimeCommand>()
                 .AddUpdateHandler<InfoCommand>()
+                .AddUpdateHandler<FeedbackCommand>()
                 .Configure();
 
             services.AddLogging(configure => configure.AddSerilog());

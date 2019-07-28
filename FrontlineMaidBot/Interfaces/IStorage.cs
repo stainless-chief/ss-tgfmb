@@ -16,8 +16,12 @@ namespace FrontlineMaidBot.Interfaces
         IEnumerable<ProductionResult> GetByTime(string time);
 
         /// <summary> Get preset of help message</summary>
-        /// <returns></returns>
+        /// <returns>Text</returns>
         string GetHelp();
+
+        /// <summary> Get preset of about message</summary>
+        /// <returns>Text</returns>
+        string GetAbout();
 
         /// <summary>Get collection of poke jokes</summary>
         /// <returns>Collection of poke jokes</returns>

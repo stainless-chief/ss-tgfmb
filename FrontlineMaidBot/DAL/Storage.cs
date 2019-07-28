@@ -16,6 +16,7 @@ namespace FrontlineMaidBot.DAL
         private const string _dollsFile = "Dolls.json";
         private const string _equipmentFile = "Equipment.json";
         private const string _helpFile = "Help.json";
+        private const string _aboutFile = "About.json";
         private const string _pokeFile = "Poke.json";
         private const string _slapFile = "Slap.json";
         private const string _feedback = "feedback.log";
@@ -65,6 +66,13 @@ namespace FrontlineMaidBot.DAL
             return string.Join(Environment.NewLine, help);
         }
 
+        public string GetAbout()
+        {
+            var help = LoadFromFile<List<string>>(Path.Combine(_dataFolder, _aboutFile));
+
+            return string.Join(Environment.NewLine, help);
+        }
+
         public IEnumerable<string> GetPokeJokes()
         {
             return LoadFromFile<List<string>>(Path.Combine(_dataFolder, _pokeFile));
@@ -92,5 +100,6 @@ namespace FrontlineMaidBot.DAL
             var content = File.ReadAllText(path);
             return JsonConvert.DeserializeObject<T>(content);
         }
+
     }
 }

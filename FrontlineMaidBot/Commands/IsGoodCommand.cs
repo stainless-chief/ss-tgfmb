@@ -39,7 +39,6 @@ namespace FrontlineMaidBot.Commands
             var dolls = _storage.GetByName(input);
             var count = dolls.Count();
 
-            string msg;
             if (count <= 1)
             {
                 return _generator.CreateSummaryMessage(dolls.FirstOrDefault(), _defaultMessages.DontKnow);

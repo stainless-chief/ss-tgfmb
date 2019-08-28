@@ -2969,9 +2969,9 @@
     "Stars": "★★★★★",
     "Category": "HG",
     "Time": "0104",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Amazing tiles coverage\r\n○ Good FP tiles\r\n○ One of the highest potential damage buff in a single T-doll\r\n○ Very high EVA",
+    "Disadvantages": "○ Low HP\r\n○ Crit rate reduction on skill\r\n○ Crit damage is inferior to raw damage buffs\r\n○ Locked to position 8",
+    "Summary": "She is very good.",
     "Lookup": "px4 storm|px4storm|px4|storm",
     "Image": null,
     "Extension": {
@@ -2985,7 +2985,10 @@
       "BuffFull": {
         "Target": null,
         "Pattern": null,
-        "Effects": {}
+        "Effects": {
+          "Accuracy": 60,
+          "Damage": 24
+        }
       }
     }
   },
@@ -3099,9 +3102,9 @@
     "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Excellent FP tile buff and coverage\r\n○ High base HP\r\n○ Very high base evasion\r\n○ Very versatile due to different skill buffs",
+    "Disadvantages": "○ Can't attack\r\n○ Has an effective ICD of 9s without any reduction\r\n○ Her skill is very complicated",
+    "Summary": "She is very complicated but very good.",
     "Lookup": "jill",
     "Image": null,
     "Extension": {
@@ -3125,9 +3128,9 @@
     "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Unique shield skill\r\n○ Excellent FP tile buff and good coverage\r\n○ Bonus evasion tile buff\r\n○ Very high base HP",
+    "Disadvantages": "○ Shield does not protect the DPS classes\r\n○ Has no offensive skill buff",
+    "Summary": "○ She is sort of good for 5HGs or in a defensive oriented ARSMG/RFHG",
     "Lookup": "sei",
     "Image": null,
     "Extension": {
@@ -4009,9 +4012,9 @@
     "Stars": "☆☆★☆☆",
     "Category": "MG",
     "Time": null,
-    "Advantages": null,
+    "Advantages": "○ Great tiles\r\n○ Great 2nd volley skill\r\n○ High base FP with SPEQ\r\n○ Nice ACC",
     "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Summary": "She is sort of good.",
     "Lookup": "alma|alma armas|almaarmas",
     "Image": null,
     "Extension": {
@@ -4477,9 +4480,9 @@
     "Stars": "☆☆★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good tile placement",
+    "Disadvantages": "○ Low base RoF\r\n○ High Initial CD\r\n○ Low damage multiplier due to rarity",
+    "Summary": "○ Burst RF\r\n○ Not suited for general use\r\n○ Investing in her is redundant. Little is lost when investing in higher rarity counterparts\r\n○ Atrocious stats\r\n○ Is a monthly login doll",
     "Lookup": "gepard m1|gepardm1",
     "Image": null,
     "Extension": {
@@ -5387,9 +5390,9 @@
     "Stars": "★★★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High FP stat\r\n○ Good tile coverage for HG buff\r\n○ Does not sacrifice a lot of offensive stats for accuracy (a heavily underestimated stat)",
+    "Disadvantages": "○ ICD is 1s longer than classic self-buff rifles\r\n○ Picky about which fights she would shine in, and is outperformed by lower rarity substitutes in most situations",
+    "Summary": "Sort of ok. Can be raised for the future.",
     "Lookup": "srs",
     "Image": null,
     "Extension": {
@@ -5595,9 +5598,9 @@
     "Stars": "☆☆★☆☆",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Double Targeting Perk\r\n○ High base ROF with SPEQ",
+    "Disadvantages": "○ Requires Sei which hardly does anything for RFs for her passive to be relevant\r\n○ Not that desirable DMG and DMG buff",
+    "Summary": "She is sort of good: too much is needed for her to shine, she'll still do her job just fine. ",
     "Lookup": "stella|stella hoshi|stellahoshi",
     "Image": null,
     "Extension": {
@@ -6141,9 +6144,9 @@
     "Stars": "☆☆★☆☆",
     "Category": "SG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base HP\r\n○ Decent base armor\r\n○ Excellent tile coverage\r\n○ Excellent tile buffs\r\n○ Guaranteed knockback on skill",
+    "Disadvantages": "○ Can only target 1 enemy\r\n○ Only 1 clip size\r\n○ Skill doesn't do much damage\r\n○ Shield is nice and all but requires Jill to solely buff SGs",
+    "Summary": "She is not that great",
     "Lookup": "dana|dana zane |danazane",
     "Image": null,
     "Extension": {
@@ -7363,9 +7366,9 @@
     "Stars": "★★★★★",
     "Category": "SMG",
     "Time": "0229",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Very high base EVA\r\n○ Above average/high HP\r\n○ High accuracy\r\n○ Holograms forces enemies to focus on them if in range\r\n○ Near immortal under the right circumstances\r\n○ Holograms can be affected by shield\r\n○ Great tiles coverage for main tank ",
+    "Disadvantages": "○ Confusing\r\n○ So rare that it caused an outroar in the older servers\r\n○ Passive skill requires you to actively take damage\r\n○ 4 guaranteed attacks generally doesn't do much due to her main tank nature\r\n○ Holograms are super weak against anything that hits all links at once\r\n○ Holograms loses effectiveness as she loses links",
+    "Summary": "She is very unique and will be useful in the future. ",
     "Lookup": "p90",
     "Image": null,
     "Extension": {
@@ -7519,9 +7522,9 @@
     "Stars": "☆☆★☆☆",
     "Category": "SMG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base evasion\r\n○ Perma-uptime\r\n○ Can buff RFs\r\n○ Can support the other tank",
+    "Disadvantages": "○ Inconvenient tile placement if used as an off-tank",
+    "Summary": "She is very good.",
     "Lookup": "dorothy",
     "Image": null,
     "Extension": {

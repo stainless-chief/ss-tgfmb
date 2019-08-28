@@ -15,7 +15,6 @@ namespace FrontlineMaidBot.DAL
         private const string _dataFolder = "Data";
         private const string _dollsFile = "Dolls.json";
         private const string _equipmentFile = "Equipment.json";
-        private const string _helpFile = "Help.json";
         private const string _aboutFile = "About.json";
         private const string _pokeFile = "Poke.json";
         private const string _slapFile = "Slap.json";
@@ -57,13 +56,6 @@ namespace FrontlineMaidBot.DAL
             var normalTime = Utils.NormalizeTime(time);
 
             return _dolls.Where(x => x.Time == normalTime).Union(_equipment.Where(x => x.Time == normalTime));
-        }
-
-        public string GetHelp()
-        {
-            var help = LoadFromFile<List<string>>(Path.Combine(_dataFolder, _helpFile));
-
-            return string.Join(Environment.NewLine, help);
         }
 
         public string GetAbout()

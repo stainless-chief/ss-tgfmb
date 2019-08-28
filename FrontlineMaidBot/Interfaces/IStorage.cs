@@ -25,10 +25,6 @@ namespace FrontlineMaidBot.Interfaces
         /// <returns>Result of empty collection</returns>
         IEnumerable<ProductionResult> GetEquipmentByTime(string time);
 
-        /// <summary> Get preset of help message</summary>
-        /// <returns>Text</returns>
-        string GetHelp();
-
         /// <summary> Get preset of about message</summary>
         /// <returns>Text</returns>
         string GetAbout();

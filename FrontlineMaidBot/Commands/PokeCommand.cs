@@ -12,6 +12,7 @@ namespace FrontlineMaidBot.Commands
         private readonly Random _rnd;
 
         public string CommandName => "/poke";
+        public string Description => "Don't tease me.";
         public IEnumerable<string> Aliases => new List<string> { "/p" };
 
         public PokeCommand(IStorage storage) 

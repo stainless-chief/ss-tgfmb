@@ -8,6 +8,7 @@ namespace FrontlineMaidBot.Commands
     public class AboutCommand : ICommand
     {
         public string CommandName => "/about";
+        public string Description => "Get information about me and my Master.";
         public IEnumerable<string> Aliases => new List<string> { };
 
         private readonly string _aboutResponse;

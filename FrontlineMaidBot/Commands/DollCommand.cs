@@ -1,5 +1,6 @@
 ﻿using FrontlineMaidBot.Extensions;
 using FrontlineMaidBot.Interfaces;
+using System;
 using System.Collections.Generic;
 using Telegram.Bot.Types;
 
@@ -12,6 +13,7 @@ namespace FrontlineMaidBot.Commands
         private readonly IStorage _storage;
 
         public string CommandName => "/doll";
+        public string Description => $"Format: '{CommandName} %hh:mm%'{Environment.NewLine}Get the possible outcome of t-doll production.";
         public IEnumerable<string> Aliases => new List<string> { "/d" };
 
         public DollCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages)

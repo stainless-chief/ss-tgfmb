@@ -2,6 +2,7 @@
 using FrontlineMaidBot.Interfaces;
 using System.Collections.Generic;
 using System.Linq;
+using System;
 using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
@@ -13,6 +14,7 @@ namespace FrontlineMaidBot.Commands
         private readonly IStorage _storage;
 
         public string CommandName => "/info";
+        public string Description => $"Format: '{CommandName} %name%'{Environment.NewLine}Get quick info on T-doll or fairy.";
         public IEnumerable<string> Aliases => new List<string> { };
 
         public InfoCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages)

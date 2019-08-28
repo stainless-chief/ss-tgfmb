@@ -3,6 +3,7 @@ using FrontlineMaidBot.Interfaces;
 using System.Collections.Generic;
 using System.Linq;
 using Telegram.Bot.Types;
+using System;
 
 namespace FrontlineMaidBot.Commands
 {
@@ -13,6 +14,7 @@ namespace FrontlineMaidBot.Commands
         private readonly IStorage _storage;
 
         public string CommandName => "/isgood";
+        public string Description => $"Format: '{CommandName} %name%'{Environment.NewLine}Get quick summary on T-doll or fairy.";
         public IEnumerable<string> Aliases => new List<string> { };
 
         public IsGoodCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages) 

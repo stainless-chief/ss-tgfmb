@@ -1,8 +1,8 @@
 ﻿using FrontlineMaidBot.Extensions;
 using FrontlineMaidBot.Interfaces;
 using System.Collections.Generic;
-using System.Threading.Tasks;
 using Telegram.Bot.Types;
+using System;
 
 namespace FrontlineMaidBot.Commands
 {
@@ -13,6 +13,7 @@ namespace FrontlineMaidBot.Commands
         private readonly IStorage _storage;
 
         public string CommandName => "/time";
+        public string Description => $"Format: '{CommandName} %hh:mm%' {Environment.NewLine}Get the possible outcome of production.";
         public IEnumerable<string> Aliases => new List<string> { "/t" };
 
         public TimeCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages)

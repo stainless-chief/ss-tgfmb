@@ -9,6 +9,7 @@ namespace FrontlineMaidBot.Commands
         private readonly IDefaultMessages _defaultMessages;
 
         public string CommandName => "/start";
+        public string Description => "Initiate the conversation.";
         public IEnumerable<string> Aliases => new List<string> { };
 
         public StartCommand(IDefaultMessages defaultMessages) 

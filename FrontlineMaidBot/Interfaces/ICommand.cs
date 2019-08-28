@@ -9,6 +9,9 @@ namespace FrontlineMaidBot.Interfaces
         /// <summary> Get command name, started with / (slash)</summary>
         string CommandName { get; }
 
+        /// <summary> Get command friendly description </summary>
+        string Description { get; }
+
         /// <summary> Get all command aliases </summary>
         IEnumerable<string> Aliases { get; }
 

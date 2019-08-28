@@ -1,5 +1,6 @@
 ﻿using FrontlineMaidBot.Extensions;
 using FrontlineMaidBot.Interfaces;
+using System;
 using System.Collections.Generic;
 using Telegram.Bot.Types;
 
@@ -11,6 +12,7 @@ namespace FrontlineMaidBot.Commands
         private readonly IStorage _storage;
 
         public string CommandName => "/feedback";
+        public string Description => $"Format: '{CommandName} %text%'{Environment.NewLine}Give bug report or suggest improvement.";
         public IEnumerable<string> Aliases => new List<string> { };
 
         public FeedbackCommand(IStorage storage, IDefaultMessages defaultMessages)

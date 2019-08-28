@@ -20,6 +20,7 @@ namespace FrontlineMaidBot.Commands
         private readonly Random _rnd;
 
         public string CommandName => "/slap";
+        public string Description => $"Format: '{CommandName} %name%'{Environment.NewLine}Teach someone or something a lesson.";
         public IEnumerable<string> Aliases => new List<string> { };
 
         public SlapCommand(IStorage storage, IDefaultMessages defaultMessages)

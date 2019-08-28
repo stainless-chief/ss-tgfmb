@@ -41,7 +41,6 @@ namespace FrontlineMaidBot
 
             services.AddScoped<ICommand, AboutCommand>();
             services.AddScoped<ICommand, FeedbackCommand>();
-            services.AddScoped<ICommand, HelpCommand>();
             services.AddScoped<ICommand, InfoCommand>();
             services.AddScoped<ICommand, IsGoodCommand>();
             services.AddScoped<ICommand, PokeCommand>();
@@ -51,10 +50,10 @@ namespace FrontlineMaidBot
             services.AddScoped<ICommand, DollCommand>();
             services.AddScoped<ICommand, EquipmentCommand>();
 
-            services.AddScoped<IMessageFactory, MessageFactory>();
             services.AddScoped<IResponseGenerator, ResponseGenerator>();
             services.AddScoped<IDefaultMessages, DefaultMessages>();
 
+            services.AddSingleton<IMessageFactory, MessageFactory>();
             services.AddSingleton<IStorage, Storage>();
             services.AddSingleton(Configuration);            
         }

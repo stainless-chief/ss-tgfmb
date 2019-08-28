@@ -1,51 +1,39 @@
-﻿using FrontlineMaidBot.Interfaces;
-using System.Threading.Tasks;
-using Telegram.Bot.Framework;
-using Telegram.Bot.Framework.Abstractions;
+﻿using FrontlineMaidBot.Extensions;
+using FrontlineMaidBot.Interfaces;
+using System.Collections.Generic;
 using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
 {
-    public class FeedbackCommand : CommandBase<BaseCommandArgs>
+    public class FeedbackCommand : ICommand
     {
-        private const string _commandName = "feedback";
-
         private readonly IDefaultMessages _defaultMessages;
         private readonly IStorage _storage;
 
-        public FeedbackCommand(IStorage storage, IDefaultMessages defaultMessages) : base(name: _commandName)
+        public string CommandName => "/feedback";
+        public IEnumerable<string> Aliases => new List<string> { };
+
+        public FeedbackCommand(IStorage storage, IDefaultMessages defaultMessages)
         {
             _defaultMessages = defaultMessages;
             _storage = storage;
         }
 
-        public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
+        public string CreateResponse(Message message)
         {
-            if (update?.Message?.Chat == null)
-                return UpdateHandlingResult.Handled;
+            if (message?.Chat == null)
+                return null;
 
-            var input = ParseInput(update);
-            if(string.IsNullOrEmpty(input?.ArgsInput))
+            var input = message.GetCommandArgs();
+            if (string.IsNullOrEmpty(input))
             {
-                await Send(update.Message.Chat.Id, _defaultMessages.EmptyParams, update.Message.MessageId);
-                return UpdateHandlingResult.Handled;
+                return _defaultMessages.EmptyParams;
             }
 
-            _storage.SaveFeedback(update?.Message?.Chat?.Username, update?.Message?.Chat?.Type.ToString(), input.ArgsInput);
+            _storage.SaveFeedback(message?.Chat?.Username, message?.Chat?.Type.ToString(), input);
 
-            await Send(update.Message.Chat.Id, _defaultMessages.EverythingWentGood, update.Message.MessageId);
-            return UpdateHandlingResult.Handled;
+            return _defaultMessages.EverythingWentGood;
         }
 
-        private Task<Message> Send(long chatId, string message, int messageId)
-        {
-            return Bot.Client.SendTextMessageAsync
-            (
-                chatId,
-                message,
-                Telegram.Bot.Types.Enums.ParseMode.Html,
-                replyToMessageId: messageId
-            );
-        }
     }
 }

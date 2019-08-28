@@ -15,6 +15,16 @@ namespace FrontlineMaidBot.Interfaces
         /// <returns>Result of empty collection</returns>
         IEnumerable<ProductionResult> GetByTime(string time);
 
+        /// <summary>Search doll items by time</summary>
+        /// <param name="name">ProductionResult name</param>
+        /// <returns>Result of empty collection</returns>
+        IEnumerable<ProductionResult> GetDollByTime(string time);
+
+        /// <summary>Search doll items by time</summary>
+        /// <param name="name">ProductionResult name</param>
+        /// <returns>Result of empty collection</returns>
+        IEnumerable<ProductionResult> GetEquipmentByTime(string time);
+
         /// <summary> Get preset of help message</summary>
         /// <returns>Text</returns>
         string GetHelp();

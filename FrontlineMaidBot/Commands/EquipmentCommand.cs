@@ -1,21 +1,20 @@
 ﻿using FrontlineMaidBot.Extensions;
 using FrontlineMaidBot.Interfaces;
 using System.Collections.Generic;
-using System.Threading.Tasks;
 using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
 {
-    public class TimeCommand : ICommand
+    public class EquipmentCommand :  ICommand
     {
         private readonly IDefaultMessages _defaultMessages;
         private readonly IResponseGenerator _generator;
         private readonly IStorage _storage;
 
-        public string CommandName => "/time";
-        public IEnumerable<string> Aliases => new List<string> { "/t" };
+        public string CommandName => "/equipment";
+        public IEnumerable<string> Aliases => new List<string> { "/e" };
 
-        public TimeCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages)
+        public EquipmentCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages)
         {
             _storage = storage;
             _generator = generator;
@@ -33,7 +32,7 @@ namespace FrontlineMaidBot.Commands
                 return _defaultMessages.WrongParams;
             }
 
-            var dolls = _storage.GetByTime(input);
+            var dolls = _storage.GetEquipmentByTime(input);
             return _generator.CreateTimerMessage(dolls, _defaultMessages.CantFind);
 
         }

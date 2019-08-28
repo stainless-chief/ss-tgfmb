@@ -1,19 +1,18 @@
 ﻿using FrontlineMaidBot.Interfaces;
 using System;
-using System.Threading.Tasks;
-using Telegram.Bot.Framework;
-using Telegram.Bot.Framework.Abstractions;
+using System.Collections.Generic;
 using Telegram.Bot.Types;
-
 
 namespace FrontlineMaidBot.Commands
 {
-    public class AboutCommand : CommandBase<BaseCommandArgs>
+    public class AboutCommand : ICommand
     {
-        private const string _commandName = "about";
+        public string CommandName => "/about";
+        public IEnumerable<string> Aliases => new List<string> { };
+
         private readonly string _aboutResponse;
 
-        public AboutCommand(IStorage storage) : base(name: _commandName)
+        public AboutCommand(IStorage storage)
         {
             _aboutResponse = string.Join
                 (
@@ -22,24 +21,12 @@ namespace FrontlineMaidBot.Commands
                 );
         }
 
-        public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
+        public string CreateResponse(Message message)
         {
-            if (update?.Message?.Chat == null)
-                return UpdateHandlingResult.Handled;
+            if (message?.Chat == null)
+                return null;
 
-            await Send(update.Message.Chat.Id, _aboutResponse, update.Message.MessageId);
-            return UpdateHandlingResult.Handled;
-        }
-
-        private Task<Message> Send(long chatId, string message, int messageId)
-        {
-            return Bot.Client.SendTextMessageAsync
-            (
-                chatId,
-                message,
-                Telegram.Bot.Types.Enums.ParseMode.Html,
-                replyToMessageId: messageId
-            );
+            return _aboutResponse;
         }
     }
 }

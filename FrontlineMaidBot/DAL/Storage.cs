@@ -21,14 +21,13 @@ namespace FrontlineMaidBot.DAL
         private const string _slapFile = "Slap.json";
         private const string _feedback = "feedback.log";
 
-        private readonly List<ProductionResult> _productionResults;
+        private readonly List<ProductionResult> _dolls;
+        private readonly List<ProductionResult> _equipment;
 
         public Storage()
         {
-            var dolls = LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _dollsFile));
-            var equipment = LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _equipmentFile));
-
-            _productionResults = dolls.Union(equipment).ToList();
+            _dolls = LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _dollsFile));
+            _equipment = LoadFromFile<List<ProductionResult>>(Path.Combine(_dataFolder, _equipmentFile));
         }
 
         public IEnumerable<ProductionResult> GetByName(string name)
@@ -36,8 +35,10 @@ namespace FrontlineMaidBot.DAL
             if (string.IsNullOrEmpty(name))
                 return new List<ProductionResult>();
 
+            var productionResults = _dolls.Union(_equipment);
+
             //We need first exact run, to be sure that there is no matches on unique Name
-            var byUniqueName = _productionResults.Where(x => x.Name == name);
+            var byUniqueName = productionResults.Where(x => x.Name == name);
 
             if (byUniqueName.Any())
                 return byUniqueName;
@@ -45,7 +46,7 @@ namespace FrontlineMaidBot.DAL
             var normal = name.ToLower().Replace(new[] { " ", "-", ".", "|" }, "");
 
             //the second run is deep - everything slightly similar will be good enough
-            return _productionResults.Where(x => x.Lookup.Contains(normal));
+            return productionResults.Where(x => x.Lookup.Contains(normal));
         }
 
         public IEnumerable<ProductionResult> GetByTime(string time)
@@ -55,8 +56,7 @@ namespace FrontlineMaidBot.DAL
 
             var normalTime = Utils.NormalizeTime(time);
 
-            
-            return _productionResults.Where(x => x.Time == normalTime);
+            return _dolls.Where(x => x.Time == normalTime).Union(_equipment.Where(x => x.Time == normalTime));
         }
 
         public string GetHelp()
@@ -101,5 +101,24 @@ namespace FrontlineMaidBot.DAL
             return JsonConvert.DeserializeObject<T>(content);
         }
 
+        public IEnumerable<ProductionResult> GetDollByTime(string time)
+        {
+            if (string.IsNullOrEmpty(time))
+                return new List<ProductionResult>();
+
+            var normalTime = Utils.NormalizeTime(time);
+
+            return _dolls.Where(x => x.Time == normalTime);
+        }
+
+        public IEnumerable<ProductionResult> GetEquipmentByTime(string time)
+        {
+            if (string.IsNullOrEmpty(time))
+                return new List<ProductionResult>();
+
+            var normalTime = Utils.NormalizeTime(time);
+
+            return _equipment.Where(x => x.Time == normalTime);
+        }
     }
 }

@@ -1,6 +1,10 @@
+# Tech
+* [.Net Core 2.2](https://dotnet.microsoft.com/download)
+* [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)
+
 ## About
   Chat bot for [Girls' Frontline](http://gf.sunborngame.com/) mobile game community, represented in Telegram messenger
-
+ 
 ## Contact with her
   [@FrontlineMaidBot](https://t.me/FrontlineMaidBot)
 

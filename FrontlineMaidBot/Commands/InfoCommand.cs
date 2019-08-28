@@ -1,65 +1,50 @@
-﻿using FrontlineMaidBot.Interfaces;
+﻿using FrontlineMaidBot.Extensions;
+using FrontlineMaidBot.Interfaces;
+using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Telegram.Bot.Framework;
-using Telegram.Bot.Framework.Abstractions;
 using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
 {
-    public class InfoCommand : CommandBase<BaseCommandArgs>
+    public class InfoCommand : ICommand
     {
-        private const string _commandName = "info";
-
         private readonly IDefaultMessages _defaultMessages;
         private readonly IResponseGenerator _generator;
         private readonly IStorage _storage;
 
-        public InfoCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages) : base(name: _commandName)
+        public string CommandName => "/info";
+        public IEnumerable<string> Aliases => new List<string> { };
+
+        public InfoCommand(IStorage storage, IResponseGenerator generator, IDefaultMessages defaultMessages)
         {
             _storage = storage;
             _generator = generator;
             _defaultMessages = defaultMessages;
         }
 
-        public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
+        public string CreateResponse(Message message)
         {
-            if (update?.Message?.Chat == null)
-                return UpdateHandlingResult.Handled;
+            if (message?.Chat == null)
+                return null;
 
-            var input = base.ParseInput(update);
-            if (string.IsNullOrEmpty(input?.ArgsInput))
-            {
-                await Send(update.Message.Chat.Id, _defaultMessages.WrongParams, update.Message.MessageId);
-                return UpdateHandlingResult.Handled;
-            }
+            var input = message.GetCommandArgs();
+            if (string.IsNullOrEmpty(input))
+                return null;
 
-            var dolls = _storage.GetByName(input.ArgsInput);
+            var dolls = _storage.GetByName(input);
             var count = dolls.Count();
 
             string msg;
             if (count <= 1)
             {
-                msg = _generator.CreateInfoMessage(dolls.FirstOrDefault(), _defaultMessages.DontKnow);
+                return _generator.CreateInfoMessage(dolls.FirstOrDefault(), _defaultMessages.DontKnow);
             }
             else
             {
-                msg = _generator.CreateSuggestionMessage(dolls, _defaultMessages.DontKnow, _defaultMessages.Suggestion);
+                return _generator.CreateSuggestionMessage(dolls, _defaultMessages.DontKnow, _defaultMessages.Suggestion);
             }
 
-            await Send(update.Message.Chat.Id, msg, update.Message.MessageId);
-            return UpdateHandlingResult.Handled;
         }
 
-        private Task<Message> Send(long chatId, string message, int messageId)
-        {
-            return Bot.Client.SendTextMessageAsync
-            (
-                chatId,
-                message,
-                Telegram.Bot.Types.Enums.ParseMode.Html,
-                replyToMessageId: messageId
-            );
-        }
     }
 }

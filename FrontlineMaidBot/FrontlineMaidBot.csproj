@@ -6,9 +6,9 @@
     <Authors>Stanislav "Chief" Shevtsov</Authors>
     <Company>Fireplace of Despair</Company>
     <NeutralLanguage>en</NeutralLanguage>
-    <AssemblyVersion>0.0.1.0</AssemblyVersion>
-    <FileVersion>0.0.1.0</FileVersion>
-    <Version>0.0.1.0</Version>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+    <Version>0.1.0.0</Version>
     <Description>Simple GirlsFrontline Bot for Telegram</Description>
     <Copyright>Stanislav "Chief" Shevtsov</Copyright>
     <ApplicationIcon />
@@ -22,7 +22,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
     <PackageReference Include="Serilog.AspNetCore" Version="2.1.1" />
     <PackageReference Include="Serilog.Sinks.File" Version="4.0.0" />
-    <PackageReference Include="Telegram.Bot.Framework" Version="1.1.4" />
+    <PackageReference Include="Telegram.Bot" Version="15.0.0" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,28 +1,28 @@
-﻿using FrontlineMaidBot.Interfaces;
+﻿using FrontlineMaidBot.Extensions;
+using FrontlineMaidBot.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Telegram.Bot.Framework;
-using Telegram.Bot.Framework.Abstractions;
 using Telegram.Bot.Types;
 
 namespace FrontlineMaidBot.Commands
 {
-    public class SlapCommand : CommandBase<BaseCommandArgs>
+    public class SlapCommand : ICommand
     {
-        private const string _commandName = "slap";
         private const string _cantSlapHerself = "You are not a smart man, aren't you?";
         private const string _cantSlapMaster = "I am his bespoken and beloved maid. I will not commit an act of violence towards to him.";
-        
-        private static readonly string[] _master = { "chief", "chiefNoir", "@chiefnoir" };
-        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid", "G36" };
+
+        private static readonly string[] _master = { "chief", "chiefnoir", "@chiefnoir" };
+        private static readonly string[] _self = { "@FrontlineMaidBot", "FrontlineMaid", "G36", "maid" };
 
         private readonly IDefaultMessages _defaultMessages;
         private readonly List<string> _responses;
         private readonly Random _rnd;
 
-        public SlapCommand(IStorage storage, IDefaultMessages defaultMessages) : base(name: _commandName)
+        public string CommandName => "/slap";
+        public IEnumerable<string> Aliases => new List<string> { };
+
+        public SlapCommand(IStorage storage, IDefaultMessages defaultMessages)
         {
             _defaultMessages = defaultMessages;
 
@@ -31,25 +31,23 @@ namespace FrontlineMaidBot.Commands
             _rnd = new Random(DateTime.Now.Millisecond);
         }
 
-        public override async Task<UpdateHandlingResult> HandleCommand(Update update, BaseCommandArgs args)
+        public string CreateResponse(Message message)
         {
-            if (update?.Message?.Chat == null)
-                return UpdateHandlingResult.Handled;
+            if (message?.Chat == null)
+                return null;
 
-            var input = ParseInput(update);
-            if (string.IsNullOrEmpty(input?.ArgsInput))
+            var input = message.GetCommandArgs();
+            if (string.IsNullOrEmpty(input))
             {
-                await Send(update.Message.Chat.Id, _defaultMessages.WrongParams, update.Message.MessageId);
-                return UpdateHandlingResult.Handled;
+                return _defaultMessages.WrongParams;
             }
 
-            string msg = CreateMsg(input.ArgsInput);
+            string msg = CreateMsg(input);
 
             if (string.IsNullOrEmpty(msg))
-                return UpdateHandlingResult.Handled;
+                return null;
 
-            await Send(update.Message.Chat.Id, msg, update.Message.MessageId);
-            return UpdateHandlingResult.Handled;
+            return msg;
         }
 
         private string CreateMsg(string arguments)
@@ -67,15 +65,5 @@ namespace FrontlineMaidBot.Commands
             return string.Format(_responses[num], arguments);
         }
 
-        private Task<Message> Send(long chatId, string message, int messageId)
-        {
-            return Bot.Client.SendTextMessageAsync
-            (
-                chatId,
-                message,
-                Telegram.Bot.Types.Enums.ParseMode.Html,
-                replyToMessageId: messageId
-            );
-        }
     }
 }

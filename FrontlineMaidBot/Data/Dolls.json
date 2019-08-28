@@ -860,7 +860,7 @@
   {
     "Name": "Murata Himeko",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "AR",
     "Time": null,
     "Advantages": null,
@@ -2602,7 +2602,7 @@
   {
     "Name": "Noel",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
     "Advantages": "○ Excellent RoF tile buff\r\n○ Bonus evasion tile buff",
@@ -2628,7 +2628,7 @@
   {
     "Name": "Clear",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
     "Advantages": null,
@@ -2654,7 +2654,7 @@
   {
     "Name": "Fail",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
     "Advantages": null,
@@ -2680,7 +2680,7 @@
   {
     "Name": "Kiana",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
     "Advantages": null,
@@ -2706,7 +2706,7 @@
   {
     "Name": "Theresa",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
     "Advantages": null,
@@ -3096,7 +3096,7 @@
   {
     "Name": "Jill",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
     "Advantages": null,
@@ -3122,7 +3122,7 @@
   {
     "Name": "Sei",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "HG",
     "Time": null,
     "Advantages": null,
@@ -4006,7 +4006,7 @@
   {
     "Name": "Alma",
     "Alias": [ "Alma Armas" ],
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "MG",
     "Time": null,
     "Advantages": null,
@@ -4994,7 +4994,7 @@
   {
     "Name": "Bronya",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "RF",
     "Time": null,
     "Advantages": null,
@@ -5020,7 +5020,7 @@
   {
     "Name": "Raiden Mei",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "RF",
     "Time": null,
     "Advantages": null,
@@ -5592,7 +5592,7 @@
   {
     "Name": "Stella",
     "Alias": [ "Stella Hoshi" ],
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "RF",
     "Time": null,
     "Advantages": null,
@@ -5930,7 +5930,7 @@
   {
     "Name": "Elphelt",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "SG",
     "Time": null,
     "Advantages": "○ High armor\r\n○ High base HP\r\n○ Good tile buff and coverage\r\n○ Powerful skill if activated",
@@ -5956,7 +5956,7 @@
   {
     "Name": "Seele",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "SG",
     "Time": null,
     "Advantages": null,
@@ -6138,7 +6138,7 @@
   {
     "Name": "Dana",
     "Alias": [ "Dana Zane " ],
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "SG",
     "Time": null,
     "Advantages": null,
@@ -7516,7 +7516,7 @@
   {
     "Name": "Dorothy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "SMG",
     "Time": null,
     "Advantages": null,

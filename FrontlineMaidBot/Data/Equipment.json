@@ -1484,7 +1484,7 @@
   {
     "Name": "Armor Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0300",
     "Advantages": "She is specialized for boosting armor, along with a respectable amount of general stat buffing. She was especially useful during Deep Dive when used together with Negev in the Garm fight.",
@@ -1514,7 +1514,7 @@
   {
     "Name": "Shield Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0305",
     "Advantages": "High evasion aura, though her base damage aura is relatively low, which is similar to the Landmine Fairy's (Low Damage buff, High accuracy buff ).\r\nWhen compared to the Taunt Fairy, whose skill is also for damage tanking, her skill only works well for SMGs whereas the Taunt Fairy's taunt dummy works for everything. The taunt dummy however cannot dodge, meaning it will be face-tanking damage, while SMGs can.\r\nThis allows for the deployed shield to last much longer.",
@@ -1544,7 +1544,7 @@
   {
     "Name": "Taunt Fairy",
     "Alias": [ "Provocation Fairy" ],
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0310",
     "Advantages": "Her Aura buffs everything, though none of them increase stats by too much. If the crit rate is not too low, her buffs to damage output can be pretty decent. Her skill is especially effective against bosses and can be utilized well for brute-forcing Jupiters or just about any high damage dealing enemy.",
@@ -1576,7 +1576,7 @@
   {
     "Name": "Sniper Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0330",
     "Advantages": "Her aura consists mostly of accuracy and crit damage buffs. If its solely about the aura, using the Illumine Fairy would make more sense. Her selling point is her nuke skill, which is used against bosses. ",
@@ -1607,7 +1607,7 @@
   {
     "Name": "Artillery Fairy",
     "Alias": [ "Bombardment Fairy", " Mortar Fairy" ],
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0335",
     "Advantages": "Explosively high damage buff, highest among all fairies, with some decent evasion buffs to boot. Her active skill however is actually too slow and takes a while before it hits. The Airstrike Fairy should be used to make extra quick work of bad evil men persons. Even so, she ranks pretty high with just her aura. She lost her title as the strongest buffer after ver2.01 (Crit damage formula overhaul), but she is still irreplaceable in the cases where you need sheer damage. For instance, nuke and grenade skills and brute-forcing armor with Night ARs are where damage buffing works better than a crit damage buff.",
@@ -1637,7 +1637,7 @@
   {
     "Name": "Airstrike Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0340",
     "Advantages": "Similar aura to the Warrior Fairy's, but with a 5% higher damage, but a slightly lower accuracy buff. Her higher damage buff comes out superior though. Her active skill is even more astounding. Death itself ensues with its rad damage, allowing to reduce casualties effectively. For instance when used with RFHG, she can effectively rid the field of Dinergates/Tarantulas, who are the RFHG's nemesis. She is currently deemed one of the most versatile fairies.",
@@ -1668,7 +1668,7 @@
   {
     "Name": "Reinforcement Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0400",
     "Advantages": "Low damage output buffs, though she does provide the highest evasion buffs among all fairies. Her active skill can only repair one doll at a time. This can be suitable for scenarios where damage taken is low and you have to take continuous short fights.",
@@ -1699,7 +1699,7 @@
   {
     "Name": "Parachute Fairy",
     "Alias": [ "Airborne Fairy" ],
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0405",
     "Advantages": "Her aura is similar to the Command Fairy's, besides her crit damage aura being 4% higher. Her active skill is the skill with the highest tactical value in the game. There are quite a number of hard stages that can be cleared easily with the help of the Airborne Fairy. She is also compulsory for getting a high score in the ranking stage, so do not hesitate to level her skill. However, only being obtainable from the high cost recipe (2000/500/2000/1000) makes dupes of this fairy fairly scares, hence resorting to using the Command Fairy can be a viable and good choice early on, for she would be much easier to raise. ",
@@ -1730,7 +1730,7 @@
   {
     "Name": "Defense Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0410",
     "Advantages": "A 22% buff in damage is serviceable at best. Her evasion buff is quite high as well, and while she contests with the Armor Fairy in terms of armor buff, her 20% doesn't sell as well. Her active skill is damage reduction. Unfortanetly late game bosses can deal up to 200 damage per hit, so even with the her skill, it won't do well in relieving pressure. In such cases the Taunt Fairy would usually fare better. The Defense Fairy's skill is more suited for drawn out fights with a lots of mobs, as it can help reduce the pressure on main tanks. It's not often such situations occur however.",
@@ -1760,7 +1760,7 @@
   {
     "Name": "Warrior Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0430",
     "Advantages": "Warrior Fairy's aura is actually decent. 25% damage is not low among fairies while also providing a huge amount of accuracy and some evasion. Most importantly, with her skill she is very versatile. Her skill also comes at an affordable cost.",
@@ -1791,7 +1791,7 @@
   {
     "Name": "Fury Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0435",
     "Advantages": "Her specialty is Crit Damage boosting. If the crit rate is not too low, her buffs to damage output can outperform even the Artillery Fairy. Though, her active skill can easily overcap stats or just do nothing at all, which makes it more suitable for MG teams equipped with VFLs.",
@@ -1822,7 +1822,7 @@
   {
     "Name": "Command Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0500",
     "Advantages": "With a damage aura just as scary as the Artillery Fairy's, it is too bad she has a lower evasion aura. Given the fact that she's handed to you for free after your very first EQHC attempt however, complaining is beyond unjustified. Train her properly and you'll get an alright damage aura. A primary beneficiary of the 2.01 update, despite her having a 4% less critical damage buff compared to the Airborne Fairy, she has practically the best aura, given her much better accessibility for being obtainable from the cheaper (500/500/500/500) recipe, unlike the Airborne Fairy, who requires much more resources to craft.",
@@ -1853,7 +1853,7 @@
   {
     "Name": "Rescue Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0505",
     "Advantages": "I will not discuss her skill due to its superstitious properties and controversial reputation. All in all, people that believe in it will always believe in it, but those who don't will never change their mind.\r\nThat aside, her aura is excellent, with a higher base damage and evade aura compared to the Warrior Fairy's. From an aura-only standpoint, her's is even better than the Warrior Fairy's, but after skills are accounted for, Warrior comes out victorious nonetheless. As a conclusion, it is up to the player to decide which to train.",
@@ -1883,7 +1883,7 @@
   {
     "Name": "Illumination Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0510",
     "Advantages": "Possessing a very similar buff to the Sniper Fairy's, she has the highest accuracy buff out of all fairies at a ballin' 90% and a nice critical damage buff (38%) to boot. Due to her skill however, she has mostly seen use in night battles, and for her to properly shine depends on the situation. Ultimately, her skill is her selling point.",
@@ -1914,7 +1914,7 @@
   {
     "Name": "Landmine Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0530",
     "Advantages": "25% damage aura is not bad, but her active skill is not very practical, just like the Rocket Fairy's. Besides that, it is also dependant on the enemies' movement to step on the mine voluntarily for it to be put to proper use.\r\n\r\nOne thing of note is that the enemy's CE is not deducted with mine damage intake.",
@@ -1944,7 +1944,7 @@
   {
     "Name": "Rocket Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0535",
     "Advantages": "One of the high crit damage buffer, but with surprisingly high armor aura, but armor fairy exist. Unfortunately, her accuracy buff is relatively low. Her skill is not very practical due to the fact that it does not work on bosses, but she can possibly be useful against powerful non-boss units in future. In turn however, the Support Command cost is just too high.",
@@ -1974,7 +1974,7 @@
   {
     "Name": "Construction Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": "0540",
     "Advantages": "Also known as Fortress fairy. Aura-wise, her buff is worse than the Taunt Fairy's in every way, save for a negligible 2% higher armor buff. Even so, the buffs her skill gives are undeniably powerful, with the only drawback being the buff's position to remain stationary, and you having to make the enemy come to you, forcing you to play passively. Another way to utilize the Construction Fairy is after Echelon A sets up the Fortress and Echelon B, with a much better fairy, stays on the Fortress node to fight the enemy. Surely this strategy will see its uses in the future.",
@@ -2006,7 +2006,7 @@
   {
     "Name": "Golden Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": "Golden fairy's passive/buffs are special in that it has low base values but have a much higher growth, if you don't invest in training her the buffs aren't that good, but when she is at 5* level 100 her buffs are a direct upgrade to Taunt Fairy at the same stars and level. Her damage and crit damage buffs are quite high when you add them up, and she has an alright accuracy and evade buff. Unless you invest heavily in her, she should be laid aside for storage as she possesses no practical skill.",
@@ -2038,7 +2038,7 @@
   {
     "Name": "Firework Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,
@@ -2069,7 +2069,7 @@
   {
     "Name": "Nian Fairy",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,
@@ -2100,7 +2100,7 @@
   {
     "Name": "Yae Sakura",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,
@@ -2131,7 +2131,7 @@
   {
     "Name": "Kaguya Hime",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,
@@ -2162,7 +2162,7 @@
   {
     "Name": "Chloe",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,
@@ -2193,7 +2193,7 @@
   {
     "Name": "Suee",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,
@@ -2223,7 +2223,7 @@
   {
     "Name": "Sehra & Nina",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,
@@ -2254,7 +2254,7 @@
   {
     "Name": "Preiya & Camilla",
     "Alias": null,
-    "Stars": "★",
+    "Stars": "☆☆★☆☆",
     "Category": "Fairy",
     "Time": null,
     "Advantages": null,

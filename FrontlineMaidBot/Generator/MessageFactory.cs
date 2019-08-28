@@ -29,6 +29,9 @@ namespace FrontlineMaidBot.Generator
 
         public string CreateResponse(Message message)
         {
+            if (message?.Text == null || !message.Text.StartsWith('/'))
+                return null;
+
             var cmd = message.Text.Split(' ').FirstOrDefault();
 
             if (string.IsNullOrEmpty(cmd))

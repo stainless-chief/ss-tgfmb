@@ -29,5 +29,8 @@
 
         /// <summary> Command was successful</summary>
         string EverythingWentGood { get;  }
+
+        /// <summary> Command is off</summary>
+        string TurnedOff { get; }
     }
 }

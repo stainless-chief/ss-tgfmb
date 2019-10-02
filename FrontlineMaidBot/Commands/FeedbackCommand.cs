@@ -26,15 +26,7 @@ namespace FrontlineMaidBot.Commands
             if (message?.Chat == null)
                 return null;
 
-            var input = message.GetCommandArgs();
-            if (string.IsNullOrEmpty(input))
-            {
-                return _defaultMessages.EmptyParams;
-            }
-
-            _storage.SaveFeedback(message?.Chat?.Username, message?.Chat?.Type.ToString(), input);
-
-            return _defaultMessages.EverythingWentGood;
+            return _defaultMessages.TurnedOff;
         }
 
     }

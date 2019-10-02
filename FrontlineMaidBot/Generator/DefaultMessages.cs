@@ -14,5 +14,6 @@ namespace FrontlineMaidBot.Generator
         public string WrongParams => "I'm sorry... what?";
         public string EmptyParams => "You must write at least something, I can't work with nothingness.";
         public string EverythingWentGood => "Thank you for your cooperation! Your request has been submitted to my master.";
+        public string TurnedOff => "I'm sorry this feature is currently unavailable.";
     }
 }

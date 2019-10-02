@@ -19,6 +19,7 @@ namespace FrontlineMaidBot.Generator
         private const string _initCooldown = "<b>Initial cooldown: </b>";
         private const string _skill = "<b>Skill (10 lvl):</b>";
         private const string _summary = "<b>Summary: </b>";
+        private const string _timer = "<b>Timer: </b>";
 
         public string CreateInfoMessage(ProductionResult production, string defaultResponse)
         {
@@ -97,6 +98,9 @@ namespace FrontlineMaidBot.Generator
 
             if (production.Alias != null && production.Alias.Any())
                 result.Append($"{Environment.NewLine}{_alsoKnowAs}{string.Join(",", production.Alias)}");
+
+            if(!string.IsNullOrEmpty(production.Time))
+                result.Append($"{Environment.NewLine}{_timer}{Utils.DeNormalizeTime(production.Time)}");
 
             if (!string.IsNullOrEmpty(production.Advantages))
                 result.Append($"{Environment.NewLine}{_advantages}{Environment.NewLine}{production.Advantages}");

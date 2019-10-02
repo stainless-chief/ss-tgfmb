@@ -16,12 +16,6 @@
         "Description": "Increase self accuracy by 500% for 15s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -42,12 +36,6 @@
         "Description": "Increase damage by 55% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -68,12 +56,6 @@
         "Description": "Increase damage by 55% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -94,12 +76,6 @@
         "Description": "Increase self accuracy by 500% for 15s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -120,12 +96,6 @@
         "Description": "Launch a grenade that deals 10x damage to enemies within a radius of 1.5 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -146,12 +116,6 @@
         "Description": "Increase damage by 35% and rate of fire by 15% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -172,12 +136,6 @@
         "Description": "Launch a grenade that deals 4.5x/1.8x/1x damage to enemies within a radius of 1/2.5/4 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -198,12 +156,6 @@
         "Description": "Increase self rate of fire by 60% for 10s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -224,12 +176,6 @@
         "Description": "Increase damage by 35% and accuracy by 100% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -250,12 +196,6 @@
         "Description": "Increase damage by 60% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -276,12 +216,6 @@
         "Description": "Launch a grenade that deals 11x damage to enemies within a radius of 1.5 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -302,12 +236,6 @@
         "Description": "Launch a grenade that deals 11x damage to enemies within a radius of 1.5 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -328,12 +256,6 @@
         "Description": "Increase damage by 35% and accuracy by 100% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -354,12 +276,6 @@
         "Description": "Increase damage by 50% and critical rate by 50% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -380,12 +296,6 @@
         "Description": "Increases Model L's accuracy by 90.0% and rate of fire by 40.0% for 5.0 seconds.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -406,12 +316,6 @@
         "Description": "During night increases T65 damage by 100% and crit rate by 40% for 8 seconds, increase damage by 45% increase crit rate by 22% during day.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -432,12 +336,6 @@
         "Description": "Increases Type 03's damage and critical hit rate by 50.0% for 5.0 seconds.",
         "InitCooldown": 8,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -458,12 +356,6 @@
         "Description": "Launch a grenade that deals 5x/2x/1x damage to enemies within a radius of 1/2.5/4 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -484,12 +376,6 @@
         "Description": "Launch a grenade that deals 12x damage to enemies in a radius of 1.5 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -510,12 +396,6 @@
         "Description": "During nighttime, increase damage by 180% (60% during day) for 6s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -536,12 +416,6 @@
         "Description": "Launch a grenade that deals 5x/2x/1x damage to enemies within a radius of 1/2.5/4 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -562,12 +436,6 @@
         "Description": "Increase damage by 75% and rate of fire by 25% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -588,12 +456,6 @@
         "Description": "During nighttime, increase damage by 180% (60% during day) for 6s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -605,7 +467,7 @@
     "Time": "0340",
     "Advantages": "○ Great tile buff for offtank SMGs\r\n○ Good initial CD and great uptime\r\n○ Beautiful and smart",
     "Disadvantages": "○ Low base RoF",
-    "Summary": "○ FP self-buff AR with underaverage performance but is a great SMG buffer\r\n○ Great FP/RoF tile buff for off-tank SMGs\r\n○ Smart and \r\nShe is very good.",
+    "Summary": "○ FP self-buff AR with underaverage performance but is a great SMG buffer\r\n○ Great FP/RoF tile buff for off-tank SMGs\r\n○ Smart and beautiful\r\nShe is very good.",
     "Lookup": "gr g36|grg36|g36|maid",
     "Image": null,
     "Extension": {
@@ -614,12 +476,6 @@
         "Description": "Increase damage by 70% for 10s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -640,12 +496,6 @@
         "Description": "Increase damage, rate of fire, and accuracy of allies situated on her tiles when her skill activates by 25% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -666,12 +516,6 @@
         "Description": "Launch a stun grenade that stuns enemies within a radius of 2.5 yards for 4s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -692,12 +536,6 @@
         "Description": "Increase damage by 70% for 10s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -718,12 +556,6 @@
         "Description": "Launch a grenade that deals 12x damage to enemies within a radius of 1.5 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -744,12 +576,6 @@
         "Description": "Increase self rate of fire by 45% for 15s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -770,12 +596,6 @@
         "Description": "Launch a grenade dealing 10.0x damage in a 1.5 unit radius. During night time gain an additional effect with grenade launch, improves self damage and accuracy by 50%, last for 10 seconds.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -785,7 +605,7 @@
     "Stars": "☆★★★★",
     "Category": "AR",
     "Time": null,
-    "Advantages": "○ Decent all around stats\r\n○ Good tile buff for offtanks",
+    "Advantages": "○ High skill uptime",
     "Disadvantages": "○ Unusual tile buff for the position she usually occupies",
     "Summary": "○ Bad tile buff\r\n○ Base Stats similar to FNC except higher RoF\r\n○ Only a marginal upgrade in DPS over FNC but worse tile buff\r\n\r\nShe is not good",
     "Lookup": "ak 5|ak5|ak-5",
@@ -796,12 +616,6 @@
         "Description": "Increase damage by 65% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -822,24 +636,18 @@
         "Description": "During Daytime increase damage 65% and crit rate 25%. During Nightime increase accuracy 40% and fire rate 50% lasts 10 seconds.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
   {
     "Name": "SAR-21",
-    "Alias": null,
+    "Alias": [ "SAR21" ],
     "Stars": "☆★★★★",
     "Category": "AR",
     "Time": "0325",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good tile buffs and coverage\r\n○ Unmatched RoF when skill is active\r\n○ Good Initial CD",
+    "Disadvantages": "○ Lack of focus fire, leaving enemies alive longer than they should\r\n○ Does not benefit from RoF tile buffs during skill (RoF remains locked at 150 while active)\r\n○ Low base FP",
+    "Summary": "She is not good.",
     "Lookup": "sar-21|sar21",
     "Image": null,
     "Extension": {
@@ -848,12 +656,6 @@
         "Description": "At the cost of reducing own accuracy by 0%, raise own rate of fire to 150 and enter sweep mode (switch target after every shot), last for 6.0 seconds.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -874,12 +676,6 @@
         "Description": "Charms closest 3 enemies, reduces their damage and movement speed by 30%, increases her damage to charmed enemies by 60% for 5.0 seconds.",
         "InitCooldown": 1,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -900,12 +696,6 @@
         "Description": "Launch 3 grenades consecutively that deals 5x damage to enemies within a radius of 1.5 yards.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -926,12 +716,6 @@
         "Description": "During nighttime, increase damage by 120% (50% during day time) and critical rate by 50% (25% during day time) for 8s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -952,12 +736,6 @@
         "Description": "Increase damage by 50% for 15s.",
         "InitCooldown": 2,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -978,12 +756,6 @@
         "Description": "Increase self rate of fire by 50% for 15s.",
         "InitCooldown": 2,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1004,12 +776,6 @@
         "Description": "If an ally is in front of her, provide that ally with a 40 HP shield and 80% increased evasion for 10s.\r\nIf no ally is in front of her, increase her damage by 45% and rate of fire by 22% for 10s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1030,12 +796,6 @@
         "Description": "Launch a grenade that deals 15x damage to enemies within a radius of 1.5 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1056,12 +816,6 @@
         "Description": "Increases damage by 80%, accuracy by 40% and attack priority changes to the enemy backrow for 8s.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1082,12 +836,6 @@
         "Description": "Each attack will inflict 3 hits on the target for 4.5s.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1108,12 +856,6 @@
         "Description": "Increase damage by 75% for 10s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1134,12 +876,6 @@
         "Description": "Launch a grenade that deals 300% damage to enemies within a radius of 2.5 yards.\r\nIf it hits 3 or more enemies, amplify damage against those targets from all sources by 15% for 3s.\r\nIf it hits less than 3 enemies, increase self damage by 60% for 8s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1160,12 +896,6 @@
         "Description": "Sacrifice 0% accuracy to spray at 150 rate of fire for 7s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1186,12 +916,6 @@
         "Description": "During nighttime, increase damage by 200% (70% during daytime) for 6s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1212,12 +936,6 @@
         "Description": "Increase damage by 85% and rate of fire by 25% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1238,12 +956,6 @@
         "Description": "Increases AK-12's damage, rate of fire, accuracy and critical hit rate by 35% for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1264,12 +976,6 @@
         "Description": "Passive: Deals extra hit when switching targets. \r\nActive: Deals extra hit for every attack during skill activate, lasts 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1290,12 +996,6 @@
         "Description": "Upon skill activation, if there are more than 5 groups of enemies, increase self rate of fire and accuracy by 80%, otherwise increase self damage by 90%, duration 3 seconds. \r\nAfter 3 seconds, if there are more than 2 groups of enemies, grant a 25 HP shield to allies on her tiles, else increase damage of self and allies on her tiles by 55%, duration 5 seconds.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1316,12 +1016,6 @@
         "Description": "Launches grenades based on the number of dummies that deal 4x damage to enemies within a radius of 1 yard. Enemies hit by a grenade are marked for 3s. Further grenade hits on marked enemies deal an additional 2x damage.\r\n",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1342,12 +1036,6 @@
         "Description": "Attack mode can be switched in battle by pressing the skill button.\r\n\r\nFever Mode (default): Burst mode. Deal 3 hits for 52% damage each and increase heat by 1 per attack. When heat is over 15, the current heat stack will reduce accuracy and damage by 2% per heat value (max 20 stacks).\r\n\r\nNote Mode: Single shot mode. Decrease movement speed and evasion by 40%. Each attack will reduce heat by 1. Consecutive attacks on the same target will increase damage by 5% per attack (max 10 stacks).",
         "InitCooldown": 8,
         "Cooldown": 3
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1368,12 +1056,6 @@
         "Description": "Launch a grenade that deals 4.5x/1.8x/1x damage to enemies within a radius of 1/2.5/4 yards.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1394,12 +1076,6 @@
         "Description": "Increases HK33's rate of fire by 60.0% for 10.0 seconds.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1420,12 +1096,6 @@
         "Description": "Increases Magal's damage by 50% and rate of fire by 20% for 10.0 seconds.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1446,12 +1116,6 @@
         "Description": "Quickly fires 3 shots, dealing 3.5x damage per shot to random enemies. This skill is capable of critical damage, bypasses accuracy checks, but doesn't ignore armor.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1472,25 +1136,39 @@
         "Description": "[Active] - Fires a special grenade, applying 3 layers of Corrosion to targets within a radius of 2.5 units, and an additional 2 layers to the main target of the grenade. After using the skill, chance of applying Corrosion on normal attacks increase to 100% for 5 seconds. \r\n[Passive] - Normal attacks have 40% chance to apply 1 layer of Corrosion. When an enemy accumulates 5 layers of Corrosion, it deals 6x damage and stuns for 2.4 seconds in an extremely small area, and clears the Corrosion effect on the enemy.\r\n[Corrosion] - Reduce the target's rate of fire and movement speed by 6% for 5 seconds.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
+      }
+    }
+  },
+  {
+    "Name": "Gr G36 (mod 3)",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "Time": null,
+    "Advantages": "○ Amazing all-rounder\r\n○ EVA buff hits maintank as well usually\r\n○ Usable in many scenarios due to how versatile her skill is\r\n○ Goodly beautiful and stylish",
+    "Disadvantages": "○ Stuck at 75 ROF until level 120\r\n○ Skill buffs off tiles, therfore requiring some micro/thoughts on t-doll positioning during battles\r\n○ ROF buffs only lasts for 5s instead for the entire skill 1 duration",
+    "Summary": "○ She is recommended to raise to MOD2; the bonus RoF from MOD3 comes from her last level, which is an exceptionally long investment. -ARs usually do not have accuracy problems; while the accuracy from her SPEQ is appreciated, fairy buffs and buff tiles can boost this to respectable levels while at night time, she will be using a SPEQ regardless.",
+    "Lookup": "gr g36 (mod 3)|grg36(mod3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Arclight Contract",
+        "Description": "Upon Damage Focus's activation, increase the evasion of allies on her tiles by 25% for 5s. Furthermore, increase her own rate of fire by 10% per ally on her tiles for 5s, max 2 stacks.",
+        "InitCooldown": 4,
+        "Cooldown": 5
       }
     }
   },
   {
     "Name": "@Sumtin_gud",
-    "Alias": null,
+    "Alias": [ "sumtin_gud" ],
     "Stars": "🛡",
     "Category": "G&K Commander",
     "Time": null,
     "Advantages": null,
     "Disadvantages": null,
     "Summary": "He is a nice, but weird commander. And... why he reminds me of IDW so much?",
-    "Lookup": "@sumtin_gud",
+    "Lookup": "@sumtin_gud|sumtin_gud",
     "Image": null,
     "Extension": {
       "Skill": {
@@ -1498,12 +1176,6 @@
         "Description": "Active: if there is no SPAS-12 in his armory, falls down on the ground and cry, otherwise, pulls out a shotgun and open fire for 9 seconds, dealing guaranteed damage per shot while skill remains active.\r\nPassive: Increases all his wives evasion by 15% and crit rate by 19%.",
         "InitCooldown": 5,
         "Cooldown": 15
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1524,25 +1196,19 @@
         "Description": "Active: Pulls out a handgun and open fire for 12 seconds, dealing guaranteed critical damage per shot while skill remains active.\r\nPassive: Increases all his wives rate of fire by 25% and firepower by 25%.",
         "InitCooldown": 10,
         "Cooldown": 5
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
   {
     "Name": "@gohomeflykite",
-    "Alias": null,
+    "Alias": [ "gohomeflykite" ],
     "Stars": "🛡",
     "Category": "G&K Commander",
     "Time": null,
     "Advantages": null,
     "Disadvantages": null,
     "Summary": "I don't really understand her what K11 finds in him. Liebe ist blind.",
-    "Lookup": "@gohomeflykite",
+    "Lookup": "@gohomeflykite|gohomeflykite",
     "Image": null,
     "Extension": {
       "Skill": {
@@ -1550,25 +1216,19 @@
         "Description": "Grants a shield to all his wives that can take a total of 85 damage for 20 seconds.",
         "InitCooldown": 9,
         "Cooldown": 19
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
   {
     "Name": "@Trissed",
-    "Alias": null,
+    "Alias": [ "trissed" ],
     "Stars": "🛡",
     "Category": "G&K Commander",
     "Time": null,
     "Advantages": null,
     "Disadvantages": null,
     "Summary": "Very noisy commander: everyday running around and screaming russian-like nonsense.  ",
-    "Lookup": "@trissed",
+    "Lookup": "@trissed|trissed",
     "Image": null,
     "Extension": {
       "Skill": {
@@ -1576,25 +1236,19 @@
         "Description": "Increases all his wives mobility by 80% and rate of fire by 40%, but decrease evasion by 40% and accuracy by 50% for 8 seconds.",
         "InitCooldown": 0,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
   {
     "Name": "@Yuunasasara",
-    "Alias": null,
+    "Alias": [ "yuunasasara" ],
     "Stars": "🛡",
     "Category": "G&K Commander",
     "Time": null,
     "Advantages": null,
     "Disadvantages": null,
     "Summary": "He is a little bit too violent to his fellow friendly G&K commanders.\r\nWe should send him to military psychologist.",
-    "Lookup": "@yuunasasara",
+    "Lookup": "@yuunasasara|yuunasasara",
     "Image": null,
     "Extension": {
       "Skill": {
@@ -1602,12 +1256,26 @@
         "Description": "Slap random unit on the field dealing 2.5x damage and causing knockback effect.",
         "InitCooldown": 15,
         "Cooldown": 20
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
+      }
+    }
+  },
+  {
+    "Name": "@bushidopizza",
+    "Alias": null,
+    "Stars": "🛡",
+    "Category": "G&K Commander",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": "There are some weird rumors about him and Makarov... ah, nevermind.",
+    "Lookup": "@bushidopizza",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
       }
     }
   },
@@ -1628,12 +1296,6 @@
         "Description": "Active: Pulls out a handgun and open fire for 20 seconds, dealing guaranteed critical damage per shot while skill remains active.\r\nPassive: Increases all T-Dolls rate of fire by 25% and firepower by 25%.",
         "InitCooldown": 10,
         "Cooldown": 5
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1654,12 +1316,6 @@
         "Description": "While consuming 1 gem per second deal 100 damage to all enemy targets.",
         "InitCooldown": 30,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1680,12 +1336,6 @@
         "Description": "Deploys Heavy Machine Gun and opens fire for 25 seconds.",
         "InitCooldown": 0,
         "Cooldown": 29
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1706,12 +1356,6 @@
         "Description": "Launch a smoke grenade that decreases the enemies' rate of fire by 36% and movement speed by 45% within a radius of 2.5 yards for 4s.",
         "InitCooldown": 1,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1732,12 +1376,6 @@
         "Description": "During nighttime, decrease all enemies' damage by 35% (20% during daytime) for 8s (5s during daytime).",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1758,12 +1396,6 @@
         "Description": "Increase all allies' accuracy by 90% during nighttime for 15s. ",
         "InitCooldown": 3,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1784,12 +1416,6 @@
         "Description": "Increase all allies' damage by 10% and critical rate by 35% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1810,12 +1436,6 @@
         "Description": "Decrease all enemies' evasion by 40% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1836,12 +1456,6 @@
         "Description": "Decrease all enemies' rate of fire by 22% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1862,12 +1476,6 @@
         "Description": "Increase all allies' damage by 18% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1888,12 +1496,6 @@
         "Description": "Increases all allies' accuracy by 100% for 8s.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1914,12 +1516,6 @@
         "Description": "During nighttime, increase all allies' evasion by 85% (35% during daytime) for 8s (5s during daytime).",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1940,12 +1536,6 @@
         "Description": "Increase all allies' accuracy by 100% during nighttime for 15s.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1966,12 +1556,6 @@
         "Description": "Increase all allies' damage by 10% and rate of fire by 10% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1992,12 +1576,6 @@
         "Description": "Increase all allies' evasion by 55% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2018,12 +1596,6 @@
         "Description": "Increase all allies' rate of fire by 20% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2044,12 +1616,6 @@
         "Description": "Launch a stun grenade that stuns enemies within a radius of 2.5 yards for 3.2s.",
         "InitCooldown": 12,
         "Cooldown": 5
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2070,12 +1636,6 @@
         "Description": "Decrease all enemies' accuracy by 36% for 6s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2096,12 +1656,6 @@
         "Description": "Increase all allies' evasion by 55% for 8s.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2122,12 +1676,6 @@
         "Description": "Decrease all enemies' damage by 25% for 8s.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2148,12 +1696,6 @@
         "Description": "Increase all allies' accuracy by 55% and evasion by 28% for 8s.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2174,12 +1716,6 @@
         "Description": "Increases all allies firepower by 15% and accuracy by 10% for 8s.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2200,12 +1736,6 @@
         "Description": "Increases all allies damage by 20% for 8 seconds.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2226,12 +1756,6 @@
         "Description": "Dual wield for 6 seconds to deal two hits of guaranteed critical damage per attack.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2252,12 +1776,6 @@
         "Description": "Decreases the enemy squad's damage by 25% for 8 seconds.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2278,12 +1796,6 @@
         "Description": "Decreases the enemy squad's evasion by 46% for 8.0 seconds.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2304,12 +1816,6 @@
         "Description": "Decreases rate of fire of all enemies by 25% for 8 seconds.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2330,12 +1836,6 @@
         "Description": "Decreases the enemy squads damage by 40% for 8.0 seconds, 22% for 5.0 seconds during day.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2356,12 +1856,6 @@
         "Description": "During nighttime, increase all allies' damage by 35% (20% during daytime) for 8s (5s during daytime).",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2382,12 +1876,6 @@
         "Description": "Increase all allies' damage by 22% for 8s. ",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2408,12 +1896,6 @@
         "Description": "Decrease all enemies' rate of fire by 28% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2434,12 +1916,6 @@
         "Description": "Buffs allies situated on her tiles with effects depending on their type for 8s.\r\n- HG/SMG: Increase evasion by 40%.\r\n- AR/RF: Increase damage by 22%.\r\n- SG/MG: Increase accuracy by 80%.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2460,12 +1936,6 @@
         "Description": "Increase all allies' damage by 20% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2486,12 +1956,6 @@
         "Description": "Increase all allies' evasion by 60% for 8s. ",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2512,12 +1976,6 @@
         "Description": "Increases all allies rate of fire by 22% for 8 seconds. \r\nWhen equipped with \"Stechkin Exclusive Stock\", Increases allies damage by 4% for the same skill duration as well.",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2538,12 +1996,6 @@
         "Description": "Decreases the enemy squad's evasion by 55% for 8 seconds.",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2564,12 +2016,6 @@
         "Description": "Active: Increases the damage of her allies on her tile buffs by 15% for 8.0 seconds. \r\nPassive: Whenever allies on her tile buffs reload, increases their damage and accuracy by 5%, stacks 3 times, lasts 15 seconds",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2590,12 +2036,6 @@
         "Description": "Aims for 1 second and shoots the nearest enemy for 1200% damage. This shot can be avoided, in that case, reload for 2 seconds and aim again.",
         "InitCooldown": 4,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2616,12 +2056,6 @@
         "Description": "Dash towards the enemy and inflict 1.2x Noel's damage for 8 hits within a small area.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2642,12 +2076,6 @@
         "Description": "Stops shooting and plays her guitar 5 times. Every play of the guitar applies 30% damage and accuracy (40% if \"Glory Light\" is equipped) buff to single teammate except herself for 3 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2668,12 +2096,6 @@
         "Description": "Stops shooting and plays her guitar 5 times. Every play of her guitar applies 12%(15% if \"Black Cat\" is equipped) rate of fire and accuracy debuff on 3 random enemy echelons for 3 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2694,12 +2116,6 @@
         "Description": "Lightning strikes enemies within 1.5 radius,deals critical damage stuns and make the targets vulnerable for 40% for 3 seconds, don't work on boss.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2720,12 +2136,6 @@
         "Description": "Increase damage by 100% to enemies within a radius of 5 tiles (around Theresa) for 5.0 seconds, every attack has 30% chance to immobilize target for 2 seconds. (paralysis effect does not work on bosses)",
         "InitCooldown": 1,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2746,12 +2156,6 @@
         "Description": "Decrease all enemies' accuracy by 45% for 6s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2772,12 +2176,6 @@
         "Description": "After aiming for 1s, fires a special bullet dealing 3x damage, increasing damage taken by 40% and focusing ally fire on the target for 5s. When she's in the front/middle/back row, she will target the furthest/highest HP/nearest enemy respectively, and prioritize bosses if present.",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2798,12 +2196,6 @@
         "Description": "Increase all allies' rate of fire by 25% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2824,12 +2216,6 @@
         "Description": "Decrease all enemies' rate of fire by 30% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2850,12 +2236,6 @@
         "Description": "Increase all allies' damage by 25% for 8s. ",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2876,12 +2256,6 @@
         "Description": "Increases all allies rate of fire by 20% & critical rate by 20% for 8s.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2902,12 +2276,6 @@
         "Description": "Throws a tomahawk, dealing 10x base damage at the targeted enemy.",
         "InitCooldown": 12,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2928,12 +2296,6 @@
         "Description": "Grants a 42 HP shield to all allies for 6 seconds. If the shield still exists after 3 seconds, increase damage and accuracy by 35% for 5.0 seconds.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2954,12 +2316,6 @@
         "Description": "Grants a 53 HP shield to allies in the front row; Increases the accuracy and evasion of allies in the mid row by 60%; Increases damage of allies in the back row by 25%; Lasts for 8 seconds.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -2980,15 +2336,6 @@
         "Description": "Grants all T-dolls who are on her buff tiles increased critical damage by 50.0% at the cost of 20.0% critical rate, last for 8.0 seconds",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 60,
-          "Damage": 24
-        }
       }
     }
   },
@@ -3009,12 +2356,6 @@
         "Description": "Passive: Whenever Python receives DMG/ROF/EVA/ACC/Crit rate from skills (including fairy talents/skills), increase the corresponding stat of allies on her tiles by 6%/6%/30%/30%/12% for 3 seconds. \r\nActive: The next 6 shots Python does will have a 100% to increase self damage by 30% (up to 6 layers) for 5.0 seconds.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3035,12 +2376,6 @@
         "Description": "During nighttime, decrease all enemies' evasion by 75% (40% during daytime) for 8s (5s during daytime).",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3061,12 +2396,6 @@
         "Description": "Activate to toggle between passives: \r\n[In the Midst of Revenge (Default)] - Increases allies rate of fire by 10%. \r\n[Determination to Pursue] - Increases allies movement speed by 60%.",
         "InitCooldown": 3,
         "Cooldown": 3
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3087,12 +2416,6 @@
         "Description": "Stun the highest HP enemy for 3 seconds and deal 4x damage. If there are any enemies within 2.5 horizontal units, stun enemies within a radius of 2.5 units for 2 seconds and deal 2x damage. This skill is capable of critical damage, bypasses accuracy checks, but doesn't ignore armor.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3113,12 +2436,6 @@
         "Description": "Passive: For every point in Jill's base DMG, Jill will receive 1% reduction to her skill's base cooldown up to a max of 30% base cooldown reduction (Unaffected by any DMG modifiers).\r\n\r\nActive: After mixing in her cocktail shaker for 3 seconds, Jill will serve 1 of 7 possible drinks to her echelon; \r\n* [Big Beer] = Increases DMG/ACC by 25% and Armour by 20% to all SG's for 8 seconds. \r\n* [Brandtini] = Increases DMG/ACC by 25% to all MG's for 8 seconds. * [Piano Woman] = Increases EVA by 60% to all frontline allies. The remaining units will receive 20% increased DMG instead, both buffs last for 8 seconds. \r\n* [Moonblast] = Increases ROF by 22% to all allies for 8 seconds. \r\n* [Bleeding Jane] = Increases CRIT RATE by 25% to all AR's and RF's. If ally is over 100% crit rate, then 60% of excess Crit Rate will be converted to CRIT DMG instead, buffs last for 8 seconds. \r\n* [Fringe Weaver] = Increases DMG by 35% to all allies for 5 seconds, After buff expires, echelon receives a 15% DMG/ACC penalty for 3 seconds. \r\n* [Suger Rush] = Increases DMG by 18 to all allies for 8 seconds.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3139,12 +2456,26 @@
         "Description": "Favorite Drink: [Moonblast] - Shield's HP scaling is doubled.\r\n\r\nPassive: When Stella is present, Sei's attacks will be counted for Stella's passive.\r\nActive: Grants a shield with 32 HP to all allied SG's, SMG's and HG's. The lower the HP of the target, the higher the HP of the shield, ranging from 0.8x to 1.8x of the base value. Lasts for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 10
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
+      }
+    }
+  },
+  {
+    "Name": "M1911 (mod 3)",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "HG",
+    "Time": null,
+    "Advantages": "○ Smoke upgraded to 40% ROF debuff and 50% MS debuff",
+    "Disadvantages": null,
+    "Summary": "○ Good fodder trash clear damage\r\n○ Recommended to get to MOD2 (to unlock her skill)\r\n\r\nShe is good.",
+    "Lookup": "m1911 (mod 3)|m1911(mod3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Desperate Sharpshooter",
+        "Description": "After launching a smoke grenade, the next 7 attacks will strike targets starting from the furthest to the closest. Every hit will deal 200% damage.",
+        "InitCooldown": 0,
+        "Cooldown": 0
       }
     }
   },
@@ -3165,12 +2496,6 @@
         "Description": "Passive: Goes to sleep and do nothing for 40 seconds\r\nActive: Wakes up, grin and goes back to sleep.",
         "InitCooldown": 0,
         "Cooldown": 39
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3191,12 +2516,6 @@
         "Description": "During nighttime, increase damage by 85%(30% during daytime) for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3217,12 +2536,6 @@
         "Description": "Increase self accuracy by 60% and all hits will be critical for 6s.",
         "InitCooldown": 3,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3243,12 +2556,6 @@
         "Description": "Increase damage by 28% for 8s and rounds for the current salvo by 3.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3269,12 +2576,6 @@
         "Description": "Increase damage by 60% for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3295,12 +2596,6 @@
         "Description": "Increase self accuracy by 60% and all hits will be critical for 6s.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3321,12 +2616,6 @@
         "Description": "Increase damage by 30% for 8s and rounds for the current salvo by 3.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3347,12 +2636,6 @@
         "Description": "Increase self accuracy by 65% and all hits will be critical for 6s.",
         "InitCooldown": 3,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3361,7 +2644,7 @@
     "Alias": null,
     "Stars": "★★★★★",
     "Category": "MG",
-    "Time": "0550",
+    "Time": "0640",
     "Advantages": "○ High base accuracy\r\n○ Great armor tile",
     "Disadvantages": "○ Low base FP\r\n○ Low clip size\r\n○ 2nd volley skill with awful multiplier",
     "Summary": "○ 2nd Volley Skill\r\n○ Good accuracy but low damage and mediocre clip size\r\n○ Solely used for armor tiles\r\n○ Has armor tiles\r\n\r\nShe is not good.",
@@ -3373,12 +2656,6 @@
         "Description": "Increase damage by 35% for 8s and rounds for the current salvo by 4.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3399,12 +2676,6 @@
         "Description": "After every 3 hits, the next hit will inflict 2.4x damage.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3425,12 +2696,6 @@
         "Description": "During nighttime, increases damage by 45% (10% during daytime) for 8s and rounds for the current salvo by 4.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3451,12 +2716,6 @@
         "Description": "Increase damage by 65% for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3477,12 +2736,6 @@
         "Description": "Increases Type 62's damage by 45% and accuracy by 65% for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3503,12 +2756,6 @@
         "Description": "Increases HK23 damage by 30% for 8 seconds, and increases number of bullets by 3.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3529,12 +2776,6 @@
         "Description": "During nighttime, increase damage by 105%(35% during daytime) for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3555,12 +2796,6 @@
         "Description": "Increase damage by 70% for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3581,12 +2816,6 @@
         "Description": "During nighttime, increase damage by 40% (no increase during daytime), accuracy by 70% (20% during day time), and all hits will be critical hits for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3607,12 +2836,6 @@
         "Description": "Increase self accuracy by 70% and all hits will be critical for 6s.",
         "InitCooldown": 3,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3633,12 +2856,6 @@
         "Description": "During nighttime, increases damage by 50% (11% during daytime) for 8s and rounds for the current salvo by 4.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3659,12 +2876,6 @@
         "Description": "Increase damage by 70% for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3685,12 +2896,6 @@
         "Description": "Increase damage by 30% for 8s and rounds for the current salvo by 4.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3711,12 +2916,6 @@
         "Description": "After every 3 hits, the next hit will inflict 2.6x damage.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3737,12 +2936,6 @@
         "Description": "Increases Mk46's damage by 50% and accuracy by 70% for 6 seconds.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3763,12 +2956,6 @@
         "Description": "During night battles, increases self accuracy by 80% (40% during day) for 8.0 seconds, additionally extend the current salvo by 4 ammo (2 ammo during day) and decreases reload time by 30%.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3789,12 +2976,6 @@
         "Description": "Increase damage by 50% after each reload. Effect is stackable, each stack lasts for 25s.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3815,12 +2996,6 @@
         "Description": "After every 3 hits, the next hit will inflict 3x damage.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3841,12 +3016,6 @@
         "Description": "Each attack has a 20% chance of firing an additional bullet with guaranteed critical.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3867,12 +3036,6 @@
         "Description": "Increases HK21's damage by 40% precision by 30%,At the same time entering the sweep mode (switch target after every shot), movement speed will decrease by 50%, increases number of bullets by 2, lasts for 8 seconds.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3893,12 +3056,6 @@
         "Description": "Active: Increases Lewis Gun's damage by 75% for 6 seconds.\r\nPassive: After every reload, decrease reload time by 15%, up to 45% at most; Additionally, increase ammo count by 1 every reload, up to 3 stacks.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3908,9 +3065,9 @@
     "Stars": "★★★★★",
     "Category": "MG",
     "Time": "0628",
-    "Advantages": "",
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Faster than a slug\r\n○ High base accuracy\r\n○ Great armor tile and coverage",
+    "Disadvantages": "○ Low base FP\r\n○ 2nd volley skill\r\n○ Movement speed buff rarely comes into play",
+    "Summary": "She is ok for armor stacking.",
     "Lookup": "type 88|type88|qjy-88|qjy88",
     "Image": null,
     "Extension": {
@@ -3919,12 +3076,6 @@
         "Description": "Active: Increases Type 88's damage by 75% for 6 seconds. \r\n\r\nPassive: Swaps between LMG Mode and HMG mode depending on whether Type 88 has made movement or not, while in LMG mode, increases Type 88's movement speed by 50% but lowers her accuracy by 20%. If Type 88 remains stationary for 6 seconds, enter HMG mode increasing her accuracy by 30% and max ammo by 2. If movement has been made, Type 88 will return to LMG mode.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3933,7 +3084,7 @@
     "Alias": null,
     "Stars": "☆☆★★★",
     "Category": "MG",
-    "Time": "0640",
+    "Time": "0550",
     "Advantages": "○ High base FP",
     "Disadvantages": "○ Low base accuracy\r\n○ 2nd volley skill",
     "Summary": "○ 2nd Volley Skill\r\n○ High damage and clip size\r\n\r\nShe is not good.",
@@ -3945,12 +3096,6 @@
         "Description": "Increase damage by 65% for 6s.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3971,12 +3116,6 @@
         "Description": "Passive: Start combat with 1 stack. Gain 1 stack every 4.0 seconds. Maximum of 4 stacks.\r\nActive: Consume 1 stack and reduce the next reload time by 20%. Stacks up to 2 times (44% reload time reduction).",
         "InitCooldown": 6,
         "Cooldown": 2
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -3997,12 +3136,6 @@
         "Description": "Passive: When reloading, reduce damage taken of units on her tiles by 20%. \r\nActive: Increase damage by 55% for 6 seconds. Grants self-buffs depending on the gun type of allies on her tiles, which can stack up to 3 times per type of buff: AR's grant +25% accuracy, SMG's grant +25% increased reload speed, SG's grant +1 clip size.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4023,12 +3156,6 @@
         "Description": "Favorite Drink: [Brantini] - Increase the duration of the drones by 1 second.\r\n\r\nActive: Summons an additional 2 drones to attack. The additional drones have 40% damage and lasts for 4 seconds.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4049,12 +3176,6 @@
         "Description": "Increases damage by 55% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4075,12 +3196,6 @@
         "Description": "During nighttime, increase self rate of fire by 85% (28% during daytime) for 5s.",
         "InitCooldown": 8,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4101,12 +3216,6 @@
         "Description": "Increases self rate of fire by 55% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4127,12 +3236,6 @@
         "Description": "Increases self rate of fire by 55% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4153,12 +3256,6 @@
         "Description": "After aiming for 1.5s, shoot a specific target for 5x damage.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4179,12 +3276,6 @@
         "Description": "Increases damage by 60% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4205,12 +3296,6 @@
         "Description": "After aiming for 1.5s, shoot the nearest target for 5.5x damage.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4231,12 +3316,6 @@
         "Description": "After aiming for 2s, shoot the current target for 6.5x damage.",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4257,12 +3336,6 @@
         "Description": "During nighttime, increase damage by 90% (30% during daytime) for 6s.",
         "InitCooldown": 8,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4283,12 +3356,6 @@
         "Description": "After aiming for 1.5s, shoot the current target for 5.5x damage.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4309,12 +3376,6 @@
         "Description": "After aiming for 1.5s, shoot a specific target for 5.5x damage.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4335,12 +3396,6 @@
         "Description": "Increases self rate of fire by 40% for 15s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4361,12 +3416,6 @@
         "Description": "Increases damage by 60% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4387,12 +3436,6 @@
         "Description": "After aiming for 1.5s, shoot a specific target for 5.5x damage.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4413,12 +3456,6 @@
         "Description": "Increases damage by 60% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4439,12 +3476,6 @@
         "Description": "During nighttime, increase self rate of fire by 90% (30% during daytime) for 5s.",
         "InitCooldown": 8,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4465,12 +3496,6 @@
         "Description": "Passive: Every 1 second, carry out 1 normal attack, consuming 1 normal bullet and dealing 1.5x damage to the furthest enemy. Can store up to 2 normal bullets. Needs to reload when normal bullets run out, reload time can be decreased with higher rate of fire.\r\nActive: Consume 1 special bullet, aim for 2 seconds and deal 2.5x damage to the enemy with the highest HP (able to crit). Passive: Obtain 1 special bullet 6 seconds after battle start, thereafter gain 1 special bullet every 10 seconds. Can store up to 2 special bullets. Increase self damage and accuracy by 18% per special bullet. ",
         "InitCooldown": 1,
         "Cooldown": 6
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4491,12 +3516,6 @@
         "Description": "After taking aim for 2 seconds, shoot the nearest target for 6.5x Gepard M1's damage.",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4517,12 +3536,6 @@
         "Description": "Increases OBR's rate of fire and accuracy by 45% for 6 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4543,12 +3556,6 @@
         "Description": "After taking aim for 2 seconds, shoot the nearest target for 6.5x RT-20's damage.",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4569,12 +3576,6 @@
         "Description": "Increases SM-1's rate of fire by 40% for 15 seconds.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4595,12 +3596,6 @@
         "Description": "Increases Steyr Scout's damage by 60.0% for 5.0 seconds.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4621,12 +3616,6 @@
         "Description": "Increases Type-56's damage by 60.0% for 5.0 seconds.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4647,12 +3636,6 @@
         "Description": "Increases WZ.29 rate of fire by 60% for 5.0 seconds",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4673,12 +3656,6 @@
         "Description": "After aiming for 1.5s, shoot the furthest target for 6x damage. ",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4699,12 +3676,6 @@
         "Description": "Increases self rate of fire by 65% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4725,12 +3696,6 @@
         "Description": "Increases damage by 65% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4751,12 +3716,6 @@
         "Description": "After aiming for 1.5s, shoot the furthest target for 6x damage.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4777,12 +3736,6 @@
         "Description": "After aiming for 1.5s, shoot the furthest target for 6x damage. ",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4803,12 +3756,6 @@
         "Description": "After aiming for 2s, shoot the nearest target for 7x damage. ",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4829,12 +3776,6 @@
         "Description": "Increase self rate of fire by 50% and accuracy by 50% for 6s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4844,9 +3785,9 @@
     "Stars": "☆★★★★",
     "Category": "RF",
     "Time": "0415",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base RoF\r\n○ Very high multiplier",
+    "Disadvantages": "○ Decreases her accuracy (Does not matter vs enemies with no evasion)\r\n○ Slightly longer ICD than standard",
+    "Summary": "She is good.",
     "Lookup": "k31",
     "Image": null,
     "Extension": {
@@ -4855,12 +3796,6 @@
         "Description": "At the cost of decreasing her own accuracy by 35%, increases her own rate of fire by 80% for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4881,12 +3816,6 @@
         "Description": "After aiming for 1.5 seconds, deal 4.0x damage to the nearest target; Additionally, deal 0.5x damage to enemies in a 2 unit radius behind the target and decrease their accuracy and rate of fire by 20% for 5.0 seconds.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4907,12 +3836,6 @@
         "Description": "Increases own rate of fire and crit damage by 30%, lasts 5 seconds",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4933,12 +3856,6 @@
         "Description": "After taking aim for 2 seconds, shoot the furthest target, dealing 1.8x PzB 39's damage to all enemies in its path and an additional 1.8x PzB 39's damage to the target.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4959,12 +3876,6 @@
         "Description": "Mark current target for 5s After aiming for 1.5s, shoot the marked target for 5.5x damage. If the target dies while marked, increase rate of fire by 25% for 5s.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -4985,12 +3896,6 @@
         "Description": "Increases XM3's rate of fire by 100% in night battles (32% in day battles) for 5 seconds",
         "InitCooldown": 8,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5011,12 +3916,6 @@
         "Description": "Throws out a grenade that produces a black hole after an explosion. The black hole lasts for 5 seconds and attracts enemies within a radius of 2.5. Enemies within 1.5 tiles from the center of the black hole will suffer 20% Bronya's damage every second. This skill can only be used once per turn and has a 5s int CD.",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5037,12 +3936,6 @@
         "Description": "Aims for 1.5 seconds and shoots the furthest target, dealing 5x Raiden Mei's damage and stunning them for 3.0 seconds.(Stun effect does not work on bosses)",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5063,12 +3956,6 @@
         "Description": "Active: increases self critical rate and rate of fire by 8% for each RF T-Doll within the Echelon for 7.5s.\r\nPassive: Each attack has a 40% chance to increase critical rate and rate of fire by 4% for T-Dolls within the same column for 2s (max 3 stacks).",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5089,12 +3976,6 @@
         "Description": "Takes two aimed shots, aiming for 1s each time and shooting the current target for 3.5x damage",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5115,12 +3996,6 @@
         "Description": "Passive: Attacks have a 70% chance to gain 2 stacks. When stacks reach 18, the next attack against elite enemy will deal 300% (4500% against normal enemy) and will reset the stacks.\r\nActive: Immediately gain 18 stacks.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5141,12 +4016,6 @@
         "Description": "After aiming for 2s, shoots the nearest target for 8x damage.",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5167,12 +4036,6 @@
         "Description": "Increases self rate of fire by 75% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5193,12 +4056,6 @@
         "Description": "In return of decreasing self rate of fire by 35%, increase damage by 180% for 10s.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5219,12 +4076,6 @@
         "Description": "After aiming for 2s, shoot the furthest target for 8x damage.",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5245,12 +4096,6 @@
         "Description": "Increases damage by 75% for 5s.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5271,12 +4116,6 @@
         "Description": "After aiming for 2s at the furthest enemy, fires a bullet with penetrating effect, inflicting 2x damage on pierced enemies and an additional 2x damage on the target.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5297,12 +4136,6 @@
         "Description": "Passive: Periodically adds a layer 1 marker to the enemy every 1.5 seconds. Each time the skill is turned on, it triggers an additional attack on the marked target and consumes a layer 1 mark. The active effect lasts 6 seconds or until the tag is all consumed.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5323,12 +4156,6 @@
         "Description": "After aiming for 2s, shoot the highest HP target for 6x damage. If the enemy is armored, then deal 10x damage instead.",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5349,12 +4176,6 @@
         "Description": "Grants 3 special bullets each battle, 1 bullet will be consumed upon each skill usage. Aim for 1 second and deal 4.2x damage. The last bullet will deal double damage and reduce target damage by 20% for 5 seconds. Every victory in the current mission will increase skill damage by 10%, up to 3 layers.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5375,12 +4196,6 @@
         "Description": "Passive: TAC's drone will randomly mark an enemy after skill cooldown (changes every second).\r\nActive: Shoot the marked target for 4.5x damage (able to Crit).",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5401,12 +4216,6 @@
         "Description": "Increases SRS damage by 60% and accuracy 40% lasts 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5427,12 +4236,6 @@
         "Description": "Grants M870 a shield with a Defense value of 1000 points which reduces incoming damage by 100% for 6 seconds. Shield's Defense decays by 100 points (-10% DMG reduction) per second.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5453,12 +4256,6 @@
         "Description": "Active: Enter sniper mode for 9s. After every 1.5s of aiming (2.5s at SL1), deal 2x damage (able to crit, but affected by armor) that cannot be dodged to the furthest target and decrease their damage by 10% for 3s.\r\nPassive: Normal attacks against armorless enemies deal 1.05x damage.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5479,12 +4276,6 @@
         "Description": "After aiming for 2s at the furthest enemy, fires a bullet with penetrating effect, inflicting 1.8x damage on pierced enemies and an additional 1.8x damage on the target.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5505,12 +4296,6 @@
         "Description": "Increases T-CMS's damage by 60.0% for 5.0 seconds.",
         "InitCooldown": 5,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5531,12 +4316,6 @@
         "Description": "Passive: After every 2 attacks, fires a bullet with perfect accuracy and piercing effect dealing 1x damage to the target and the enemies caught within the line of fire.\r\nActive: Increase self rate of fire by 55% for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5557,12 +4336,6 @@
         "Description": "Passive: Consecutive shots on the same enemy increase R93's rate of fire by 10% for 3 seconds and can stack 3 times. Stacks reset when R93 changes targets. \r\nActive: Increase damage by 40% for 5 seconds, and during that time, the passive stack does not reset when R93's target changes. Marks a single target for 3 seconds, and only targets the marked enemy.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5583,12 +4356,6 @@
         "Description": "Passive: Every 3rd normal shot on the same target will deal 1.5x damage to enemies within a small radius.\r\nActive: Aim for 1.5 seconds, then deal 5.0x damage to the enemy with highest HP. Additionally, deal 1.5x damage to enemies within a radius of 1.5 units. ",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5609,12 +4376,26 @@
         "Description": "Favorite Drink: [Bleeding Jane] - Only requires 10 attacks to activate her second passive.\r\n\r\nPassive 1: When Sei is present, grant 10% reduction to her skill's base CD.\r\nPassive 2: When her dolls attacks over 16 times, the next round of attacks will have +50% critical damage.\r\nActive: Increase self damage by 50% for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
+      }
+    }
+  },
+  {
+    "Name": "M14 (mod 3)",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "RF",
+    "Time": null,
+    "Advantages": "○ 2nd Highest base RoF of any RF\r\n○ Powerful passive ability ",
+    "Disadvantages": "○ SPEQ isn't much of an upgrade over a VFL\r\n○ Base FP still is on the lower end",
+    "Summary": "○ Recommended to bring her all the way to MOD3. The stats from the affection increase is very much needed, and her SPEQ does a lot in bridging her relatively weak accuracy for a rifle.\r\n\r\nShe is very good.",
+    "Lookup": "m14 (mod 3)|m14(mod3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Clear Fighting Spirit",
+        "Description": "Gain an extra 10% critical damage during Damage Focus's activation for 6s.",
+        "InitCooldown": 0,
+        "Cooldown": 0
       }
     }
   },
@@ -5635,12 +4416,6 @@
         "Description": "Increase damage by 120% and temporarily increases targets to 5 for 8s (does not stack with slug ammo).",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5661,12 +4436,6 @@
         "Description": "Performs an additional attack, dealing 2x damage and causing knockback effect of 3 units.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5687,12 +4456,6 @@
         "Description": "Increase self armor by 60% for 6s.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5713,12 +4476,6 @@
         "Description": "Increase damage by 120% and temporarily increases targets to 5 for 8s (does not stack with slug ammo).",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5739,12 +4496,6 @@
         "Description": "Performs an additional attack, dealing 2x damage and causing knockback effect of 3 units.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5765,12 +4516,6 @@
         "Description": "M1897 performs an additional attack which deals 2.0 times M1897s damage to a single target and drive it back 3.0 units.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5791,12 +4536,6 @@
         "Description": "Increase damage by 50% and increase armor by 30% for 8s",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5817,12 +4556,6 @@
         "Description": "Increase self armor by 70% for 6s.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5843,12 +4576,6 @@
         "Description": "Increase damage by 120% and temporarily increases targets to 5 for 8s (does not stack with slug ammo).",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5869,12 +4596,6 @@
         "Description": "Performs an additional attack, dealing 2.5x damage and causing knockback effect of 3 units.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5895,12 +4616,6 @@
         "Description": "Increase self evasion by 55% and armor by 50% for 6s.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5921,12 +4636,6 @@
         "Description": "Increase self rate of fire by 60% and rounds by 4 for 8s, but increase the first reload time after the current salvo by 1s.",
         "InitCooldown": 1,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5947,12 +4656,6 @@
         "Description": "Inflicts 8.0x of Elphelt's damage and locks on to the target before launching a missile that deals 12.0x Elphelt's damage to enemies within 1.5 unit radius.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5973,12 +4676,6 @@
         "Description": "Passive: Seele's last shot in her clip will deal 300% her damage and cause her to reload instantly.",
         "InitCooldown": 1,
         "Cooldown": 3
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -5999,12 +4696,6 @@
         "Description": "Increase self evasion by 60% and armor by 60% for 6s.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6025,12 +4716,6 @@
         "Description": "Grant a 35HP shield to all allies positioned at the front row for 5s.",
         "InitCooldown": 2,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6051,12 +4736,6 @@
         "Description": "Immediately increase the number of rounds by 10, rate of fire by 80%, and knockback chance to 10% per attack for 8s",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6077,12 +4756,6 @@
         "Description": "Inflict 1000 damage to a single target and cause a knockback effect of 3 yards.",
         "InitCooldown": 15,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6103,12 +4776,6 @@
         "Description": "Deploys two damage reducing shields randomly to any T-doll on the same column as her (shields can stack). Upon activation, the shields will damage nearby enemies for 80% FP-6's damage and knock them back 2.5 tiles while also reducing incoming damage by 30% to the T-doll's standing behind the shields. The shields duration lasts for 8.0 seconds.",
         "InitCooldown": 10,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6129,12 +4796,6 @@
         "Description": "Attacks thrice with increased damage after each successive hit, hitting every target for 1.5/2.5/3.5 times the damage.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6155,12 +4816,6 @@
         "Description": "Favorite Drink: [Big Beer] - Gain 0.5 shield for every 1 armor Dana has.\r\n\r\nPassive: Fires an exploding rocket fist. Can only attack 1 enemy, dealing 1.8x damage and has 10% chance of knockback. (Does not stack with Slugs)\r\nActive: Jumps up and smashes the ground, causing a large explosion dealing 0.6x damage and knockback to enemies within a radius of 2 units. Increase damage of the skill by 1% for every 1 armor Dana has.",
         "InitCooldown": 8,
         "Cooldown": 18
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6181,12 +4836,6 @@
         "Description": "Increase self evasion by 110% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6207,12 +4856,6 @@
         "Description": "Throw a grenade that deals 5.5x damage to enemies within a radius of 2.5 yards.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6233,12 +4876,6 @@
         "Description": "Increase self evasion by 110% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6259,12 +4896,6 @@
         "Description": "Launch a smoke grenade that decreases the enemies' rate of fire by 36% and movement speed by 45% within a radius of 2.5 yards for 4s.",
         "InitCooldown": 1,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6285,12 +4916,6 @@
         "Description": "Launch a stun grenade that stuns enemies within a radius of 2.5 yards for 3.2s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6311,12 +4936,6 @@
         "Description": "Launch a stun grenade that stuns enemies within a radius of 2.5 yards for 3.2s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6337,12 +4956,6 @@
         "Description": "Throw a grenade that deals 5.5x damage to enemies within a radius of 2.5 yards.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6363,12 +4976,6 @@
         "Description": "Launch an incendiary grenade that deals 5.5x damage to enemies within a radius of 1.5 yards and ignites them, dealing 1x damage every 0.33s for 5s.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6389,12 +4996,6 @@
         "Description": "Throw a grenade that deals 5.5x damage to enemies within a radius of 2.5 yards.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6415,12 +5016,6 @@
         "Description": "Launch an incendiary grenade that deals 6x damage to enemies within a radius of 1.5 yards and ignites them, dealing 1x damage every 0.33s for 5s.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6441,12 +5036,6 @@
         "Description": "Throw a grenade that deals 6x damage to enemies within a radius of 2.5 yards.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6467,12 +5056,6 @@
         "Description": "Launch a smoke grenade that decreases the enemies' rate of fire by 36% and movement speed by 50% within a radius of 2.5 yards for 4s.",
         "InitCooldown": 1,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6493,12 +5076,6 @@
         "Description": "Launch a smoke grenade that decreases the enemies' rate of fire by 36% and movement speed by 50% within a radius of 2.5 yards for 4s.",
         "InitCooldown": 1,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6519,12 +5096,6 @@
         "Description": "Launch an incendiary grenade that deals 6x damage to enemies within a radius of 1.5 yards and ignites them, dealing 1x damage every 0.33s for 5s.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6545,12 +5116,6 @@
         "Description": "Launch an incendiary grenade that deals 6x damage to enemies within a radius of 1.5 yards and ignites them, dealing 1x damage every 0.33s for 5s.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6571,12 +5136,6 @@
         "Description": "Throw a grenade that deals 6x damage to enemies within a radius of 2.5 yards.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6597,12 +5156,6 @@
         "Description": "Increase self evasion by 120% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6623,12 +5176,6 @@
         "Description": "Throw a grenade that deals 6x damage to enemies within a radius of 2.5 yards.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6649,12 +5196,6 @@
         "Description": "Launch a stun grenade that stuns enemies within a radius of 2.5 yards for 3.5s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6675,12 +5216,6 @@
         "Description": "Increase damage by 150% and evasion by 40% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6701,12 +5236,6 @@
         "Description": "Launch an incendiary grenade that deals 6x damage to enemies within a radius of 1.5 yards and ignites them, dealing 1x damage every 0.33s for 5s.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6727,12 +5256,6 @@
         "Description": "Throws a flashbang that stuns enemies within a 2.5 unit radius for 3.5 seconds.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6753,12 +5276,6 @@
         "Description": "Increases T77's evasion by 40% for 15 seconds.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6779,12 +5296,6 @@
         "Description": "Increase self evasion by 120% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6805,12 +5316,6 @@
         "Description": "Launch a smoke grenade that decreases the enemies' rate of fire by 40% and movement speed by 50% within a radius of 2.5 yards for 4s.",
         "InitCooldown": 1,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6831,12 +5336,6 @@
         "Description": "Launch a stun grenade that stuns enemies within a radius of 2.5 yards for 4s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6857,12 +5356,6 @@
         "Description": "Increase self evasion by 130% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6883,12 +5376,6 @@
         "Description": "Launch a smoke grenade that decreases the enemies' rate of fire by 40% and movement speed by 50% within a radius of 2.5 yards for 4s.",
         "InitCooldown": 1,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6909,12 +5396,6 @@
         "Description": "Evade all incoming attacks for 3s.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6935,12 +5416,6 @@
         "Description": "Increase self evasion by 45% for 15s.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6961,12 +5436,6 @@
         "Description": "Increases Cx4 Storm's evasion by 80% and accuracy by 50% for 10 seconds",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -6987,12 +5456,6 @@
         "Description": "Increases Honey Badger damage by 160% and evasion by 40% for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7013,12 +5476,6 @@
         "Description": "Launch an incendiary grenade that deals 6.5x damage to enemies within a radius of 1.5 yards and ignites them, dealing 1x damage every 0.33s for 5s.",
         "InitCooldown": 3,
         "Cooldown": 13
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7039,12 +5496,6 @@
         "Description": "Throw a grenade that deals 6.5x damage to enemies within a radius of 2.5 yards.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7065,12 +5516,6 @@
         "Description": "Passive: Before activation, increase evasion by 10% and decrease damage by 5% every 2 seconds. 5 stacks maximum.\r\nActive: Clear all passive stacks, increase damage by 30% and decrease evasion by 25% every 2 seconds, 5 stacks maximum.",
         "InitCooldown": 1,
         "Cooldown": 666
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7091,12 +5536,6 @@
         "Description": "Increase self evasion by 150% for 5s.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7117,12 +5556,6 @@
         "Description": "Evade all incoming attacks for 4s.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7143,12 +5576,6 @@
         "Description": "Evade all incoming attacks for 4s.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7169,12 +5596,6 @@
         "Description": "Increase damage by 260% for 5s.",
         "InitCooldown": 4,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7195,12 +5616,6 @@
         "Description": "Launch a stun grenade that stuns enemies within a radius of 2.5 yards for 4.5s.",
         "InitCooldown": 5,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7221,12 +5636,6 @@
         "Description": "Launch an incendiary grenade that deals 7x damage to enemies within a radius of 1.5 yards and ignites them, dealing 1x damage every 0.33s for 5s.",
         "InitCooldown": 3,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7247,12 +5656,6 @@
         "Description": "Decrease all enemies' damage by 25% and increase self evasion by 70% for 5s.",
         "InitCooldown": 3,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7273,12 +5676,6 @@
         "Description": "Press skill to switch between different ammo types with different effects.\r\n- Subsonic rounds (default): Increase evasion by 65% /\r\n- Spoon tip rounds: Increase damage by 85% /\r\n- Standard rounds: Increase accuracy by 200%.",
         "InitCooldown": 1,
         "Cooldown": 1
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7299,12 +5696,6 @@
         "Description": "While active, any enemy units dealt damage to AK-74U will receive a 50% damage and accuracy reducing penalty (Elite units receives 25% instead), penalty lasts for 5 seconds, skill lasts for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7325,12 +5716,6 @@
         "Description": "Based on the number of enemy groups in a battle, self buffs which increases evasion by 35.0% and damage by 50.0% for 5.0 seconds. When skill is activated, 3 layers of damage buff if there is only 1 group of enemies. For every additional group of enemies, 1 evasion buff and remove 1 damage buff. Maximum 6 layers of buffs.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7351,12 +5736,6 @@
         "Description": "Reduce the rate of fire by 20%, increase evasion by 180% and speed by 50% lasts 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7377,12 +5756,6 @@
         "Description": "Arc Shadow: Every second, increase self evasion by 20%, this effect stacks. The following 4 attacks will both be guaranteed to hit and crit. Passive: Activates \"Arc Shadow\" effect for 3 seconds whenever P90 loses 5% health, cooldown 6 seconds. \r\nActive: Activates \"Arc Shadow\" effect for 5 seconds and deploys holograms based on the number of links P90 has for 3 seconds. Holograms have 999 armor and 3 HP per holo-link.",
         "InitCooldown": 6,
         "Cooldown": 12
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7403,12 +5776,6 @@
         "Description": "During night sorties, improves own evasion by 150% and accuracy by 80% for 10 seconds. Day time skill effect diminishes to 50% evasion increase and 40% accuracy increase.",
         "InitCooldown": 4,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7429,12 +5796,6 @@
         "Description": "Increase self evasion by 100% while decreasing self damage and accuracy by 30%. Additionally, every attack will deal 2 instances of damage and lasts for 5.0 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7455,12 +5816,6 @@
         "Description": "Provide herself with a 42 HP shield for 5s.\r\n\tIf the shield is destroyed by enemy fire, increase evasion by 65% for 5s.\r\n\tIf the shield expires without being destroyed, increases damage by 85% for 5s.",
         "InitCooldown": 8,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7481,12 +5836,6 @@
         "Description": "Upon skill activation, switches target to the enemy with the lowest HP. The lower the enemy's HP, the higher the damage dealt. Damage increase is equal to the enemies (percentage HP lost x 3.0), skill lasts for 5.0 seconds.",
         "InitCooldown": 4,
         "Cooldown": 8
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7507,12 +5856,6 @@
         "Description": "Throws a smoke grenade that decreases the enemy's rate of fire by 36.0% and movement speed by 50.0% within a radius of 2.5 units for 4.0 seconds.",
         "InitCooldown": 1,
         "Cooldown": 16
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -7533,12 +5876,6 @@
         "Description": "Favorite Drink: [Piano Women] - Reduce the negative effects of her skill by 50%.\r\n\r\nPassive: Dorothy will use Nano-camouflage by default if she is in the middle row, otherwise she will use MIRD113. \r\nActive: Toggles between one of two skill effects; *MIRD113: Increase self damage by 100%, reduce the accuracy of allies in the same row by 40% but increase evasion by 80%. *Nano-camouflage: Increase self evasion by 100%, reduce the evasion of allies in the same row by 40% but increase accuracy by 80%.",
         "InitCooldown": 1,
         "Cooldown": 2
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   }

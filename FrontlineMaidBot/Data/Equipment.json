@@ -16,12 +16,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -42,12 +36,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -68,12 +56,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -94,12 +76,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -120,12 +96,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -146,12 +116,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -172,12 +136,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -198,12 +156,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -224,12 +176,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -250,12 +196,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -276,12 +216,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -302,12 +236,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -328,12 +256,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -354,12 +276,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -380,12 +296,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -406,12 +316,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -432,12 +336,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -458,12 +356,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -484,12 +376,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -510,12 +396,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -536,12 +416,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -562,12 +436,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -588,12 +456,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -614,12 +476,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -640,12 +496,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -666,12 +516,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -692,12 +536,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -718,12 +556,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -744,12 +576,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -770,12 +596,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -796,12 +616,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -822,12 +636,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -848,12 +656,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -874,12 +676,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -900,12 +696,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -926,12 +716,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -952,12 +736,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -978,12 +756,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1004,12 +776,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1030,12 +796,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1056,12 +816,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1082,12 +836,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1108,12 +856,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1134,12 +876,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1160,12 +896,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1186,12 +916,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1212,12 +936,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1238,12 +956,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1264,12 +976,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1290,12 +996,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1316,12 +1016,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1342,12 +1036,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1368,12 +1056,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1394,12 +1076,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1420,12 +1096,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1446,12 +1116,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1472,12 +1136,6 @@
         "Description": null,
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": null,
-        "Pattern": null,
-        "Effects": {}
       }
     }
   },
@@ -1498,16 +1156,6 @@
         "Description": "[Consumes 3 Support Order points]\r\nIn the next battle, increase the armor for all SGs in the Echelon by 50% for 20 seconds. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 25,
-          "Critical Damage": 22,
-          "Damage": 22
-        }
       }
     }
   },
@@ -1528,16 +1176,6 @@
         "Description": "[Consumes 3 Support Order points]\r\nIn the next battle, grant a shield to all SMG in the echelon, each absorbing 150 points of damage.",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 60,
-          "Damage": 20,
-          "Evasion": 80
-        }
       }
     }
   },
@@ -1558,18 +1196,6 @@
         "Description": "[Consumes 3 Support Order points]\r\nDeploy a decoy dummy with 1600 HP in front of your echelon and have it serve its purpose as a decoy attracting the attention of enemies in front of it. ",
         "InitCooldown": 0,
         "Cooldown": 0
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 58,
-          "Armor": 8,
-          "Critical Damage": 25,
-          "Damage": 18,
-          "Evasion": 28
-        }
       }
     }
   },
@@ -1590,17 +1216,6 @@
         "Description": "[Consumes 2 Support Order points]\r\nAim for the enemy with the highest HP and deal 20000 damage to it in the next battle.\r\nHas an initial cooldown of 10 seconds. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 88,
-          "Armor": 15,
-          "Critical Damage": 36,
-          "Evasion": 28
-        }
       }
     }
   },
@@ -1621,16 +1236,6 @@
         "Description": "[Consumes 3 Support Order points]\r\nFires a mortar shell in the next fight. Deals up to 1200 damage to enemy units within a 2.5 radius. \r\n\r\nHas an initial cooldown of 5 seconds. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 6,
-          "Damage": 55,
-          "Evasion": 56
-        }
       }
     }
   },
@@ -1651,17 +1256,6 @@
         "Description": "[Consumes 3 Support Order points]\r\nLaunches airstrike in the next fight, deals 500 damage to all enemy units. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 50,
-          "Armor": 10,
-          "Damage": 30,
-          "Evasion": 40
-        }
       }
     }
   },
@@ -1682,17 +1276,6 @@
         "Description": "[Consumes 2 Support Order points]\r\nProvide 1 dummy expansion reinforcement for the lowest percentage health T-doll in the echelon. Also provides bonus 10% evasion for that echelon for all the fights in the same turn. ",
         "InitCooldown": 0,
         "Cooldown": 1
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 12,
-          "Critical Damage": 15,
-          "Damage": 12,
-          "Evasion": 88
-        }
       }
     }
   },
@@ -1713,17 +1296,6 @@
         "Description": "[Consumes 5 Support Order points]\r\nThis echelon can airdrop to any landing zone in the map, but will receive a 40% penalty to Damage, Accuracy, Evasion, Armor, and Critical Hit for two turns. ",
         "InitCooldown": 0,
         "Cooldown": 5
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 8,
-          "Critical Damage": 40,
-          "Damage": 36,
-          "Evasion": 32
-        }
       }
     }
   },
@@ -1744,16 +1316,6 @@
         "Description": "[Consumes 5 Support Order points]\r\nReduce Echelon's Damage taken by 30% for every battle in one turn for 20 seconds. ",
         "InitCooldown": 0,
         "Cooldown": 1
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 20,
-          "Damage": 22,
-          "Evasion": 80
-        }
       }
     }
   },
@@ -1774,17 +1336,6 @@
         "Description": "[Consumes 1 Support Order]\r\nRaise Echelon's Damage by 20% and 10% Firing Speed for 20 seconds in the next battle (Doesn't stack). ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 80,
-          "Armor": 10,
-          "Damage": 25,
-          "Evasion": 40
-        }
       }
     }
   },
@@ -1805,17 +1356,6 @@
         "Description": "[Consumes 1 Support Order points]\r\nIn the next battle, increases Accuracy by 50% and Crit Rate by 25% for the entire echelon for 20 seconds (does not stack).",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 10,
-          "Critical Damage": 40,
-          "Damage": 15,
-          "Evasion": 40
-        }
       }
     }
   },
@@ -1836,17 +1376,6 @@
         "Description": "[Consumes 1 Support Order points]\r\nIncrease the EXP gained by the Echelon in the next battle by 5%(25%).\r\nDoes not work in Combat Sim.",
         "InitCooldown": 0,
         "Cooldown": 1
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 8,
-          "Critical Damage": 36,
-          "Damage": 36,
-          "Evasion": 32
-        }
       }
     }
   },
@@ -1867,16 +1396,6 @@
         "Description": "[Consumes 1 Support Order points]\r\nImprove the chance of getting a rare T-doll as combat loot in the next fight. ",
         "InitCooldown": 0,
         "Cooldown": 1
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 80,
-          "Damage": 32,
-          "Evasion": 64
-        }
       }
     }
   },
@@ -1897,17 +1416,6 @@
         "Description": "[Consumes 5 Support Order points]\r\nRaise Echelon's vision by 2 points within 2 turns, during this period raise Echelon's accuracy by 30% for 20 seconds in all battles. ",
         "InitCooldown": 0,
         "Cooldown": 2
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 90,
-          "Armor": 8,
-          "Critical Damage": 38,
-          "Evasion": 32
-        }
       }
     }
   },
@@ -1928,16 +1436,6 @@
         "Description": "[Consumes 5 Support Order points]\r\nBury a Mine at the neighboring point where there is no enemy, this mine will stay for 2 turns and when the enemy triggers it, will deal 50% damage to the current HP. \r\nIneffective against bosses.",
         "InitCooldown": 0,
         "Cooldown": 3
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 44,
-          "Damage": 25,
-          "Evasion": 85
-        }
       }
     }
   },
@@ -1958,16 +1456,6 @@
         "Description": "[Consumes 5 Support Order points]\r\nDeploy a rocket launcher at a specified range, if the enemy move within range in two turns, it will deal 20% damage based on it's current HP.\r\nIneffective against bosses.",
         "InitCooldown": 0,
         "Cooldown": 3
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 44,
-          "Armor": 22,
-          "Critical Damage": 35
-        }
       }
     }
   },
@@ -1988,18 +1476,6 @@
         "Description": "[Consumes 5 Support Order points]\r\nBuild an unmovable fortress at your Echelon's position. If your Echelon takes battle in this spot will gain a boost in damage, accuracy, evasion, armor and critical hit rate by 30%. ",
         "InitCooldown": 0,
         "Cooldown": 3
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 50,
-          "Armor": 10,
-          "Critical Damage": 20,
-          "Damage": 15,
-          "Evasion": 40
-        }
       }
     }
   },
@@ -2020,18 +1496,6 @@
         "Description": "[Consumes 0 Support Order]\r\nThe message from fate shall boost your determination.",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 62,
-          "Armor": 12,
-          "Critical Damage": 25,
-          "Damage": 20,
-          "Evasion": 50
-        }
       }
     }
   },
@@ -2052,17 +1516,6 @@
         "Description": "[Consumes 3 Support Order points]\r\nRaises echelons accuracy by 80% for the next 10 seconds. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 75,
-          "Armor": 8,
-          "Damage": 32,
-          "Evasion": 32
-        }
       }
     }
   },
@@ -2083,17 +1536,6 @@
         "Description": "[Consumes 3 Support Order points]\r\nIgnites firecrackers at the start of the next battle, causing 2 second stuns to the target unit while spreading to targets within a 4 tiles radius dealing 50 damage per second, firecracker duration: 5 seconds. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 20,
-          "Critical Damage": 25,
-          "Damage": 25,
-          "Evasion": 20
-        }
       }
     }
   },
@@ -2114,17 +1556,6 @@
         "Description": "Summons flaming pillars on random locations after entering combat, pillars lasts for 2 seconds while it deals damage over time to any enemies that makes contact with it. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 6,
-          "Critical Damage": 32,
-          "Damage": 26,
-          "Evasion": 24
-        }
       }
     }
   },
@@ -2145,17 +1576,6 @@
         "Description": "Casts laser beam that deals 20% damage to random enemies within two node radius of the equipped echelon's position, bosses cannot be harmed by this damage. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 70,
-          "Armor": 15,
-          "Critical Damage": 32,
-          "Evasion": 24
-        }
       }
     }
   },
@@ -2176,17 +1596,6 @@
         "Description": "Summons two puppets with 600HP in front of the echelon in the next fight, the puppets will deal flat 100 damage to all enemies every 3 seconds while being able to block damage for the squad. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 55,
-          "Armor": 6,
-          "Damage": 18,
-          "Evasion": 64
-        }
       }
     }
   },
@@ -2207,16 +1616,6 @@
         "Description": "Throws down flower on an adjacent random empty battlefield node, when friendly echelon fights on top of the flowered node they will receive small bonuses to crit rate, damage, accuracy evasion and armor. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Armor": 18,
-          "Critical Damage": 30,
-          "Evasion": 70
-        }
       }
     }
   },
@@ -2237,17 +1636,6 @@
         "Description": "Boosts damage by 20% of all T-dolls in the echelon while dampen accuracy by 10% for all enemy units in the next fight. ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 40,
-          "Critical Damage": 25,
-          "Damage": 15,
-          "Evasion": 50
-        }
       }
     }
   },
@@ -2268,18 +1656,26 @@
         "Description": "Produce grounds with combat effects in the next fight. Friendly units standing on red grounds will have damage and accuracy increase by 30%, but suffer 20% armor and evasion penalties. Standing on yellow grounds will have armor and evasion increase by 30%, but suffer 20% damage and accuracy penalties. Skill lasts 30 seconds ",
         "InitCooldown": null,
         "Cooldown": null
-      },
-      "Buff": null,
-      "BuffFull": {
-        "Target": "All",
-        "Pattern": null,
-        "Effects": {
-          "Accuracy": 50,
-          "Armor": 10,
-          "Critical Damage": 22,
-          "Damage": 22,
-          "Evasion": 10
-        }
+      }
+    }
+  },
+  {
+    "Name": "Anna Gream",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "Fairy",
+    "Time": null,
+    "Advantages": "Ignoring debuffs, she offers a DPS increase just slightly worse than Warrior's with skill, as she does not provide RoF. Her main selling point, though is at 5* and skill level 10 she is able to increase evasion of the frontline by a staggering 214%. This evasion increase enables a frontline made of SMGs to dodge Striker salvos easily while ensuring that DPS are able to finish enemies off quicker, unlike Shield. Having a similar skill to Warrior also means she is less suitable for prolonged fights like BOSS encounters. With 3 copies up for grabs in the VA-11 HALL-A event shop, she is one of the easiest fairies to increase rarity of, further adding to her accessibility.",
+    "Disadvantages": null,
+    "Summary": "Strong aura with skill while strengthening survivability of frontline. Recommended if you have data to spare. Feed all copies into the one with best talent.",
+    "Lookup": "anna gream|annagream",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
       }
     }
   }

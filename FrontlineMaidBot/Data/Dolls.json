@@ -305,9 +305,9 @@
     "Stars": "☆☆★★★",
     "Category": "AR",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good FP tile buff w/ good coverage\r\n○ Highest base DMG of the Night ARs",
+    "Disadvantages": "○ Lower multiplier than her Night competitors\r\n○ Crit rate is generally ineffective at night due not being able to use VFL",
+    "Summary": "She is good for night.",
     "Lookup": "t65",
     "Image": null,
     "Extension": {
@@ -945,9 +945,9 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0412",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Very well rounded AR\r\n○ Incredible accuracy\r\n○ Incredible FP/RoF\r\n○ Amazing tile buffs and coverage\r\n○ Great 5/8s uptime",
+    "Disadvantages": "○ Long ICD\r\n○ Crit rate can be wasted in double crit tiles setup\r\n○ Easy to overshot RoF",
+    "Summary": "She is very good.",
     "Lookup": "ak-12|ak12|ak 12",
     "Image": null,
     "Extension": {
@@ -965,9 +965,9 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0409",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Amazing passive\r\n○ Incredible accuracy\r\n○ Excellent tile coverage\r\n○ High base FP\r\n○ Skill is amazing at all skill levels\r\n○ 5/8s uptime",
+    "Disadvantages": "○ Locked to tile 7\r\n○ Multi-shots suffers considerably against damage reductions (Armor/force shield)",
+    "Summary": "She is very good.",
     "Lookup": "an-94|an94|an 94",
     "Image": null,
     "Extension": {
@@ -1156,6 +1156,66 @@
         "Description": "Upon Damage Focus's activation, increase the evasion of allies on her tiles by 25% for 5s. Furthermore, increase her own rate of fire by 10% per ally on her tiles for 5s, max 2 stacks.",
         "InitCooldown": 4,
         "Cooldown": 5
+      }
+    }
+  },
+  {
+    "Name": "M14 (mod 3)",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "AR",
+    "Time": null,
+    "Advantages": "○ 2nd Highest base RoF of any RF\r\n○ Powerful passive ability ",
+    "Disadvantages": "○ SPEQ isn't much of an upgrade over a VFL\r\n○ Base FP still is on the lower end",
+    "Summary": "○ Recommended to bring her all the way to MOD3. The stats from the affection increase is very much needed, and her SPEQ does a lot in bridging her relatively weak accuracy for a rifle.\r\n\r\nShe is very good.",
+    "Lookup": "m14 (mod 3)|m14(mod3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Clear Fighting Spirit",
+        "Description": "Gain an extra 10% critical damage during Damage Focus's activation for 6s.",
+        "InitCooldown": 0,
+        "Cooldown": 0
+      }
+    }
+  },
+  {
+    "Name": "M4A1 (mod 3)",
+    "Alias": [ "war crime simulator" ],
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "Time": null,
+    "Advantages": "○ Insane firepower buff\r\n○ Ignores accuracy checks with her cannon mode for main target\r\n○ Extremely unique and vital role that no one else can replace\r\n○ Amazing special equip + stats + skill combo makes her non-cannon DPS insane as well",
+    "Disadvantages": "○ You can only have 1\r\n○ Requires plenty of support in a cannon-focused team\r\n○ Only works when there's 3 or less T-dolls on field\r\n○ RoF penalty can be an issue sometimes",
+    "Summary": "She is very good, but I want that sweet cinnamon roll back...",
+    "Lookup": "m4a1 (mod 3)|m4a1(mod3)|war crime simulator|warcrimesimulator",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Seal of the Avenger",
+        "Description": "Current target will be marked with the Seal of the Avenger during Damage Focus's activation. When 3 or less allies are on the field, reduce rate of fire by 70% and increase damage by 600%, and deal 100% splash damage to enemies within 2.5 yards of the target and mark all enemies hit with the Seal. (Damage Focus is still active during this period)",
+        "InitCooldown": 4,
+        "Cooldown": 16
+      }
+    }
+  },
+  {
+    "Name": "ST AR-15 (mod 3)",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "Time": null,
+    "Advantages": "○ Stats are bumped up even further\r\n○ 2 accessories trait\r\n○ Able to cap RoF without any help\r\n○ Extra damage as well from MOD 2 skill\r\n○ Hardcore Nyto hologram counter",
+    "Disadvantages": "○ Mod2 skill deals a separate tick of damage\r\n○ Still have quite abit of trouble against high armor\r\n○ Expensive",
+    "Summary": "She is very good bomb.",
+    "Lookup": "st ar-15 (mod 3)|star-15(mod3)|st ar15 (mod 3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Crime and Punishment",
+        "Description": "Attack with both weapons during Assault Focus's activation. The secondary weapon will deal 10% damage, doubled to 20% against targets marked with the Seal of the Avenger.",
+        "InitCooldown": 4,
+        "Cooldown": 16
       }
     }
   },
@@ -1765,9 +1825,9 @@
     "Stars": "☆☆★★★",
     "Category": "HG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Excellent tile coverage\r\n○ Bonus evasion tile buff capable of hitting both tanks",
+    "Disadvantages": "○ Low base evasion\r\n○ Lackluster offensive tile buff\r\n○ Defensive skill not suitable for general usage",
+    "Summary": "She is ok.",
     "Lookup": "mp-443|mp443|mp 443|grach",
     "Image": null,
     "Extension": {
@@ -1805,9 +1865,9 @@
     "Stars": "☆☆★★★",
     "Category": "HG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ As far as a comparison to Spitfire, has tiles that are more usable than just MGSG.\r\n○ Good skill for defensive setups.\r\n○ Has a seal.",
+    "Disadvantages": "○ Very low base evasion\r\n○ Limited usage\r\n○ Skill is situational like other debuffers.",
+    "Summary": "She is optional.",
     "Lookup": "p226",
     "Image": null,
     "Extension": {
@@ -2025,8 +2085,8 @@
     "Stars": "☆★★★★",
     "Category": "HG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
+    "Advantages": "○ Quick Initial CD for a HG",
+    "Disadvantages": "○ Skill can miss (Will take aim again)",
     "Summary": "I don't really know her.",
     "Lookup": "thunder",
     "Image": null,
@@ -2401,7 +2461,7 @@
   },
   {
     "Name": "PA-15",
-    "Alias": null,
+    "Alias": [ "PA15" ],
     "Stars": "★★★★★",
     "Category": "HG",
     "Time": null,
@@ -3021,14 +3081,14 @@
   },
   {
     "Name": "HK21",
-    "Alias": null,
+    "Alias": [ "HMG21" ],
     "Stars": "★★★★★",
     "Category": "MG",
     "Time": null,
-    "Advantages": null,
+    "Advantages": "○ Faster than a slug\r\n○ High base accuracy\r\n○ Great armor tile and coverage",
     "Disadvantages": null,
     "Summary": "I don't really know her.",
-    "Lookup": "hk21",
+    "Lookup": "hk21|hmg21",
     "Image": null,
     "Extension": {
       "Skill": {
@@ -3625,9 +3685,9 @@
     "Stars": "☆☆★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ RoF self-buff",
+    "Disadvantages": "○ Low base RoF",
+    "Summary": "She is not good.",
     "Lookup": "wz.29",
     "Image": null,
     "Extension": {
@@ -3845,9 +3905,9 @@
     "Stars": "☆★★★★",
     "Category": "RF",
     "Time": "0430",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Very high base FP",
+    "Disadvantages": "○ Low base RoF\r\n○ Long aim time for such a weak nuke\r\n○ Charge shot not optimal for general usage despite the penetrating effect",
+    "Summary": "She is not good.",
     "Lookup": "pzb 39|pzb39",
     "Image": null,
     "Extension": {
@@ -3885,9 +3945,9 @@
     "Stars": "☆★★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Cute",
+    "Disadvantages": "○ Long ICD\r\n○ Impractical during the day",
+    "Summary": "She is not good.",
     "Lookup": "xm3",
     "Image": null,
     "Extension": {
@@ -4125,7 +4185,7 @@
     "Stars": "★★★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
+    "Advantages": "",
     "Disadvantages": null,
     "Summary": "I don't really know her.",
     "Lookup": "ballista",
@@ -4376,26 +4436,6 @@
         "Description": "Favorite Drink: [Bleeding Jane] - Only requires 10 attacks to activate her second passive.\r\n\r\nPassive 1: When Sei is present, grant 10% reduction to her skill's base CD.\r\nPassive 2: When her dolls attacks over 16 times, the next round of attacks will have +50% critical damage.\r\nActive: Increase self damage by 50% for 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      }
-    }
-  },
-  {
-    "Name": "M14 (mod 3)",
-    "Alias": null,
-    "Stars": "☆★★★★",
-    "Category": "RF",
-    "Time": null,
-    "Advantages": "○ 2nd Highest base RoF of any RF\r\n○ Powerful passive ability ",
-    "Disadvantages": "○ SPEQ isn't much of an upgrade over a VFL\r\n○ Base FP still is on the lower end",
-    "Summary": "○ Recommended to bring her all the way to MOD3. The stats from the affection increase is very much needed, and her SPEQ does a lot in bridging her relatively weak accuracy for a rifle.\r\n\r\nShe is very good.",
-    "Lookup": "m14 (mod 3)|m14(mod3)",
-    "Image": null,
-    "Extension": {
-      "Skill": {
-        "Name": "Clear Fighting Spirit",
-        "Description": "Gain an extra 10% critical damage during Damage Focus's activation for 6s.",
-        "InitCooldown": 0,
-        "Cooldown": 0
       }
     }
   },
@@ -4727,7 +4767,7 @@
     "Time": "0812",
     "Advantages": "○ High base HP\r\n○ High clip size\r\n○ High RoF\r\n○ Good tile buff and coverage",
     "Disadvantages": "○ Long Initial CD",
-    "Summary": "○ Similar to USAS but much longer CD\r\n○ Good tile buff but orientation is not as good as KSG'S\r\n\r\nShe is good.",
+    "Summary": "○ Similar to USAS but much longer CD\r\n○ Good tile buff but orientation is not as good as KSG'S\r\n\r\nShe is sort of good.",
     "Lookup": "aa-12|aa12",
     "Image": null,
     "Extension": {
@@ -4816,6 +4856,26 @@
         "Description": "Favorite Drink: [Big Beer] - Gain 0.5 shield for every 1 armor Dana has.\r\n\r\nPassive: Fires an exploding rocket fist. Can only attack 1 enemy, dealing 1.8x damage and has 10% chance of knockback. (Does not stack with Slugs)\r\nActive: Jumps up and smashes the ground, causing a large explosion dealing 0.6x damage and knockback to enemies within a radius of 2 units. Increase damage of the skill by 1% for every 1 armor Dana has.",
         "InitCooldown": 8,
         "Cooldown": 18
+      }
+    }
+  },
+  {
+    "Name": " KS-23",
+    "Alias": null,
+    "Stars": "☆☆★★★",
+    "Category": "SG",
+    "Time": null,
+    "Advantages": "○ High base HP\r\n○ Massive FP for a SG",
+    "Disadvantages": "○ Long initial CD\r\n○ Low clip size\r\n○ Bad tile coverage and placement",
+    "Summary": "She is ok.",
+    "Lookup": " ks-23|ks-23| ks23",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Damage Focus SG",
+        "Description": "Increase damage by 120% and temporarily increases targets to 5 for 8s\r\n(does not stack with slug ammo).",
+        "InitCooldown": 8,
+        "Cooldown": 16
       }
     }
   },
@@ -5445,9 +5505,9 @@
     "Stars": "☆★★★★",
     "Category": "SMG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base HP\r\n○ High base FP\r\n○ Excellent tile buffs and coverage",
+    "Disadvantages": "○ Very low base evasion\r\n○ Long initial CD",
+    "Summary": "She is good.",
     "Lookup": "honey badger|honeybadger",
     "Image": null,
     "Extension": {
@@ -5725,9 +5785,9 @@
     "Stars": "★★★★★",
     "Category": "SMG",
     "Time": "0218",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base HP\r\n○ Good tile buff with good coverage\r\n○ Good skill uptime",
+    "Disadvantages": "○ Long initial CD\r\n○ Evasion focus not suitable for general use",
+    "Summary": "She is good.",
     "Lookup": "mp7",
     "Image": null,
     "Extension": {

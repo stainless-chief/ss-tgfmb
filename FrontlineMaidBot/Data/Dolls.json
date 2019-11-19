@@ -1321,14 +1321,54 @@
   },
   {
     "Name": "@bushidopizza",
-    "Alias": null,
+    "Alias": [ "bushidopizza" ],
     "Stars": "🛡",
     "Category": "G&K Commander",
     "Time": null,
     "Advantages": null,
     "Disadvantages": null,
     "Summary": "There are some weird rumors about him and Makarov... ah, nevermind.",
-    "Lookup": "@bushidopizza",
+    "Lookup": "@bushidopizza|bushidopizza",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      }
+    }
+  },
+  {
+    "Name": "@Marcel416",
+    "Alias": [ "Marcel416" ],
+    "Stars": "🛡",
+    "Category": "G&K Commander",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": "That young brat should stop stealing alcohol from north warehouse and finally oath AUG. Or I will leak some intel to MDR and he will become one-day-star at G&K imageboard. ",
+    "Lookup": "@marcel416|marcel416",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      }
+    }
+  },
+  {
+    "Name": "@Rean_Schwarzer",
+    "Alias": [ "Rean_Schwarzer" ],
+    "Stars": "🛡",
+    "Category": "G&K Commander",
+    "Time": null,
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": "Why he was so upset with Springfield's pineapple pizza? She put lots of love in it. And still...",
+    "Lookup": "@rean_schwarzer|rean_schwarzer",
     "Image": null,
     "Extension": {
       "Skill": {

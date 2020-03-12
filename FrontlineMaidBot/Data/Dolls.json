@@ -1,5 +1,25 @@
 [
   {
+    "Name": "NTW-20 (mod 3)",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": null,
+    "Time": null,
+    "Advantages": "○ FP can reach the next level of high\r\n○ Can take out both high priority targets and their escorts",
+    "Disadvantages": "○ Still long initial CD\r\n○ Follow-up shots can miss",
+    "Summary": "She is very nuke.",
+    "Lookup": "ntw-20 (mod 3)|ntw-20(mod3)|ntw20 (mod 3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      }
+    }
+  },
+  {
     "Name": "Galil",
     "Alias": [ "IMI Galil" ],
     "Stars": "☆☆☆★★",
@@ -325,9 +345,9 @@
     "Stars": "☆☆★★★",
     "Category": "AR",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High skill uptime",
+    "Disadvantages": "○ Low base RoF\r\n○ Long initial CD",
+    "Summary": "She is not good.",
     "Lookup": "type 03|type03|qbz-03|qbz03",
     "Image": null,
     "Extension": {
@@ -547,7 +567,7 @@
     "Time": null,
     "Advantages": "○ Great overall stats\r\n○ Can equip 2 accessories",
     "Disadvantages": "○ Has no self-buff to take advantage of her stats\r\n○ High equipment investment ",
-    "Summary": "○ Nade AR with good DPS outside of skill thanks to her great stats spread outside of nade\r\n○ Has 2 accessories slots, further pushing her DPS potential\r\n\r\nShe is ok.",
+    "Summary": "○ Nade AR with good DPS outside of skill thanks to her great stats spread outside of nade\r\n○ Has 2 accessories slots, further pushing her DPS potential\r\n\r\nShe is good against huge crowd of enemies. ",
     "Lookup": "m4 sopmod ii|m4sopmodii|sop|sopdog|sopmod|soppu",
     "Image": null,
     "Extension": {
@@ -585,9 +605,9 @@
     "Stars": "☆★★★★",
     "Category": "AR",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Excellent tile coverage",
+    "Disadvantages": "○ Weaker nade than her competitors\r\n○ Especially long CD for a self-buffer if used at night",
+    "Summary": "She is not good and very drunk.",
     "Lookup": "a-91|a91|a-91m|a91m",
     "Image": null,
     "Extension": {
@@ -725,9 +745,9 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0350",
-    "Advantages": "○ High base FP benefiting her damage buff\r\n○ Very low initial CD with incredible skill uptime\r\n○ Very consistent DPS in long fights",
+    "Advantages": "○ Very low initial CD with incredible skill uptime",
     "Disadvantages": "○ Low base RoF\r\n○ Poor tile placement\r\n○ Weaker multiplier compared to other self-buffers",
-    "Summary": "○ FP self-buff AR with very low initial CD as a tradeoff to having weaker self-buff\r\n○ Poor tile placement\r\n\r\nShe is good.",
+    "Summary": "○ FP self-buff AR with very low initial CD as a tradeoff to having weaker self-buff\r\n○ Poor tile placement\r\n\r\nShe is ok.",
     "Lookup": "type95|type-95|type 95|qbz-95|qbz95",
     "Image": null,
     "Extension": {
@@ -745,9 +765,9 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0350",
-    "Advantages": "○ High base FP synergizing her RoF buff\r\n○ Very low initial CD with incredible skill uptime\r\n○ Very consistent DPS in long fights\r\n○ Good eva tile buff & placement",
-    "Disadvantages": "○ Does not benefit as much from RoF buff",
-    "Summary": "○ RoF self-buff AR with very low initial CD\r\n○ Does not benefit as much from RoF buff\r\nShe is good.",
+    "Advantages": "○ Very low initial CD with incredible skill uptime",
+    "Disadvantages": "○ Falls out of meta due to the prevalence of armors and the existence of new high-performing ARs",
+    "Summary": "○ RoF self-buff AR with very low initial CD\r\n\r\nShe is good if you have SPEQ.",
     "Lookup": "type97|type-97|type 97|qbz-97|qbz97",
     "Image": null,
     "Extension": {
@@ -825,9 +845,9 @@
     "Stars": "★★★★★",
     "Category": "AR",
     "Time": "0404",
-    "Advantages": "○ Unusually high base RoF\r\n○ Overwhelmingly high DPS thanks to her powerful skill\r\n○ Strong FP tile buff\r\n○ Sleepo Beepo;",
+    "Advantages": "○ Sleepo Beepo\r\n○ Unusually high base RoF\r\n○ Overwhelmingly high DPS thanks to her powerful skill\r\n○ Strong FP tile buff\r\n○ Good for corpse dragging 0-2",
     "Disadvantages": "○ Low base FP\r\n○ Long initial CD\r\n○ Not as good against armor due to low FP and skill not directly affective FP stats\r\n○ High skill investment",
-    "Summary": "○ Burst AR with the best DPS in EN thanks to triple shot from skill and amazingly high RoF\r\n○ Low FP and lack of any multiplier makes her very weak against armors\r\n○ Great FP tile buff for off-tank SMGs\r\n\r\nShe is very good.",
+    "Summary": "○ Burst AR with the best DPS in EN thanks to triple shot from skill and amazingly high RoF\r\n○ Low FP and lack of any multiplier makes her very weak against armors\r\n○ Great FP tile buff for off-tank SMGs\r\n○ Requires SL9+ for triple shot\r\n○ Used for 0-2 dragging\r\n\r\nShe is very good.",
     "Lookup": "gr g11|grg11|g11| sleepo beepo|sleepobeepo",
     "Image": null,
     "Extension": {
@@ -1216,6 +1236,26 @@
         "Description": "Attack with both weapons during Assault Focus's activation. The secondary weapon will deal 10% damage, doubled to 20% against targets marked with the Seal of the Avenger.",
         "InitCooldown": 4,
         "Cooldown": 16
+      }
+    }
+  },
+  {
+    "Name": "M4 SOPMOD II (mod 3)",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "AR",
+    "Time": null,
+    "Advantages": "○ Excellent base stats with high crit rate and double scopes\r\n○ Powerful cluster nade for greater AoE coverage",
+    "Disadvantages": "○ Does not always pair well with M4A1 MOD",
+    "Summary": "She is very good and cherry bomb.",
+    "Lookup": "m4 sopmod ii (mod 3)|m4sopmodii(mod3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": null,
+        "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
       }
     }
   },
@@ -1825,9 +1865,9 @@
     "Stars": "☆☆★★★",
     "Category": "HG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good tile coverage\r\n○ Tile can buff off-tank from 4\r\n○ High base HP",
+    "Disadvantages": "○ Low base evasion\r\n○ Lackluster offensive tile buff\r\n○ Tile cannot buff main-tank from 4",
+    "Summary": "○ FP HG with tiles that can reach off-tank from 4\r\n○ Loses out to higher rarity FP HGs like Grizzly and SAA, but is the only FP HG to be able to buff off-tank with tile\r\n\r\nShe is sort os ok. You can core her.",
     "Lookup": "cz52",
     "Image": null,
     "Extension": {
@@ -1867,7 +1907,7 @@
     "Time": null,
     "Advantages": "○ Excellent tile coverage\r\n○ Bonus evasion tile buff capable of hitting both tanks",
     "Disadvantages": "○ Low base evasion\r\n○ Lackluster offensive tile buff\r\n○ Defensive skill not suitable for general usage",
-    "Summary": "She is ok.",
+    "Summary": "She is sort of ok. You can core her.",
     "Lookup": "mp-443|mp443|mp 443|grach",
     "Image": null,
     "Extension": {
@@ -2125,9 +2165,9 @@
     "Stars": "☆★★★★",
     "Category": "HG",
     "Time": null,
-    "Advantages": "○ Quick Initial CD for a HG",
-    "Disadvantages": "○ Skill can miss (Will take aim again)",
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Low initial CD for a HG",
+    "Disadvantages": "○ Awful tile placement\r\n○ Skill can miss (Will take aim again)",
+    "Summary": "She is ok.",
     "Lookup": "thunder",
     "Image": null,
     "Extension": {
@@ -2265,9 +2305,9 @@
     "Stars": "★★★★★",
     "Category": "HG",
     "Time": "0102",
-    "Advantages": "○ Excellent FP tile buff and coverage;\r\n○ Good bonus crit rate tile;\r\n○ Unique skill redirecting ally fire and amplifying all damage taken to target;",
+    "Advantages": "○ Excellent FP tile buff and coverage\r\n○ Good bonus crit rate tile\r\n○ Unique skill redirecting ally fire and amplifying all damage taken to target",
     "Disadvantages": "○ Low base HP\r\n○ Skill not suitable for regular mobbing",
-    "Summary": "○ HG with damage amplifier skill for single target, excellent for bossing\r\n○ Excellent FP tile with bonus crit and full board coverage\r\n○ Low HP\r\n\r\nShe is very good.",
+    "Summary": "○ HG with damage amplifier skill for single target, excellent for bossing\r\n○ Excellent FP tile with bonus crit and full board coverage\r\n○ Low HP\r\n○ Amplifier HG, mainly used in burst team\r\n○ Good against bosses that can be bursted\r\n○ Does not substitute FP HG for general use\r\n\r\nShe is very good.",
     "Lookup": "contender",
     "Image": null,
     "Extension": {
@@ -2354,8 +2394,8 @@
       "Skill": {
         "Name": "Piercing Command",
         "Description": "Increases all allies rate of fire by 20% & critical rate by 20% for 8s.",
-        "InitCooldown": 0,
-        "Cooldown": 0
+        "InitCooldown": 6,
+        "Cooldown": 12
       }
     }
   },
@@ -2445,9 +2485,9 @@
     "Stars": "★★★★★",
     "Category": "HG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Excellent FP tile buff and coverage\r\n○ Good bonus crit rate tile\r\n○ High damage output with proper buffing",
+    "Disadvantages": "○ Poor performance if used improperly\r\n○ Require heavy investment on both herself and her teammates",
+    "Summary": "She is very good.",
     "Lookup": "python",
     "Image": null,
     "Extension": {
@@ -3125,9 +3165,9 @@
     "Stars": "★★★★★",
     "Category": "MG",
     "Time": null,
-    "Advantages": "○ Faster than a slug\r\n○ High base accuracy\r\n○ Great armor tile and coverage",
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base FP\r\n○ High base accuracy\r\n○ Great armor tile",
+    "Disadvantages": "○ 2nd volley skill\r\n○ Unimpactful skill",
+    "Summary": "She is ok",
     "Lookup": "hk21|hmg21",
     "Image": null,
     "Extension": {
@@ -3585,15 +3625,15 @@
     "Stars": "☆☆★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Very high damage per shot (good for basic data sim leaderboard)",
+    "Disadvantages": "○ Fixed rate of fire that is low\r\n○ Prone to overkilling\r\n○ Has to reload and reload time cannot be reduced effectively",
+    "Summary": "She is extremely niche. Not good for general use.",
     "Lookup": "falcon",
     "Image": null,
     "Extension": {
       "Skill": {
         "Name": "Sunset Falcon",
-        "Description": "Passive: Every 1 second, carry out 1 normal attack, consuming 1 normal bullet and dealing 1.5x damage to the furthest enemy. Can store up to 2 normal bullets. Needs to reload when normal bullets run out, reload time can be decreased with higher rate of fire.\r\nActive: Consume 1 special bullet, aim for 2 seconds and deal 2.5x damage to the enemy with the highest HP (able to crit). Passive: Obtain 1 special bullet 6 seconds after battle start, thereafter gain 1 special bullet every 10 seconds. Can store up to 2 special bullets. Increase self damage and accuracy by 18% per special bullet. ",
+        "Description": "Passive: Every 1 second, carry out 1 normal attack, consuming 1 normal bullet and dealing 1.5x damage to the furthest enemy. Can store up to 2 normal bullets. Needs to reload when normal bullets run out, reload time can be decreased with higher rate of fire.\r\n\r\nActive: Consume 1 special bullet, aim for 2 seconds and deal 2.5x damage to the enemy with the highest HP (able to crit). Passive: Obtain 1 special bullet 6 seconds after battle start, thereafter gain 1 special bullet every 10 seconds. Can store up to 2 special bullets. Increase self damage and accuracy by 18% per special bullet. ",
         "InitCooldown": 1,
         "Cooldown": 6
       }
@@ -3826,8 +3866,8 @@
     "Category": "RF",
     "Time": "0425",
     "Advantages": "○ Has a special ammo that boosts her RoF significantly\r\n○ Can bake",
-    "Disadvantages": "○ Low base RoF\r\n○ Reliance on special equip to perform adequately\r\n○ Long initial CD\r\n○ Burst skill not optimal for general usage",
-    "Summary": "○ True ICD is 11.5s\r\n○ Decent base FP\r\n○ Investment heavy\r\n○ 2nd Highest base RoF\r\n○ Can be used in general content after obtaining her special equipment\r\n○ Niche use, requires special equipment for general content\r\n○ Usual partner is Mosin-Nagant\r\n\r\nShe is good.",
+    "Disadvantages": "○ Low base RoF\r\n○ Reliance on special equip to perform adequately\r\n○ Long initial CD\r\n○ Charge shot not optimal for general usage",
+    "Summary": "○ Can be used in general content after obtaining her special equipment\r\n○ Niche use, requires special equipment for general content\r\n\r\nShe is sort of good.",
     "Lookup": "springfield|momfield",
     "Image": null,
     "Extension": {
@@ -4265,9 +4305,9 @@
     "Stars": "★★★★★",
     "Category": "RF",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base FP\r\n○ Good tile formation\r\n○ Low initial CD and high multiplier for a charge shot\r\n○ Skill gains upward 30% additional damage from battle victories",
+    "Disadvantages": "○ Charge shot not optimal for general usage",
+    "Summary": "She is sort of ok.",
     "Lookup": "m82a1",
     "Image": null,
     "Extension": {
@@ -4316,26 +4356,6 @@
         "Description": "Increases SRS damage by 60% and accuracy 40% lasts 5 seconds.",
         "InitCooldown": 6,
         "Cooldown": 8
-      }
-    }
-  },
-  {
-    "Name": "M870",
-    "Alias": null,
-    "Stars": "★★★★★",
-    "Category": "RF",
-    "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
-    "Lookup": "m870",
-    "Image": null,
-    "Extension": {
-      "Skill": {
-        "Name": "Highway to Hell",
-        "Description": "Grants M870 a shield with a Defense value of 1000 points which reduces incoming damage by 100% for 6 seconds. Shield's Defense decays by 100 points (-10% DMG reduction) per second.",
-        "InitCooldown": 10,
-        "Cooldown": 16
       }
     }
   },
@@ -4480,6 +4500,26 @@
     }
   },
   {
+    "Name": "M870",
+    "Alias": null,
+    "Stars": "★★★★★",
+    "Category": "SG",
+    "Time": null,
+    "Advantages": "○ High base HP\r\n○ High armor\r\n○ Good tile buff and coverage\r\n○ Unique decaying force shield capable of nullifying lethal damage if timed right",
+    "Disadvantages": "○ Long initial CD\r\n○ Shield decays quickly\r\n○ Shield's damage reduction is post-armor",
+    "Summary": "She is very good.",
+    "Lookup": "m870",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Highway to Hell",
+        "Description": "Grants M870 a shield with a Defense value of 1000 points which reduces incoming damage by 100% for 6 seconds. Shield's Defense decays by 100 points (-10% DMG reduction) per second.",
+        "InitCooldown": 10,
+        "Cooldown": 16
+      }
+    }
+  },
+  {
     "Name": "Type 97S",
     "Alias": [ "Type-97S" ],
     "Stars": "☆★★★★",
@@ -4585,9 +4625,9 @@
     "Stars": "☆☆★★★",
     "Category": "SG",
     "Time": "0730",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good tile buff and coverage\r\n○ Able to clean up with Burst Impact\r\n○ The only 3★ SG with sensible tile placement",
+    "Disadvantages": "○ Low base HP\r\n○ Long initial CD\r\n○ Low multiplier due to low rarity",
+    "Summary": "She is ok.",
     "Lookup": "m1897",
     "Image": null,
     "Extension": {
@@ -4845,9 +4885,9 @@
     "Stars": "★★★★★",
     "Category": "SG",
     "Time": "0806",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Highest armor among SGs\r\n○ Good tile buff and coverage",
+    "Disadvantages": "○ Long Initial CD\r\n○ Forced tile 9 placement for maximum tile buff effectiveness.\r\n○ Damage reduction is post-armor",
+    "Summary": "She is ok.",
     "Lookup": "fp-6|fp6",
     "Image": null,
     "Extension": {
@@ -4865,9 +4905,9 @@
     "Stars": "★★★★★",
     "Category": "SG",
     "Time": "0805",
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base HP\r\n○ High armor\r\n○ Good tile buff and coverage\r\n○ Able to clean up with her skill",
+    "Disadvantages": "○ Long initial CD",
+    "Summary": "○ SG with strong stats across the board, has good offensive skill that is sure-hit and does not rely on ammo\r\n\r\nShe is good.",
     "Lookup": "saiga-12|saiga12",
     "Image": null,
     "Extension": {
@@ -5525,9 +5565,9 @@
     "Stars": "☆★★★★",
     "Category": "SMG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ Good skill duration",
+    "Disadvantages": "○ Long initial CD\r\n○ Poor skill multiplier and uptime",
+    "Summary": "She is not good.",
     "Lookup": "cx4 storm|cx4storm",
     "Image": null,
     "Extension": {
@@ -5686,8 +5726,8 @@
     "Category": "SMG",
     "Time": "0233",
     "Advantages": "○ High base HP\r\n○ High base FP\r\n○ Excellent tile buff and coverage\r\n○ Unique and devastating self-buff",
-    "Disadvantages": "○ Low base evasion\r\n○ High skill investment\r\n○ High equip investment\r\n○ DPS is tied to the number of dummies still alive",
-    "Summary": "○ Self-buff off-tank\r\n○ Needs a lot of investment\r\n○ Check out her guide in the guide section\r\n○ Not for early game High skill/equip investment\r\n\r\nShe is good.",
+    "Disadvantages": "○ Low base evasion\r\n○ High skill & equip investment\r\n○ DPS is tied to the number of dummies still alive\r\n○ Does not benefit from some stats that help ARs",
+    "Summary": "○ Self-buff off-tank\r\n○ Needs a lot of investment\r\n○ Check out her guide in the guide section\r\n○ Not for early game \r\n○ High skill/equip investment\r\n\r\nShe is very good.",
     "Lookup": "sr-3mp|sr3mp",
     "Image": null,
     "Extension": {
@@ -5785,9 +5825,9 @@
     "Stars": "★★★★★",
     "Category": "SMG",
     "Time": null,
-    "Advantages": null,
-    "Disadvantages": null,
-    "Summary": "I don't really know her.",
+    "Advantages": "○ High base HP\r\n○ Good tile buff and coverage\r\n○ Accessible as CT chapter 2 reward",
+    "Disadvantages": "○ Long initial CD\r\n○ Skill only debuffs single target\r\n○ Poor skill uptime",
+    "Summary": "She is ok.",
     "Lookup": "ak-74u|ak74u",
     "Image": null,
     "Extension": {
@@ -5976,6 +6016,26 @@
         "Description": "Favorite Drink: [Piano Women] - Reduce the negative effects of her skill by 50%.\r\n\r\nPassive: Dorothy will use Nano-camouflage by default if she is in the middle row, otherwise she will use MIRD113. \r\nActive: Toggles between one of two skill effects; *MIRD113: Increase self damage by 100%, reduce the accuracy of allies in the same row by 40% but increase evasion by 80%. *Nano-camouflage: Increase self evasion by 100%, reduce the evasion of allies in the same row by 40% but increase accuracy by 80%.",
         "InitCooldown": 1,
         "Cooldown": 2
+      }
+    }
+  },
+  {
+    "Name": "IDW (mod 3)",
+    "Alias": null,
+    "Stars": "☆★★★★",
+    "Category": "SMG",
+    "Time": null,
+    "Advantages": "○ Even higher base evasion on top of improved first skill",
+    "Disadvantages": "○ Still very low base HP\r\n○ Still awful tile buff\r\n○ Second skill does not improve her role as a main tank",
+    "Summary": "That's... a very weird cat.",
+    "Lookup": "idw (mod 3)|idw(mod3)",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Electro Hijinks",
+        "Description": "Start the battle with 3 charges. Every charge provides 10% rate of fire and 20% damage. One charge is consumed every 2s. IDW refills 3 charges whenever she activates Evasion Focus.",
+        "InitCooldown": 0,
+        "Cooldown": 0
       }
     }
   }

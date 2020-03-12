@@ -1,5 +1,25 @@
 [
   {
+    "Name": "Barrier Fairy",
+    "Alias": null,
+    "Stars": null,
+    "Category": null,
+    "Time": "0415",
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "barrier fairy|barrierfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Armor Fortification",
+        "Description": "[Consumes 3 Support Order]\r\nIn the next battle, grant a HP shield to all allies with armor. Each HP shield can absorb damage up to 150% of the unit's armor. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      }
+    }
+  },
+  {
     "Name": "BM 3-12X40",
     "Alias": null,
     "Stars": "☆☆☆★★",
@@ -1455,7 +1475,7 @@
         "Name": "Battlefield Reaper",
         "Description": "[Consumes 5 Support Order points]\r\nDeploy a rocket launcher at a specified range, if the enemy move within range in two turns, it will deal 20% damage based on it's current HP.\r\nIneffective against bosses.",
         "InitCooldown": 0,
-        "Cooldown": 3
+        "Cooldown": 0
       }
     }
   },
@@ -1475,7 +1495,7 @@
         "Name": "Emergency Fortress",
         "Description": "[Consumes 5 Support Order points]\r\nBuild an unmovable fortress at your Echelon's position. If your Echelon takes battle in this spot will gain a boost in damage, accuracy, evasion, armor and critical hit rate by 30%. ",
         "InitCooldown": 0,
-        "Cooldown": 3
+        "Cooldown": 0
       }
     }
   },
@@ -1674,6 +1694,46 @@
       "Skill": {
         "Name": null,
         "Description": null,
+        "InitCooldown": null,
+        "Cooldown": null
+      }
+    }
+  },
+  {
+    "Name": "Twin Fairy",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "Fairy",
+    "Time": "0440",
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "twin fairy|twinfairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Dual Guardian ",
+        "Description": "[Consumes 3 Support Order]\r\nIn the next battle, summon 2 symbiotic fairy clones with 750 HP. Shield fairy clone has 20 armor and deals 150 damage every 2 seconds to enemies within a radius of 2 units of the nearest enemy. Missile fairy clone has 30 evasion and deals 450 damage every 2 seconds to the furthest enemy. ",
+        "InitCooldown": null,
+        "Cooldown": null
+      }
+    }
+  },
+  {
+    "Name": "Combo Fairy",
+    "Alias": null,
+    "Stars": "☆☆★☆☆",
+    "Category": "Fairy",
+    "Time": "0515",
+    "Advantages": null,
+    "Disadvantages": null,
+    "Summary": null,
+    "Lookup": "combo fairy|combofairy",
+    "Image": null,
+    "Extension": {
+      "Skill": {
+        "Name": "Ultimate Combo",
+        "Description": "[Consumes 2 Support Order]\r\nFor the current turn, the echelon gains 1 stack of \"Combo\" before every battle, up to 3 stacks. [Combo]: At the start of battle, increase damage by 15% and accuracy by 30% for 20 seconds. ",
         "InitCooldown": null,
         "Cooldown": null
       }

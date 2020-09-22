@@ -4,6 +4,7 @@ using FrontlineMaidBot.Generator;
 using FrontlineMaidBot.Interfaces;
 using FrontlineMaidBot.Service;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog;
@@ -17,7 +18,7 @@ namespace FrontlineMaidBot
 
         public IConfiguration Configuration { get; }
 
-        public Startup(Microsoft.AspNetCore.Hosting.IHostingEnvironment env)
+        public Startup(IWebHostEnvironment env)
         {
             Log.Logger = new LoggerConfiguration().WriteTo.File(_logPath).CreateLogger();
 
@@ -29,18 +30,15 @@ namespace FrontlineMaidBot
             Configuration = builder.Build();
         }
 
-        public void Configure(IApplicationBuilder app, Microsoft.AspNetCore.Hosting.IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
         }
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddLogging(configure => configure.AddSerilog());
-
             services.AddHostedService<BotService>();
 
             services.AddScoped<ICommand, AboutCommand>();
-            services.AddScoped<ICommand, FeedbackCommand>();
             services.AddScoped<ICommand, InfoCommand>();
             services.AddScoped<ICommand, IsGoodCommand>();
             services.AddScoped<ICommand, PokeCommand>();

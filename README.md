@@ -1,5 +1,5 @@
 # Tech
-* [.Net Core 2.2](https://dotnet.microsoft.com/download)
+* [.Net Core 3.1](https://dotnet.microsoft.com/download)
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)
 
 ## About
@@ -23,9 +23,6 @@
 
 	'/slap %name%' 
 	Teach someone or something a lesson.
-
-	'/feedback %text%' 
-	Give bug report or suggest improvement. 
 
 	'/help' 
 	Get commands list.

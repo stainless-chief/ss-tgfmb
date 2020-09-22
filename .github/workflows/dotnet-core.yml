@@ -23,9 +23,14 @@ jobs:
       run: dotnet build --configuration Release --no-restore
     - name: Test
       run: dotnet test --no-restore --verbosity normal
-    - uses: "marvinpinto/action-automatic-releases@latest"
+    
+    - name: Checkout the repository
+      uses: actions/checkout@master
+    - name: Generate the artifacts
+      uses: skx/github-action-build@master
+    - name: Upload the artifacts
+      uses: skx/github-action-publish-binaries@master
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "latest"
-          prerelease: true
-          title: "Development Build"
+          args: 'example-*'

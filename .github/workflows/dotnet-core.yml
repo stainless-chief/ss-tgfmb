@@ -21,7 +21,7 @@ jobs:
       run: dotnet restore
       
     - name: Dotnet Publish
-      run: dotnet publish src -c Release -o deploy
+      run: dotnet build --configuration Release --no-restore
 
     - uses: actions/checkout@master
     - name: Archive Release

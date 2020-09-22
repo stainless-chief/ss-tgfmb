@@ -3,7 +3,9 @@
   "",
   "I can give you some help with mobile game Girls' Frontline.",
   "You can see all available commands with /help command.",
-  "All my reference materials are base on: Girls' Frontline Wiki (https://en.gfwiki.com/) and Girls' Frontline Corner (https://www.gflcorner.com/)",
-  "My author telegram contact is @ChiefNoir",
-  "My source code is located at https://github.com/ChiefNoir/FrontlineMaidBot"
+  "All data materials are base on: Girls' Frontline Wiki (https://en.gfwiki.com/) and Girls' Frontline Corner (https://www.gflcorner.com/)",
+  "If you have problems with me, you can contact with my master @ChiefNoir",
+  "My source code is located at https://github.com/ChiefNoir/FrontlineMaidBot",
+  "Fell free to open an issue at https://github.com/ChiefNoir/FrontlineMaidBot/issues",
+  "Or a pull request."
 ]

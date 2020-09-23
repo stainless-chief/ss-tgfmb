@@ -26,17 +26,19 @@ jobs:
     
     - name: Publish
       run: dotnet publish
-
-    #- name: Upload FrontlineMaidBot Build Artifact
-    #  uses: actions/upload-artifact@v2
-    #  with:
-    #    name: FrontlineMaidBot
-    #    path: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/
-    
     
     - name: Create zip
       run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/; zip -r publish.zip .
-      
+
+    - id: make_version_string
+      uses: sandersaares-actions/make-version-string@master
+      with:
+        assemblyInfoPath: src/AssemblyInfo.cs
+    # Then use the version string
+    - uses: sandersaares-actions/expand-tokens@master
+      env:
+        versionstring: ${{ steps.make_version_string.outputs.versionstring }}    
+
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1
@@ -44,7 +46,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: beta
-          release_name: Release-test-beta
+          release_name: ${{ steps.make_version_string.outputs.versionstring }}-beta
           draft: false
           prerelease: false
           

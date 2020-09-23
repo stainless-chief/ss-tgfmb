@@ -31,7 +31,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: FrontlineMaidBot
-        path: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/publish/
+        path: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/
     
 
 

@@ -34,7 +34,7 @@ jobs:
       id: get_version
       uses: chiefnoir/gaction-version-getter@v1
       with:
-        projectPath: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot.csproj
+        projectPath: '/home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot.csproj'
     - name: things
       run: echo "The version is was ${{ steps.get_version.outputs.projectVersion }}"
       

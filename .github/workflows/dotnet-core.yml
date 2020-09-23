@@ -30,15 +30,12 @@ jobs:
     - name: Create zip
       run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/; zip -r publish.zip .
 
-    - id: make_version_string
-      uses: sandersaares-actions/make-version-string@master
+    - name: Generate build number
+      id: buildnumber
+      uses: einaregilsson/build-number@v2 
       with:
-        assemblyInfoPath: src/AssemblyInfo.cs
-    # Then use the version string
-    - uses: sandersaares-actions/expand-tokens@master
-      env:
-        versionstring: ${{ steps.make_version_string.outputs.versionstring }}    
-
+        token: ${{secrets.github_token}}   
+        
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1
@@ -46,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: beta
-          release_name: ${{ steps.make_version_string.outputs.versionstring }}-beta
+          release_name: ${{ steps.buildnumber.outputs.build_number }}-beta
           draft: false
           prerelease: false
           

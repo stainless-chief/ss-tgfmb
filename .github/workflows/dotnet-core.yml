@@ -30,11 +30,6 @@ jobs:
     - name: Create zip
       run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/; zip -r publish.zip .
 
-    - name: Generate build number
-      id: buildnumber
-      uses: einaregilsson/build-number@v2 
-      with:
-        token: ${{secrets.github_token}}   
         
     - name: Create Release
       id: create_release
@@ -43,7 +38,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: beta
-          release_name: FrontlineMaidBot$-{{ steps.buildnumber.outputs.build_number }}-latest
+          release_name: FrontlineMaidBot-latest
           draft: false
           prerelease: false
           

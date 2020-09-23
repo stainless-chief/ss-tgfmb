@@ -27,15 +27,15 @@ jobs:
     - name: Publish
       run: dotnet publish
 
-    - name: Upload FrontlineMaidBot Build Artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: FrontlineMaidBot
-        path: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/
+    #- name: Upload FrontlineMaidBot Build Artifact
+    #  uses: actions/upload-artifact@v2
+    #  with:
+    #    name: FrontlineMaidBot
+    #    path: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/
     
     
     - name: Create zip
-      run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/; zip -r ../test.zip .
+      run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/; zip -r ./test.zip .
       
     - name: Create Release
       id: create_release
@@ -44,7 +44,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: beta
-          release_name: Release ${{ github.ref }} -beta
+          release_name: Release-test-beta
           draft: false
           prerelease: false
     - name: Upload Release Asset
@@ -54,7 +54,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: ../test.zip
+          asset_path: ./test.zip
           asset_name: test.zip
           asset_content_type: application/zip
 

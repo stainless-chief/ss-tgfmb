@@ -43,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: beta
-          release_name: ${{ steps.buildnumber.outputs.build_number }}-beta
+          release_name: FrontlineMaidBot$-{{ steps.buildnumber.outputs.build_number }}-latest
           draft: false
           prerelease: false
           

@@ -30,6 +30,10 @@ jobs:
     - name: Create zip
       run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/; zip -r publish.zip .
 
+    - name: GitVersion
+      id: gitversion  # step id used as reference for output values
+      uses: roryprimrose/rungitversion@v1
+  
     - name: Update project version
       uses: roryprimrose/set-vs-sdk-project-version@v1
       with:

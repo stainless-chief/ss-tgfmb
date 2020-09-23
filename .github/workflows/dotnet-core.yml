@@ -32,7 +32,7 @@ jobs:
 
     - name: Get version
       id: get_version
-      uses: ChiefNoir/gaction-version-getter
+      uses: chiefnoir/gaction-version-getter@v1
       with:
         projectPath: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot.csproj
     - name: things

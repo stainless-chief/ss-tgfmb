@@ -28,7 +28,7 @@ jobs:
       run: dotnet publish
     
     - name: Create zip
-      run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/netcoreapp3.1/publish/; zip -r publish.zip .
+      run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Release/net5.0/publish/; zip -r publish.zip .
 
     - name: Get version
       id: get_version

@@ -28,6 +28,7 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSHKEY }}
+        passphrase: ${{ secrets.PASSPHRASE }}  
         script: systemctl stop kestrel-frontlinemaid.service
 
     - name: Copy file via scp
@@ -37,6 +38,7 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSHKEY }}
+        passphrase: ${{ secrets.PASSPHRASE }} 
       with:
         source: "publish.zip"
         target: "/www/frontline-maid-bot/"

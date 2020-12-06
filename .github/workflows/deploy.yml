@@ -40,14 +40,5 @@ jobs:
         KEY: ${{ secrets.SSHKEY }}
         passphrase: ${{ secrets.PASSPHRASE }} 
       with:
-        source: "publish.zip"
+        source: "/home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/net5.0/publish/publish.zip"
         target: "/www/frontline-maid-bot/"
-
-    - name: Executing remote  command
-      uses: appleboy/ssh-action@master
-      with:
-        host: ${{ secrets.HOST }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PORT: ${{ secrets.PORT }}
-        KEY: ${{ secrets.SSHKEY }}
-        script: sudo systemctl start kestrel-frontline-maid-bot.service

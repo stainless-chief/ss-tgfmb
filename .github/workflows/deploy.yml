@@ -31,7 +31,7 @@ jobs:
         passphrase: ${{ secrets.PASSPHRASE }}  
         script: sudo systemctl stop kestrel-frontline-maid-bot.service
 
-    - name: Clean deploy folder
+    - name: Clean folder
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.HOST }}
@@ -39,7 +39,7 @@ jobs:
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSHKEY }}
         passphrase: ${{ secrets.PASSPHRASE }}  
-        script: rm -r /www/frontline-maid-bot/*
+        script: rm /www/frontline-maid-bot/*
 
     - name: Copy single file to remote
       uses: garygrossgarten/github-action-scp@release

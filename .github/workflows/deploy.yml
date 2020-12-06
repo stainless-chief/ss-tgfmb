@@ -21,7 +21,7 @@ jobs:
     - name: Create zip
       run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/net5.0/publish/; zip -r publish.zip .
 
-    - name: Executing remote  command
+    - name: Stop service
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.HOST }}
@@ -30,6 +30,16 @@ jobs:
         KEY: ${{ secrets.SSHKEY }}
         passphrase: ${{ secrets.PASSPHRASE }}  
         script: sudo systemctl stop kestrel-frontline-maid-bot.service
+
+    - name: Clean deploy folder
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PORT: ${{ secrets.PORT }}
+        KEY: ${{ secrets.SSHKEY }}
+        passphrase: ${{ secrets.PASSPHRASE }}  
+        script: rm -r /www/frontline-maid-bot/*
 
     - name: Copy single file to remote
       uses: garygrossgarten/github-action-scp@release
@@ -41,3 +51,12 @@ jobs:
           privateKey: ${{ secrets.SSHKEY }}
           passphrase: ${{ secrets.PASSPHRASE }} 
           
+    - name: unzip
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PORT: ${{ secrets.PORT }}
+        KEY: ${{ secrets.SSHKEY }}
+        passphrase: ${{ secrets.PASSPHRASE }}  
+        script: unzip /www/frontline-maid-bot/publish.zip; rm /www/frontline-maid-bot/publish.zip;

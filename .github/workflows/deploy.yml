@@ -31,14 +31,13 @@ jobs:
         passphrase: ${{ secrets.PASSPHRASE }}  
         script: sudo systemctl stop kestrel-frontline-maid-bot.service
 
-    - name: Copy file via scp
-      uses: appleboy/scp-action@master
-      env:
-        host: ${{ secrets.HOST }}
-        USERNAME: ${{ secrets.USERNAME }}
-        PORT: ${{ secrets.PORT }}
-        KEY: ${{ secrets.SSHKEY }}
-        passphrase: ${{ secrets.PASSPHRASE }} 
+    - name: Copy single file to remote
+      uses: garygrossgarten/github-action-scp@release
       with:
-        source: "/home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/net5.0/publish/publish.zip"
-        target: "/www/frontline-maid-bot/publish.zip"
+          local: "/home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/net5.0/publish/publish.zip"
+          remote: "/www/frontline-maid-bot/publish.zip"
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          privateKey: ${{ secrets.SSHKEY }}
+          passphrase: ${{ secrets.PASSPHRASE }} 
+          

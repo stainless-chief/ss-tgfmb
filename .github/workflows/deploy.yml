@@ -17,7 +17,14 @@ jobs:
    
     - name: Publish
       run: dotnet publish
-    
+
+    - name: test edit
+      uses: deef0000dragon1/json-edit-action/@v1
+      env:
+          KEY: ApiToken
+          VALUE: testing-testing
+          FILE: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/net5.0/publish/appsettings.json
+          
     - name: Create zip
       run: cd /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/net5.0/publish/; zip -r publish.zip .
 

@@ -39,7 +39,7 @@ jobs:
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSHKEY }}
         passphrase: ${{ secrets.PASSPHRASE }}  
-        script: rm /www/frontline-maid-bot/*
+        script: rm -rf /www/frontline-maid-bot/*
 
     - name: Copy single file to remote
       uses: garygrossgarten/github-action-scp@release
@@ -60,3 +60,13 @@ jobs:
         KEY: ${{ secrets.SSHKEY }}
         passphrase: ${{ secrets.PASSPHRASE }}  
         script: unzip /www/frontline-maid-bot/publish.zip; rm /www/frontline-maid-bot/publish.zip;
+
+    - name: Clean publish
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PORT: ${{ secrets.PORT }}
+        KEY: ${{ secrets.SSHKEY }}
+        passphrase: ${{ secrets.PASSPHRASE }}  
+        script: rm /www/frontline-maid-bot/publish.zip

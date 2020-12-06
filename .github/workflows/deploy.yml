@@ -59,7 +59,7 @@ jobs:
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSHKEY }}
         passphrase: ${{ secrets.PASSPHRASE }}  
-        script: unzip /www/frontline-maid-bot/publish.zip /www/frontline-maid-bot/
+        script: unzip /www/frontline-maid-bot/publish.zip -d /www/frontline-maid-bot/
 
     - name: Clean publish
       uses: appleboy/ssh-action@master

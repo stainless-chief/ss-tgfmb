@@ -18,11 +18,11 @@ jobs:
     - name: Publish
       run: dotnet publish
 
-    - name: test edit
+    - name: Add API key to config
       uses: deef0000dragon1/json-edit-action/@v1
       env:
           KEY: ApiToken
-          VALUE: testing-testing
+          VALUE: ${{ secrets.API_KEY }}
           FILE: /home/runner/work/FrontlineMaidBot/FrontlineMaidBot/FrontlineMaidBot/bin/Debug/net5.0/publish/appsettings.json
           
     - name: Create zip
@@ -77,3 +77,13 @@ jobs:
         KEY: ${{ secrets.SSHKEY }}
         passphrase: ${{ secrets.PASSPHRASE }}  
         script: rm /www/frontline-maid-bot/publish.zip
+
+    - name: Start service
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PORT: ${{ secrets.PORT }}
+        KEY: ${{ secrets.SSHKEY }}
+        passphrase: ${{ secrets.PASSPHRASE }}  
+        script: sudo systemctl start kestrel-frontline-maid-bot.service

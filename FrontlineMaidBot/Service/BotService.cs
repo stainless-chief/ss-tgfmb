@@ -6,7 +6,9 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 using Telegram.Bot;
-using Telegram.Bot.Args;
+using Telegram.Bot.Exceptions;
+using Telegram.Bot.Extensions.Polling;
+using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
 namespace FrontlineMaidBot.Service
@@ -27,14 +29,16 @@ namespace FrontlineMaidBot.Service
             var token = config.GetValue<string>(_configToken);
 
             _botClient = new TelegramBotClient(token);
-            _botClient.OnMessage += OnMessage;
-            _botClient.OnReceiveError += OnReceiveError;
-            _botClient.OnReceiveGeneralError += OnReceiveGeneralError;
         }
 
         public Task StartAsync(CancellationToken cancellationToken)
         {
-            return Task.Run(() => _botClient.StartReceiving());
+            var receiverOptions = new ReceiverOptions
+            {
+                AllowedUpdates = { } // receive all update types
+            };
+
+            return Task.Run(() => _botClient.StartReceiving(HandleUpdateAsync, HandleErrorAsync, receiverOptions), cancellationToken);
         }
 
         public Task StopAsync(CancellationToken cancellationToken)
@@ -43,12 +47,17 @@ namespace FrontlineMaidBot.Service
             throw new NotImplementedException();
         }
 
-        private async void OnMessage(object sender, MessageEventArgs msg)
+        private async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
         {
-            if (msg?.Message?.Chat == null)
+            // Only process Message updates: https://core.telegram.org/bots/api#message
+            if (update.Type != UpdateType.Message)
                 return;
 
-            var response = _messageFactory.CreateResponse(msg?.Message);
+            // Only process text messages
+            if (update.Message!.Type != MessageType.Text)
+                return;
+
+            var response = _messageFactory.CreateResponse(update.Message);
             if (response == null)
                 return;
 
@@ -56,10 +65,10 @@ namespace FrontlineMaidBot.Service
             {
                 await _botClient.SendTextMessageAsync
                     (
-                        msg.Message.Chat.Id,
+                        update.Message.Chat.Id,
                         response,
                         ParseMode.Html,
-                        replyToMessageId: msg.Message.MessageId
+                        replyToMessageId: update.Message.MessageId
                     );
             }
             catch (Exception ee)
@@ -67,16 +76,21 @@ namespace FrontlineMaidBot.Service
                 // bot must not fail
                 _logger.LogError(ee, "OnMessage failed", null);
             }
+
         }
 
-        private void OnReceiveError(object sender, ReceiveErrorEventArgs e)
+        Task HandleErrorAsync(ITelegramBotClient botClient, Exception exception, CancellationToken cancellationToken)
         {
-            _logger.LogError(e.ApiRequestException, "OnReceiveError", null);
+            var ErrorMessage = exception switch
+            {
+                ApiRequestException apiRequestException
+                    => $"Telegram API Error:\n[{apiRequestException.ErrorCode}]\n{apiRequestException.Message}",
+                _ => exception.ToString()
+            };
+
+            Console.WriteLine(ErrorMessage);
+            return Task.CompletedTask;
         }
 
-        private void OnReceiveGeneralError(object sender, ReceiveGeneralErrorEventArgs e)
-        {
-            _logger.LogError(e.Exception, "OnReceiveError", null);
-        }
     }
 }

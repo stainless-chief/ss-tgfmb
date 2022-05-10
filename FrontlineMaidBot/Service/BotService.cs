@@ -74,7 +74,7 @@ namespace FrontlineMaidBot.Service
             catch (Exception ee)
             {
                 // bot must not fail
-                _logger.LogError(ee, "OnMessage failed", null);
+                _logger.LogError(ee, "OnMessage failed");
             }
 
         }

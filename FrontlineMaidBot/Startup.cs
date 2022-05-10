@@ -14,7 +14,7 @@ namespace FrontlineMaidBot
     public class Startup
     {
         //TODO: logging is messy, I should do it properly        
-        private const string _logPath = @"Logs\log.log";
+        private const string _logPath = @"log.log";
 
         public IConfiguration Configuration { get; }
 

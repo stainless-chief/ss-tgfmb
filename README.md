@@ -4,7 +4,7 @@
   The bot is plain and simple: send command, receive result. Nothing fancy.
 
 # Tech
-* [.Net Core 3.1](https://dotnet.microsoft.com/download)
+* [.Net Core 6.0](https://dotnet.microsoft.com/download)
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)
 
 
